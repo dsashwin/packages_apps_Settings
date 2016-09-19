@@ -183,4 +183,8 @@
     <string name="search_apps">Search apps</string>
     <string name="application_icon">Application icon</string>
 
+    <!-- Advanced restart options -->
+    <string name="power_menu_advanced_restart_title">Advanced restart</string>
+    <string name="power_menu_advanced_restart_summary">When unlocked, include options in the power menu for restarting into recovery or bootloader</string>
+
 </resources>
