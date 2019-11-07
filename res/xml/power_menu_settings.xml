@@ -41,9 +41,9 @@
     </PreferenceCategory>
 
     <com.android.settings.custom.preference.SystemSettingSwitchPreference
-        android:key="powermenu_advanced"
-        android:title="@string/power_menu_advanced_restart_title"
-        android:summary="@string/power_menu_advanced_restart_summary"
+        android:key="advanced_reboot"
+        android:title="@string/global_actions_advanced_reboot_title"
+        android:summary="@string/global_actions_advanced_reboot_summary"
         android:defaultValue="false" />
 
     <com.android.settings.widget.LabeledSeekBarPreference
