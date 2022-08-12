@@ -218,6 +218,6 @@
     <string name="unlock_quick_unlock_control_title">Hızlı kilit açma</string>
     <string name="unlock_quick_unlock_control_summary">Doğru PIN/Şifre girildiğinde otomatik olarak kilidi aç</string>
     <!-- Power menu on lockscreen -->
-    <string name="power_menu_hide_on_secure_title">Hide power menu on lock screen</string>
-    <string name="power_menu_hide_on_secure_summary">This will hide the power menu only on a secure lock screen</string>
+    <string name="power_menu_hide_on_secure_title">Kilit ekranında güç menüsünü gizle</string>
+    <string name="power_menu_hide_on_secure_summary">Bu güç menüsünü yalnızca güvenli bir kilit ekranında gizleyecektir</string>
 </resources>
