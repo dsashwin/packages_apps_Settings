@@ -218,6 +218,6 @@
     <string name="unlock_quick_unlock_control_title">Desbloqueio rápido</string>
     <string name="unlock_quick_unlock_control_summary">Desbloquear automaticamente quando o PIN/senha for inserido corretamente</string>
     <!-- Power menu on lockscreen -->
-    <string name="power_menu_hide_on_secure_title">Hide power menu on lock screen</string>
-    <string name="power_menu_hide_on_secure_summary">This will hide the power menu only on a secure lock screen</string>
+    <string name="power_menu_hide_on_secure_title">Desativar o menu de energia na tela de bloqueio</string>
+    <string name="power_menu_hide_on_secure_summary">Esta opção só irá desativar o Menu de Energia na Tela de Bloqueio</string>
 </resources>
