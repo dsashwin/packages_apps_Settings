@@ -218,6 +218,6 @@
     <string name="unlock_quick_unlock_control_title">Deblocare rapidă</string>
     <string name="unlock_quick_unlock_control_summary">Deblochează automat când se introduce codul PIN/parola corectă</string>
     <!-- Power menu on lockscreen -->
-    <string name="power_menu_hide_on_secure_title">Hide power menu on lock screen</string>
-    <string name="power_menu_hide_on_secure_summary">This will hide the power menu only on a secure lock screen</string>
+    <string name="power_menu_hide_on_secure_title">Ascunde meniul de alimentare pe ecranul de blocare</string>
+    <string name="power_menu_hide_on_secure_summary">Această opțiune va ascunde meniul de alimentare doar pe ecranele de blocare securizate</string>
 </resources>
