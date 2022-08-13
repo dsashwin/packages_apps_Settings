@@ -218,6 +218,6 @@
     <string name="unlock_quick_unlock_control_title">Déverrouillage rapide</string>
     <string name="unlock_quick_unlock_control_summary">Déverrouiller automatiquement l\'appareil lorsque le bon code PIN/mot de passe est saisi</string>
     <!-- Power menu on lockscreen -->
-    <string name="power_menu_hide_on_secure_title">Hide power menu on lock screen</string>
-    <string name="power_menu_hide_on_secure_summary">This will hide the power menu only on a secure lock screen</string>
+    <string name="power_menu_hide_on_secure_title">Masquer le menu d\'alimentation sur l\'écran de verrouillage</string>
+    <string name="power_menu_hide_on_secure_summary">Ceci masquera le menu d\'alimentation uniquement sur un écran de verrouillage sécurisé</string>
 </resources>
