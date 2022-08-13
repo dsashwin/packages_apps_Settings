@@ -217,6 +217,6 @@
     <string name="unlock_quick_unlock_control_title">Szybkie odblokowywanie</string>
     <string name="unlock_quick_unlock_control_summary">Odblokuj automatycznie, kiedy zostanie podany prawidłowy PIN/hasło</string>
     <!-- Power menu on lockscreen -->
-    <string name="power_menu_hide_on_secure_title">Hide power menu on lock screen</string>
-    <string name="power_menu_hide_on_secure_summary">This will hide the power menu only on a secure lock screen</string>
+    <string name="power_menu_hide_on_secure_title">Wyłącz menu zasilania, gdy telefon jest zablokowany</string>
+    <string name="power_menu_hide_on_secure_summary">Ta opcja spowoduje wyłączenie menu zasilania tylko na zabezpieczonym ekranie blokady</string>
 </resources>
