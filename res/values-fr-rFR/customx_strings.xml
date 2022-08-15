@@ -108,7 +108,7 @@
     <string name="wifi_hotspot_unblock_client_dialog_text">L\'appareil \"<xliff:g id="device_name">%1$s</xliff:g>\" pourra se connecter à ce point d\'accès</string>
     <string name="wifi_hotspot_client_manager_footer_text">Aucun utilisateur n\'est actuellement disponible. Les appareils connectés et bloqués seront répertoriés ici lorsqu\'ils seront disponibles.</string>
     <!-- Torch Power button gestures -->
-    <string name="torch_power_button_gesture_title">Lampe torche lorsque l\'écran est éteint</string>
+    <string name="torch_power_button_gesture_title">Allumer/éteindre la lampe de poche lorsque l\'écran est éteint</string>
     <string name="torch_power_button_gesture_none">Désactivé</string>
     <string name="torch_power_button_gesture_dt">Double appui sur le bouton d\'alimentation (Désactive l\'ouverture rapide de la caméra et ajoute un délai de réveil de 170 ms)</string>
     <string name="torch_power_button_gesture_lp">Appui long sur le bouton d\'alimentation</string>
