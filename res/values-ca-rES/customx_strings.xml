@@ -17,12 +17,12 @@
     <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
     <!-- LiveDisplay -->
     <string name="live_display_summary">Optimize your screen based on time of day and ambient conditions to improve readability and reduce eyestrain</string>
-    <string name="live_display_mode">Display mode</string>
+    <string name="live_display_mode">Mode de visualització</string>
     <string name="live_display_color_temperature_title">Color temperature</string>
     <string name="live_display_color_temperature_summary">Day: <xliff:g id="day_temperature">%1$d</xliff:g>K  Night: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
-    <string name="live_display_day">Day</string>
-    <string name="live_display_night">Night</string>
+    <string name="live_display_day">Dia</string>
+    <string name="live_display_night">Nit</string>
     <string name="live_display_outdoor_mode_title">Automatic outdoor mode</string>
     <string name="live_display_outdoor_mode_summary">Increase brightness and saturation automatically under bright sunlight</string>
     <string name="live_display_anti_flicker_title">Anti flicker</string>
@@ -36,11 +36,11 @@
     <string name="live_display_color_profile_standard_summary">Accurate colors and bright whites</string>
     <string name="live_display_color_profile_natural_title">Natural</string>
     <string name="live_display_color_profile_natural_summary">Realistic colors and flesh tones</string>
-    <string name="live_display_color_profile_dynamic_title">Dynamic</string>
+    <string name="live_display_color_profile_dynamic_title">Dinàmic</string>
     <string name="live_display_color_profile_dynamic_summary">Enhanced colors and bright whites</string>
     <string name="live_display_color_profile_cinema_title">Cinema</string>
     <string name="live_display_color_profile_cinema_summary">Perfect color reproduction for video</string>
-    <string name="live_display_color_profile_astronomy_title">Astronomy</string>
+    <string name="live_display_color_profile_astronomy_title">Astronomia</string>
     <string name="live_display_color_profile_astronomy_summary">Deep red for preserving night vision</string>
     <string name="live_display_color_profile_photography_title">Photography</string>
     <string name="live_display_color_profile_photography_summary">Perfect color reproduction for photos</string>
@@ -58,15 +58,15 @@
     <string name="live_display_reading_mode_summary">Grayscale mode for long-term reading</string>
     <string name="color_calibration_title">Color calibration</string>
     <string name="color_calibration_summary">Calibrate on-screen colors</string>
-    <string name="color_red_title">Red</string>
-    <string name="color_green_title">Green</string>
-    <string name="color_blue_title">Blue</string>
+    <string name="color_red_title">Vermell</string>
+    <string name="color_green_title">Verd</string>
+    <string name="color_blue_title">Blau</string>
     <!-- LiveDisplay : Picture Adjustment -->
-    <string name="picture_adjustment_title">Picture adjustment</string>
+    <string name="picture_adjustment_title">Ajustament d\'image</string>
     <string name="picture_adjustment_summary">Adjust hue, saturation, intensity, and contrast</string>
     <string name="adj_hue_title">Hue</string>
-    <string name="adj_saturation_title">Saturation</string>
-    <string name="adj_intensity_title">Intensity</string>
+    <string name="adj_saturation_title">Saturació</string>
+    <string name="adj_intensity_title">Intensitat</string>
     <string name="adj_contrast_title">Contrast</string>
     <!-- Navbar options -->
     <string name="navbar_invert_layout_title">Invert Navigation Bar layout</string>
@@ -79,32 +79,32 @@
     <string name="app_notification_sound_timeout_value_30_seconds">30 seconds</string>
     <string name="app_notification_sound_timeout_value_1_minute">1 minute</string>
     <string name="app_notification_sound_timeout_value_5_minutes">5 minutes</string>
-    <string name="app_notification_sound_timeout_value_15_minutes">10 minutes</string>
-    <string name="app_notification_sound_timeout_value_30_minutes">30 minutes</string>
+    <string name="app_notification_sound_timeout_value_15_minutes">10 minuts</string>
+    <string name="app_notification_sound_timeout_value_30_minutes">30 minuts</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">Tap to sleep</string>
     <string name="double_tap_sleep_gesture_summary">Double-tap anywhere on the status bar to put the device to sleep</string>
     <!--Double Tap to Sleep Lockscreen-->
-    <string name="lockscreen_tweaks_category_title">What to do</string>
+    <string name="lockscreen_tweaks_category_title">Què fer</string>
     <string name="double_tap_sleep_lockscreen_title">Double tap to sleep on lockscreen</string>
     <!-- Volume rocker music control -->
-    <string name="volume_button_music_control_title">Playback control</string>
+    <string name="volume_button_music_control_title">Control de reproducció</string>
     <string name="volume_button_music_control_summary">When the screen is off, long-pressing the volume keys will skip music tracks</string>
     <!-- Hotspot extras -->
-    <string name="tethering_allow_vpn_upstreams_title">Allow clients to use VPNs</string>
-    <string name="tethering_allow_vpn_upstreams_summary">Permit hotspot clients to use this device\u2019s VPN connections for upstream connectivity</string>
-    <string name="wifi_hotspot_hidden_ssid_title">Hidden network</string>
+    <string name="tethering_allow_vpn_upstreams_title">Permet als clients utilitzar VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Permet que els clients del punt d\'accés utilitzin les connexions VPN d\'aquest dispositiu per a la connexió de pujada</string>
+    <string name="wifi_hotspot_hidden_ssid_title">Xarxa oculta</string>
     <string name="wifi_hotspot_hidden_ssid_summary">Your mobile hotspot\'s name won\'t appear in the list of available WLAN networks.</string>
     <string name="wifi_hotspot_auto_off_timeout_never">Never turn off hotspot</string>
-    <string name="wifi_hotspot_client_manager_title">Connected devices</string>
+    <string name="wifi_hotspot_client_manager_title">Dispositius connectats</string>
     <string name="wifi_hotspot_client_manager_summary">List and manage devices connected to the hotspot</string>
     <string name="wifi_hotspot_client_manager_list_only_summary">List devices connected to the hotspot</string>
     <string name="wifi_hotspot_client_limit_title">Limit of connected devices</string>
-    <string name="wifi_hotspot_blocked_clients_list_title">Blocked Devices</string>
-    <string name="wifi_hotspot_connected_clients_list_title">Connected Devices</string>
-    <string name="wifi_hotspot_block_client_dialog_title">Block device</string>
+    <string name="wifi_hotspot_blocked_clients_list_title">Dispositius bloquejats</string>
+    <string name="wifi_hotspot_connected_clients_list_title">Dispositius connectats</string>
+    <string name="wifi_hotspot_block_client_dialog_title">Bloquejar el dispositiu</string>
     <string name="wifi_hotspot_block_client_dialog_text">This action will disconnect \"<xliff:g id="device_name">%1$s</xliff:g>\" from this device and add it to blocklist</string>
-    <string name="wifi_hotspot_unblock_client_dialog_title">Unblock device</string>
+    <string name="wifi_hotspot_unblock_client_dialog_title">Desbloqueja el dispositiu</string>
     <string name="wifi_hotspot_unblock_client_dialog_text">The device \"<xliff:g id="device_name">%1$s</xliff:g>\" will be able to connect to this hotspot</string>
     <string name="wifi_hotspot_client_manager_footer_text">No clients are currently available. Connected and blocked devices will be listed here when available.</string>
     <!-- Torch Power button gestures -->
@@ -116,13 +116,13 @@
     <string name="auto_brightness_one_shot_title">One shot auto-brightness</string>
     <string name="auto_brightness_one_shot_summary">Brightness adjustment will only occur at the moment the screen is turned on</string>
     <!-- App lock -->
-    <string name="app_lock_title">App lock</string>
-    <string name="app_lock_summary_singular">1 application is protected</string>
+    <string name="app_lock_title">Bloqueig de l\'aplicació</string>
+    <string name="app_lock_summary_singular">1 aplicació protegida</string>
     <string name="app_lock_summary_plural"><xliff:g example="2" id="Number of applications">%1$d</xliff:g> applications are protected</string>
     <string name="app_lock_authentication_dialog_title">Unlock to continue</string>
-    <string name="app_lock_packages_title">Protected apps</string>
+    <string name="app_lock_packages_title">Aplicacions protegides</string>
     <string name="app_lock_packages_summary">Select the apps to protect with biometrics or device credentials</string>
-    <string name="app_lock_timeout_title">Auto lock timeout</string>
+    <string name="app_lock_timeout_title">Temps de bloqueig automàtic</string>
     <string name="app_lock_timeout_summary">Duration of time after which an unlocked app in background should be locked</string>
     <string name="app_lock_notifications_title">Collapse notifications</string>
     <string name="app_lock_notifications_summary">          Notification content will be hidden and collapsed for selected apps when they are locked.
@@ -131,7 +131,7 @@
     <string name="app_lock_notifications_disabled_summary">Protect an application first</string>
     <string name="app_lock_footer_text">Bubbles will be automatically dismissed after timeout</string>
     <string name="search">Search</string>
-    <string name="search_apps">Search apps</string>
+    <string name="search_apps">Cerca aplicacions</string>
     <!-- Screen setting option title for the item to take you to the stock security screen -->
     <string name="aosp_security_settings_title">Stock lock options</string>
     <!-- Screen setting option summary text for the item tot ake you to the stock security and location screen -->
