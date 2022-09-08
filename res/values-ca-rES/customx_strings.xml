@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Package details -->
-    <string name="package_details_group_title">Package details</string>
-    <string name="package_name">Package name</string>
-    <string name="package_version">Package version</string>
+    <string name="package_details_group_title">Informació del paquet</string>
+    <string name="package_name">Nom del paquet</string>
+    <string name="package_version">Versió del paquet</string>
     <string name="package_version_text"><xliff:g id="version_num">%1$s</xliff:g></string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
-    <string name="duration_less_than_one_minute">Less than 1 minute</string>
+    <string name="duration_less_than_one_minute">Menys d\'un minut</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
-    <string name="screen_time_summary_usage_today">%1$s today</string>
+    <string name="screen_time_summary_usage_today">%1$s avui</string>
     <!-- Volume link notification -->
-    <string name="ring_only_volume_option_title">Ring volume</string>
-    <string name="volume_link_notification_title">Link ring &amp; notification volumes</string>
+    <string name="ring_only_volume_option_title">Volum del to de trucada</string>
+    <string name="volume_link_notification_title">Vincula el to de trucada i el volum de notificació</string>
     <!-- Three-fingers-swipe to screenshot -->
     <string name="three_finger_gesture">Swipe to screenshot</string>
     <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
