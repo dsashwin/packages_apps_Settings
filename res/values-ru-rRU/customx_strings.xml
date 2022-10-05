@@ -207,7 +207,7 @@
     <string name="app_volume_summary">Изменение громкости для отдельных приложений</string>
     <!-- Ignore window secure -->
     <string name="ignore_window_secure_title">Игнорировать флаги безопасности</string>
-    <string name="ignore_window_secure_summary">Remove screenshot and screenrecord limits for all apps. This can be convenient in some cases but may lead to privacy leaks.</string>
+    <string name="ignore_window_secure_summary">Снимите ограничения на скриншоты и записи экрана для всех приложений. В некоторых случаях это может быть удобно, но может привести к утечке конфиденциальной информации.</string>
     <!-- Data usage info in QS footer -->
     <string name="qs_footer_datausage_title">Ежедневное использование данных в колонтитуле быстрых настроек</string>
     <string name="qs_footer_datausage_summary">Отображение сводки об использовании данных в нижнем колонтитуле быстрых настроек</string>
