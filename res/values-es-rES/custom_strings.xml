@@ -15,13 +15,13 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- String for removal of sensitive info on about, depending on tap -->
-    <string name="device_info_protected_single_press">Toca para mostrar información</string>
+    <string name="device_info_protected_single_press">Toque para mostrar información</string>
     <!-- Manage applications, package string displayed in app snippet -->
     <string name="packagename_text"><xliff:g id="package_name">%1$s</xliff:g></string>
     <!-- Warning message displayed if user choses not to validate the EAP server -->
-    <string name="wifi_do_not_validate_eap_server_warning">Ningún certificado especificado. Su conexión no será privada.</string>
+    <string name="wifi_do_not_validate_eap_server_warning">No se ha especificado ningún certificado. La conexión no será privada.</string>
     <!-- Swipe to screenshot -->
-    <string name="swipe_to_screenshot_title">Desliza para capturar la pantalla</string>
+    <string name="swipe_to_screenshot_title">Deslice para capturar la pantalla</string>
     <string name="swipe_to_screenshot_summary">Deslice 3 dedos hacia abajo para capturar la pantalla</string>
     <!-- Status bar Icon Manager -->
     <string name="icon_manager_title">Gestor de iconos</string>
@@ -29,16 +29,16 @@
     <!-- Preference and settings suggestion title text for screen off UDFPS  (device) [CHAR LIMIT=60]-->
     <string name="ambient_display_screen_off_udfps_title">Mantén presionado el sensor de huella digital para desbloquear el dispositivo</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">Para despertar la pantalla y desbloquear, mantén pulsado el sensor de huella.</string>
+    <string name="ambient_display_screen_off_udfps_summary">Mantén pulsado el sensor de huella dactilar para encender la pantalla y desbloquear el dispositivo.</string>
     <!-- Fingerprint wake-and-unlock -->
     <string name="fingerprint_wake_unlock_title">Usa la huella digital para desbloquear</string>
     <string name="fingerprint_wake_unlock_touch">A la escucha de eventos con pantalla apagada</string>
-    <string name="fingerprint_wake_unlock_press">Solo detecta actividad cuando la pantalla esté encendida</string>
+    <string name="fingerprint_wake_unlock_press">Detectar eventos solo con pantalla encendida</string>
     <!-- Battery light -->
     <string name="battery_light_title">Encender el indicador LED cuando el dispositivo se esté cargando</string>
     <!-- Notch: Full screen apps -->
-    <string name="display_cutout_force_fullscreen_title">Aplicaciones en pantalla completa</string>
-    <string name="display_cutout_force_fullscreen_summary">Forzar que las apps ignoren el espacio del notch</string>
+    <string name="display_cutout_force_fullscreen_title">Aplicaciones a pantalla completa</string>
+    <string name="display_cutout_force_fullscreen_summary">Forzar aplicaciones a ignorar el espacio del notch</string>
     <string name="search">Buscar</string>
     <string name="search_apps">Buscar aplicaciones</string>
     <!-- DT2S on statusbar-->
@@ -46,7 +46,7 @@
     <string name="double_tap_sleep_gesture_summary">Toque dos veces en la barra de estado para apagar la pantalla del dispositivo</string>
     <!-- Torch Power button gestures -->
     <string name="power_button_torch_title">Linterna</string>
-    <string name="power_button_torch_summary">Cuando la pantalla esté apagada, pulsación larga del botón de encendido para activar la linterna </string>
+    <string name="power_button_torch_summary">Cuando la pantalla esté apagada, mantener presionado el botón de encendido activará la linterna</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
     <string name="duration_less_than_one_minute">Menos de 1 minuto</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
@@ -60,7 +60,7 @@
     <string name="incall_vibrate_call_wait_title">Vibrar en llamada en espera</string>
     <string name="incall_vibrate_disconnect_title">Vibrar al colgar</string>
     <!-- Volume link notification -->
-    <string name="volume_link_notification_title">Vincular volumen de tono &amp; volumen de notificaciones</string>
+    <string name="volume_link_notification_title">Vincular volumen de tono y notificaciones</string>
     <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Alta sensibilidad táctil</string>
     <string name="high_touch_sensitivity_summary">Aumentar la sensibilidad táctil para usar el dispositivo con guantes</string>
@@ -75,7 +75,7 @@
     <string name="live_display_mode">Modo de pantalla</string>
     <string name="live_display_color_temperature_title">Temperatura de color</string>
     <string name="live_display_color_temperature_summary">Día: <xliff:g id="day_temperature">%1$d</xliff:g>K Noche: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
-    <string name="live_display_color_temperature_label"><xliff:g id="grados">%1$d</xliff:g>K</string>
+    <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
     <string name="live_display_day">Día</string>
     <string name="live_display_night">Noche</string>
     <string name="live_display_outdoor_mode_title">Modo exterior automático</string>
@@ -83,7 +83,7 @@
     <string name="live_display_anti_flicker_title">Anti parpadeo</string>
     <string name="live_display_anti_flicker_summary">Evita el parpadeo y reduce la tensión de los ojos en condiciones de poca luz. Esto puede degradar la precisión del color y afectar la manera en la que se muestran algunos elementos.</string>
     <string name="live_display_low_power_title">Reducir el consumo de energía</string>
-    <string name="live_display_low_power_summary">Ajustar pantalla para el menor consumo sin degradar</string>
+    <string name="live_display_low_power_summary">Ajustar la pantalla al mínimo consumo de energía sin degradación</string>
     <string name="live_display_enhance_color_title">Mejorar colores</string>
     <string name="live_display_enhance_color_summary">Mejora la intensidad del color en tonos de piel, paisajes y otras imágenes</string>
     <string name="live_display_color_profile_title">Perfil de color</string>
@@ -126,10 +126,10 @@
     <!-- Doze on double tap -->
     <string name="double_tap_title">Doble toque</string>
     <string name="doze_double_tap_title">Doble toque para comprobar el teléfono</string>
-    <string name="doze_double_tap_summary">Notificaciones de pulso por doble toque</string>
+    <string name="doze_double_tap_summary">Despertar pantalla con un doble toque para comprobar las notificaciones</string>
     <!-- Volume rocker music control -->
     <string name="volume_button_music_control_title">Control de reproducción</string>
-    <string name="volume_button_music_control_summary">Cuando la pantalla esté apagada, mantener presionado los botones de volumen se saltará o retrocederá canciones</string>
+    <string name="volume_button_music_control_summary">Cuando la pantalla esté apagada, mantener presionado los botones de volumen cambiará de canción</string>
     <!-- Global Actions -->
     <string name="global_actions_advanced_reboot_title">Activar reinicio avanzado</string>
     <string name="global_actions_advanced_reboot_summary">Mostrar opciones para modo de recuperación y gestor de arranque en el menú de apagado</string>
