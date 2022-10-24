@@ -138,7 +138,7 @@
     <string name="unlock_scramble_pin_layout_summary">Disposición aleatoria de PIN al desbloquear el dispositivo</string>
     <!-- Hotspot VPN -->
     <string name="tethering_allow_vpn_upstreams_title">Permitir a los clientes usar VPN</string>
-    <string name="tethering_allow_vpn_upstreams_summary">Permitir a los clientes de hotspot usar las conexiones VPN de este dispositivo\u2019 para conectividad de subida</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Permitir a los clientes del punto de acceso usar las conexiones VPN de este dispositivo\u2019 para conectividad de subida</string>
     <!-- Ignore window secure -->
     <string name="ignore_window_secure_title">Ignorar la restricción de captura de pantalla</string>
     <string name="ignore_window_secure_summary">Eliminar los límites de captura de pantalla y grabación de pantalla para todas las aplicaciones. Esto puede ser conveniente en algunos casos, pero puede llevar a fugas de privacidad.</string>
@@ -171,7 +171,7 @@
     <!-- Immersive Navigation -->
     <string name="gesture_navbar_category_title">Barra de navegación</string>
     <string name="immersive_navigation_title">Navegación inmersiva</string>
-    <string name="immersive_navigation_summary">Ocultar la píldora de gestos y el relleno de barra de navegación.</string>
+    <string name="immersive_navigation_summary">Ocultar la barra de gestos y el relleno de la barra de navegación.</string>
     <!-- General -->
     <string name="copied_to_clipboard">Copiado al portapapeles</string>
     <string name="longpress_to_clipboard">Mantén pulsado para copiar</string>
