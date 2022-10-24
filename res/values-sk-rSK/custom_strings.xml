@@ -15,164 +15,164 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- String for removal of sensitive info on about, depending on tap -->
-    <string name="device_info_protected_single_press">Tap to show info</string>
+    <string name="device_info_protected_single_press">Ťuknutím zobrazíte informácie</string>
     <!-- Manage applications, package string displayed in app snippet -->
     <string name="packagename_text"><xliff:g id="package_name">%1$s</xliff:g></string>
     <!-- Warning message displayed if user choses not to validate the EAP server -->
-    <string name="wifi_do_not_validate_eap_server_warning">No certificate specified. Your connection will not be private.</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Nie je určený žiadny certifikát. Pripojenie nebude súkromné.</string>
     <!-- Swipe to screenshot -->
-    <string name="swipe_to_screenshot_title">Swipe to screenshot</string>
-    <string name="swipe_to_screenshot_summary">Swipe 3 fingers down the screen to take a screenshot</string>
+    <string name="swipe_to_screenshot_title">Potiahnutím urobiť snímku obrazovky</string>
+    <string name="swipe_to_screenshot_summary">Pre vytvorenie snímky obrazovky potiahnite tromi prstami nadol</string>
     <!-- Status bar Icon Manager -->
-    <string name="icon_manager_title">Icon manager</string>
-    <string name="icon_manager_summary">Control visibility of status bar icons</string>
+    <string name="icon_manager_title">Správca ikon</string>
+    <string name="icon_manager_summary">Ovládať viditeľnosť ikon stavového riadku</string>
     <!-- Preference and settings suggestion title text for screen off UDFPS  (device) [CHAR LIMIT=60]-->
-    <string name="ambient_display_screen_off_udfps_title">Long press on fingerprint sensor to unlock device</string>
+    <string name="ambient_display_screen_off_udfps_title">Dlhým stlačením snímača odtlačkov prstov odomknúť zariadenie</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">To wake up your screen and unlock, long press your under-display fingerprint sensor.</string>
+    <string name="ambient_display_screen_off_udfps_summary">Ak chcete prebudiť obrazovku a odomknúť, dlho stlačte snímač odtlačkov prstov v displeji.</string>
     <!-- Fingerprint wake-and-unlock -->
-    <string name="fingerprint_wake_unlock_title">Touch fingerprint to unlock</string>
-    <string name="fingerprint_wake_unlock_touch">Listens for events while the screen is off</string>
-    <string name="fingerprint_wake_unlock_press">Only listens for events once the screen is on</string>
+    <string name="fingerprint_wake_unlock_title">Odomknúť použitím odtlačku prstu</string>
+    <string name="fingerprint_wake_unlock_touch">Načúva udalostiam keď je obrazovka vypnutá</string>
+    <string name="fingerprint_wake_unlock_press">Načúva udalostiam iba keď je obrazovka zapnutá</string>
     <!-- Battery light -->
-    <string name="battery_light_title">Turn on the light when charging</string>
+    <string name="battery_light_title">Rozsvieti pri nabíjaní</string>
     <!-- Notch: Full screen apps -->
-    <string name="display_cutout_force_fullscreen_title">Full screen apps</string>
-    <string name="display_cutout_force_fullscreen_summary">Force apps to ignore notch space</string>
-    <string name="search">Search</string>
-    <string name="search_apps">Search apps</string>
+    <string name="display_cutout_force_fullscreen_title">Aplikácie na celú obrazovku</string>
+    <string name="display_cutout_force_fullscreen_summary">Prinútiť aplikácie ignorovať výrez</string>
+    <string name="search">Hľadať</string>
+    <string name="search_apps">Hľadať aplikácie</string>
     <!-- DT2S on statusbar-->
-    <string name="double_tap_sleep_gesture_title">Tap to sleep</string>
-    <string name="double_tap_sleep_gesture_summary">Double-tap anywhere on the status bar to put the device to sleep</string>
+    <string name="double_tap_sleep_gesture_title">Klepnutím uspať</string>
+    <string name="double_tap_sleep_gesture_summary">Uspať zariadene dvojitým poklepaním kdekoľvek na stavový riadok</string>
     <!-- Torch Power button gestures -->
-    <string name="power_button_torch_title">Quick torch</string>
+    <string name="power_button_torch_title">Rýchla baterka</string>
     <string name="power_button_torch_summary">When the screen is off, long-pressing power button will enable torch</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
-    <string name="duration_less_than_one_minute">Less than 1 minute</string>
+    <string name="duration_less_than_one_minute">Menej ako 1 minúta</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
-    <string name="screen_time_summary_usage_today">%1$s today</string>
+    <string name="screen_time_summary_usage_today">Dnes %1$s</string>
     <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">Annoying Notifications</string>
-    <string name="notification_sound_vib_screen_on_summary">Play sound and vibration for notifications when screen is on</string>
+    <string name="notification_sound_vib_screen_on_title">Otravné oznámenia</string>
+    <string name="notification_sound_vib_screen_on_summary">Prehrať zvuk a vibrácie pre upozornenia, keď je obrazovka zapnutá</string>
     <!-- Incall vibrate options -->
-    <string name="incall_vibration_category">In-call vibration options</string>
-    <string name="incall_vibrate_connect_title">Vibrate on connect</string>
-    <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-    <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
+    <string name="incall_vibration_category">Možnosti vibrácií pri hovore</string>
+    <string name="incall_vibrate_connect_title">Vibrovať pri pripojení</string>
+    <string name="incall_vibrate_call_wait_title">Vibrovať pri čakajúcom hovore</string>
+    <string name="incall_vibrate_disconnect_title">Vibrovať pri odpojení</string>
     <!-- Volume link notification -->
-    <string name="volume_link_notification_title">Link ring &amp; notification volumes</string>
+    <string name="volume_link_notification_title">Spojiť hlasitosť zvonenia a upozornení</string>
     <!-- High touch sensitivity -->
-    <string name="high_touch_sensitivity_title">High touch sensitivity</string>
-    <string name="high_touch_sensitivity_summary">Increase touchscreen sensitivity so it can be used while wearing gloves</string>
+    <string name="high_touch_sensitivity_title">Vysoká citlivosť na dotyk</string>
+    <string name="high_touch_sensitivity_summary">Zvýšiť citlivosť dotykovej obrazovky, takže ju bude možné používať pri nosení rukavíc</string>
     <!-- Touchscreen hovering -->
-    <string name="touchscreen_hovering_title">Touchscreen hovering</string>
-    <string name="touchscreen_hovering_summary">Allows you to hover the screen like a mouse in web browsers, remote desktops, etc</string>
+    <string name="touchscreen_hovering_title">Pohyb nad dotykovou obrazovkou</string>
+    <string name="touchscreen_hovering_summary">Pohybovať sa nad obrazovkou podobne, ako myš vo webovom prehliadači, vzdialenej ploche, atď</string>
     <!-- High touch polling rate -->
-    <string name="high_touch_polling_rate_title">High touch polling rate</string>
-    <string name="high_touch_polling_rate_summary">Increase touchscreen polling rate</string>
+    <string name="high_touch_polling_rate_title">Vysoká vzorkovacia frekvencia pre dotyk</string>
+    <string name="high_touch_polling_rate_summary">Zvýšenie vzorkovacej frekvencie dotykovej obrazovky</string>
     <!-- LiveDisplay -->
-    <string name="live_display_summary">Optimize your screen based on time of day and ambient conditions to improve readability and reduce eyestrain</string>
-    <string name="live_display_mode">Display mode</string>
-    <string name="live_display_color_temperature_title">Color temperature</string>
-    <string name="live_display_color_temperature_summary">Day: <xliff:g id="day_temperature">%1$d</xliff:g>K  Night: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
+    <string name="live_display_summary">Optimalizovať vašu obrazovku na základe dennej doby a podmienok okolia na zlepšenie čitateľnosti a zníženia únavy očí</string>
+    <string name="live_display_mode">Režim zobrazenia</string>
+    <string name="live_display_color_temperature_title">Teplota farieb</string>
+    <string name="live_display_color_temperature_summary">Deň: <xliff:g id="day_temperature">%1$d</xliff:g>K  Noc: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
-    <string name="live_display_day">Day</string>
-    <string name="live_display_night">Night</string>
-    <string name="live_display_outdoor_mode_title">Automatic outdoor mode</string>
-    <string name="live_display_outdoor_mode_summary">Increase brightness and saturation automatically under bright sunlight</string>
-    <string name="live_display_anti_flicker_title">Anti flicker</string>
-    <string name="live_display_anti_flicker_summary">Prevent extensive flickering and reduce eye strain in low light conditions. It might degrade color accuracy and affect the way some items are displayed.</string>
-    <string name="live_display_low_power_title">Reduce power consumption</string>
-    <string name="live_display_low_power_summary">Adjust display for lowest power consumption without degradation</string>
-    <string name="live_display_enhance_color_title">Enhance colors</string>
-    <string name="live_display_enhance_color_summary">Improve color vibrance of flesh tones, scenery, and other images</string>
-    <string name="live_display_color_profile_title">Color profile</string>
-    <string name="live_display_color_profile_standard_title">Standard</string>
-    <string name="live_display_color_profile_standard_summary">Accurate colors and bright whites</string>
-    <string name="live_display_color_profile_natural_title">Natural</string>
-    <string name="live_display_color_profile_natural_summary">Realistic colors and flesh tones</string>
-    <string name="live_display_color_profile_dynamic_title">Dynamic</string>
-    <string name="live_display_color_profile_dynamic_summary">Enhanced colors and bright whites</string>
-    <string name="live_display_color_profile_cinema_title">Cinema</string>
-    <string name="live_display_color_profile_cinema_summary">Perfect color reproduction for video</string>
-    <string name="live_display_color_profile_astronomy_title">Astronomy</string>
-    <string name="live_display_color_profile_astronomy_summary">Deep red for preserving night vision</string>
-    <string name="live_display_color_profile_photography_title">Photography</string>
-    <string name="live_display_color_profile_photography_summary">Perfect color reproduction for photos</string>
-    <string name="live_display_color_profile_basic_title">Basic</string>
-    <string name="live_display_color_profile_basic_summary">Use the display uncalibrated</string>
-    <string name="live_display_color_profile_adaptive_title">Adaptive</string>
-    <string name="live_display_color_profile_adaptive_summary">Colors adapt to ambient conditions</string>
-    <string name="live_display_color_profile_reading_title">Reading</string>
-    <string name="live_display_color_profile_reading_summary">Warmer colors for less eye strain</string>
+    <string name="live_display_day">Deň</string>
+    <string name="live_display_night">Noc</string>
+    <string name="live_display_outdoor_mode_title">Automatický režim vonku</string>
+    <string name="live_display_outdoor_mode_summary">Automaticky zvýšiť jas a sýtosť za jasného slnečného svetla</string>
+    <string name="live_display_anti_flicker_title">Eliminácia blikania</string>
+    <string name="live_display_anti_flicker_summary">Zabrániť rozsiahlemu blikaniu a znížiť námahu očí v slabých svetelných podmienkach. Môže degradovať presnosť farieb a ovplyvniť zobrazenie niektorých položiek.</string>
+    <string name="live_display_low_power_title">Znížiť spotrebu energie</string>
+    <string name="live_display_low_power_summary">Nastaviť zobrazenie pre najnižšiu spotrebu energie bez zhoršenia čitateľnosti</string>
+    <string name="live_display_enhance_color_title">Vylepšiť farby</string>
+    <string name="live_display_enhance_color_summary">Zlepšiť živosť farieb pleťových odtieňov, scenérie a ďalších obrázkov</string>
+    <string name="live_display_color_profile_title">Farebný profil</string>
+    <string name="live_display_color_profile_standard_title">Štandardný</string>
+    <string name="live_display_color_profile_standard_summary">Presné farby a jasná biela</string>
+    <string name="live_display_color_profile_natural_title">Prirodzený</string>
+    <string name="live_display_color_profile_natural_summary">Realistické farby a telové tóny</string>
+    <string name="live_display_color_profile_dynamic_title">Dynamický</string>
+    <string name="live_display_color_profile_dynamic_summary">Vylepšené farby a jasná biela</string>
+    <string name="live_display_color_profile_cinema_title">Kino</string>
+    <string name="live_display_color_profile_cinema_summary">Dokonalá farebná reprodukcia pre video</string>
+    <string name="live_display_color_profile_astronomy_title">Astronómia</string>
+    <string name="live_display_color_profile_astronomy_summary">Tmavo červená pre zachovanie nočného videnia</string>
+    <string name="live_display_color_profile_photography_title">Fotografia</string>
+    <string name="live_display_color_profile_photography_summary">Dokonalá farebná reprodukcia pre fotografie</string>
+    <string name="live_display_color_profile_basic_title">Základný</string>
+    <string name="live_display_color_profile_basic_summary">Použiť nekalibrovaný displej</string>
+    <string name="live_display_color_profile_adaptive_title">Adaptívny</string>
+    <string name="live_display_color_profile_adaptive_summary">Prispôsobiť farby okolitým podmienkam</string>
+    <string name="live_display_color_profile_reading_title">Čítanie</string>
+    <string name="live_display_color_profile_reading_summary">Teplejšie farby pre menšie namáhanie očí</string>
     <string name="live_display_color_profile_srgb_title">sRGB</string>
-    <string name="live_display_color_profile_srgb_summary">Colors accurate to the sRGB color space</string>
+    <string name="live_display_color_profile_srgb_summary">Farby sú identické s farebným priestorom sRGB</string>
     <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
-    <string name="live_display_color_profile_dci_p3_summary">Colors accurate to the DCI-P3 color space</string>
-    <string name="live_display_reading_mode_title">Reading mode</string>
-    <string name="live_display_reading_mode_summary">Grayscale mode for long-term reading</string>
-    <string name="color_calibration_title">Color calibration</string>
-    <string name="color_calibration_summary">Calibrate on-screen colors</string>
-    <string name="color_red_title">Red</string>
-    <string name="color_green_title">Green</string>
-    <string name="color_blue_title">Blue</string>
+    <string name="live_display_color_profile_dci_p3_summary">Farby sú identické s farebným priestorom DCI-P3</string>
+    <string name="live_display_reading_mode_title">Režim čítania</string>
+    <string name="live_display_reading_mode_summary">Režim odtieňov šedej pre dlhodobé čítanie</string>
+    <string name="color_calibration_title">Kalibrácia farieb</string>
+    <string name="color_calibration_summary">Kalibrovať farby na obrazovke</string>
+    <string name="color_red_title">Červená</string>
+    <string name="color_green_title">Zelená</string>
+    <string name="color_blue_title">Modrá</string>
     <!-- LiveDisplay : Picture Adjustment -->
-    <string name="picture_adjustment_title">Picture adjustment</string>
-    <string name="picture_adjustment_summary">Adjust hue, saturation, intensity, and contrast</string>
-    <string name="adj_hue_title">Hue</string>
-    <string name="adj_saturation_title">Saturation</string>
-    <string name="adj_intensity_title">Intensity</string>
-    <string name="adj_contrast_title">Contrast</string>
+    <string name="picture_adjustment_title">Prispôsobenie obrazu</string>
+    <string name="picture_adjustment_summary">Upraviť odtieň, sýtosť, intenzitu a kontrast</string>
+    <string name="adj_hue_title">Odtieň</string>
+    <string name="adj_saturation_title">Saturácia</string>
+    <string name="adj_intensity_title">Intenzita</string>
+    <string name="adj_contrast_title">Kontrast</string>
     <!-- Doze on double tap -->
-    <string name="double_tap_title">Double tap</string>
-    <string name="doze_double_tap_title">Double tap to check phone</string>
-    <string name="doze_double_tap_summary">Pulse notifications by a double tap</string>
+    <string name="double_tap_title">Dvojité poklepanie</string>
+    <string name="doze_double_tap_title">Kontrola telefónu dvojitým klepnutím</string>
+    <string name="doze_double_tap_summary">Pulzovať upozornenia dvojitým klepnutím</string>
     <!-- Volume rocker music control -->
-    <string name="volume_button_music_control_title">Playback control</string>
-    <string name="volume_button_music_control_summary">When the screen is off, long-pressing the volume keys will skip music tracks</string>
+    <string name="volume_button_music_control_title">Ovládanie prehrávania</string>
+    <string name="volume_button_music_control_summary">Keď je vypnutá obrazovka, dlhým stlačením tlačidiel pre ovládanie hlasitosti možno prepínať skladby</string>
     <!-- Global Actions -->
-    <string name="global_actions_advanced_reboot_title">Enable advanced restart</string>
-    <string name="global_actions_advanced_reboot_summary">Show options for recovery and bootloader in power menu</string>
+    <string name="global_actions_advanced_reboot_title">Povoliť rozšírený reštart</string>
+    <string name="global_actions_advanced_reboot_summary">V ponuke napájania zobrazte možnosti režimu recovery a bootloadera</string>
     <!-- Scramble pin -->
-    <string name="unlock_scramble_pin_layout_title">Scramble layout</string>
-    <string name="unlock_scramble_pin_layout_summary">Scramble PIN layout when unlocking device</string>
+    <string name="unlock_scramble_pin_layout_title">Pomiešať rozloženie</string>
+    <string name="unlock_scramble_pin_layout_summary">Pomiešať rozloženie kláves pre zadanie kódu PIN pri odomykaní zariadenia</string>
     <!-- Hotspot VPN -->
-    <string name="tethering_allow_vpn_upstreams_title">Allow clients to use VPNs</string>
-    <string name="tethering_allow_vpn_upstreams_summary">Permit hotspot clients to use this device\u2019s VPN connections for upstream connectivity</string>
+    <string name="tethering_allow_vpn_upstreams_title">Povoliť klientom používanie VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Povoliť klientom hotspotu používať pripojenie VPN tohto zariadenia pre všetku konektivitu</string>
     <!-- Ignore window secure -->
-    <string name="ignore_window_secure_title">Ignore window secure flags</string>
-    <string name="ignore_window_secure_summary">Remove screenshot and screenrecord limits for all apps. This can be convenient in some cases but may lead to privacy leaks.</string>
+    <string name="ignore_window_secure_title">Ignorovať príznaky zabezpečenia okien</string>
+    <string name="ignore_window_secure_summary">Odstránenie obmedzení pre snímky obrazovky a záznamy obrazovky pre všetky aplikácie. V niektorých prípadoch to môže byť vhodné, ale môže to viesť k úniku súkromia.</string>
     <!-- Quick unlock -->
-    <string name="unlock_quick_unlock_control_title">Quick unlock</string>
-    <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
+    <string name="unlock_quick_unlock_control_title">Rýchle odomknutie</string>
+    <string name="unlock_quick_unlock_control_summary">Odomknúť automaticky po zadaní správneho PIN kódu alebo hesla</string>
     <!-- Per-app volume control -->
-    <string name="app_volume">App volume</string>
-    <string name="app_volume_title">Per-app volume control</string>
-    <string name="app_volume_summary">Allow to set different volume levels for each app</string>
+    <string name="app_volume">Hlasitosť aplikácie</string>
+    <string name="app_volume_title">Ovládanie hlasitosti podľa aplikácie</string>
+    <string name="app_volume_summary">Umožňuje nastaviť rôzne úrovne hlasitosti pre každú aplikáciu</string>
     <!-- Fingerprint Ripple Effect -->
-    <string name="enable_fingerprint_ripple_effect_title">Ripple effect</string>
-    <string name="enable_fingerprint_ripple_effect_summary">Show ripple effect on unlock with fingerprint</string>
+    <string name="enable_fingerprint_ripple_effect_title">Efekt zvlnenia</string>
+    <string name="enable_fingerprint_ripple_effect_summary">Zobraziť efekt zvlnenia pri odomknutí zariadenia pomocou odtlačku prsta</string>
     <!-- Max refresh rate -->
-    <string name="max_refresh_rate_title">Peak refresh rate</string>
+    <string name="max_refresh_rate_title">Špičková obnovovacia frekvencia</string>
     <!-- Min refresh rate -->
-    <string name="min_refresh_rate_title">Minimum refresh rate</string>
+    <string name="min_refresh_rate_title">Minimálna obnovovacia frekvencia</string>
     <!-- Display settings screen, peak refresh rate settings summary [CHAR LIMIT=NONE] -->
-    <string name="peak_refresh_rate_summary_custom">Automatically raises the refresh rate from 60 to %1$d Hz for some content. Increases battery usage.</string>
+    <string name="peak_refresh_rate_summary_custom">Automaticky zvyšuje frekvenciu obnovenia zo 60 na %1$d Hz pre určitý obsah. Zvýši sa spotreba batérie.</string>
     <!-- Notification sound timeout -->
-    <string name="app_notification_sound_timeout_title">Minimum time between notification sounds</string>
-    <string name="app_notification_sound_timeout_summary_template">Allow sounds or vibration no more than once every <xliff:g id="duration">%1$s</xliff:g></string>
-    <string name="app_notification_sound_timeout_value_none">No restriction</string>
-    <string name="app_notification_sound_timeout_value_10_seconds">10 seconds</string>
-    <string name="app_notification_sound_timeout_value_30_seconds">30 seconds</string>
-    <string name="app_notification_sound_timeout_value_1_minute">1 minute</string>
-    <string name="app_notification_sound_timeout_value_5_minutes">5 minutes</string>
-    <string name="app_notification_sound_timeout_value_15_minutes">10 minutes</string>
-    <string name="app_notification_sound_timeout_value_30_minutes">30 minutes</string>
+    <string name="app_notification_sound_timeout_title">Minimálny čas medzi zvukmi upozornenia</string>
+    <string name="app_notification_sound_timeout_summary_template">Povoliť zvuky alebo vibrácie nie viac ako raz za <xliff:g id="duration">%1$s </xliff:g></string>
+    <string name="app_notification_sound_timeout_value_none">Bez obmedzení</string>
+    <string name="app_notification_sound_timeout_value_10_seconds">10 sekúnd</string>
+    <string name="app_notification_sound_timeout_value_30_seconds">30 sekúnd</string>
+    <string name="app_notification_sound_timeout_value_1_minute">1 minúta</string>
+    <string name="app_notification_sound_timeout_value_5_minutes">5 minút</string>
+    <string name="app_notification_sound_timeout_value_15_minutes">10 minút</string>
+    <string name="app_notification_sound_timeout_value_30_minutes">30 minút</string>
     <!-- Immersive Navigation -->
-    <string name="gesture_navbar_category_title">Navigation bar</string>
+    <string name="gesture_navbar_category_title">Navigačný panel</string>
     <string name="immersive_navigation_title">Immersive Navigation</string>
     <string name="immersive_navigation_summary">Hide the gesture pill and navigation bar padding.</string>
     <!-- General -->
-    <string name="copied_to_clipboard">Copied to clipboard</string>
-    <string name="longpress_to_clipboard">Long-press to copy</string>
+    <string name="copied_to_clipboard">Skopírované do schránky</string>
+    <string name="longpress_to_clipboard">Dlhým stlačením skopírujete</string>
 </resources>
