@@ -15,58 +15,58 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- String for removal of sensitive info on about, depending on tap -->
-    <string name="device_info_protected_single_press">Tap to show info</string>
+    <string name="device_info_protected_single_press">Appuyez pour afficher les informations</string>
     <!-- Manage applications, package string displayed in app snippet -->
     <string name="packagename_text"><xliff:g id="package_name">%1$s</xliff:g></string>
     <!-- Warning message displayed if user choses not to validate the EAP server -->
-    <string name="wifi_do_not_validate_eap_server_warning">No certificate specified. Your connection will not be private.</string>
+    <string name="wifi_do_not_validate_eap_server_warning">Aucun certificat indiqué. Votre connexion ne sera pas privée.</string>
     <!-- Swipe to screenshot -->
-    <string name="swipe_to_screenshot_title">Swipe to screenshot</string>
-    <string name="swipe_to_screenshot_summary">Swipe 3 fingers down the screen to take a screenshot</string>
+    <string name="swipe_to_screenshot_title">Balayer pour prendre une capture d\'écran</string>
+    <string name="swipe_to_screenshot_summary">Balayez vers le bas avec trois doigts pour prendre une capture d’écran</string>
     <!-- Status bar Icon Manager -->
-    <string name="icon_manager_title">Icon manager</string>
-    <string name="icon_manager_summary">Control visibility of status bar icons</string>
+    <string name="icon_manager_title">Gestionnaire d\'icônes</string>
+    <string name="icon_manager_summary">Contrôle de la visibilité des icônes de la barre d\'état</string>
     <!-- Preference and settings suggestion title text for screen off UDFPS  (device) [CHAR LIMIT=60]-->
-    <string name="ambient_display_screen_off_udfps_title">Long press on fingerprint sensor to unlock device</string>
+    <string name="ambient_display_screen_off_udfps_title">Appui long sur le capteur d\'empreintes pour déverrouiller l\'appareil</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">To wake up your screen and unlock, long press your under-display fingerprint sensor.</string>
+    <string name="ambient_display_screen_off_udfps_summary">Pour réveiller et déverrouiller l\'appareil, appuyez longuement sur le capteur d\'empreintes sous l\'écran.</string>
     <!-- Fingerprint wake-and-unlock -->
-    <string name="fingerprint_wake_unlock_title">Touch fingerprint to unlock</string>
-    <string name="fingerprint_wake_unlock_touch">Listens for events while the screen is off</string>
-    <string name="fingerprint_wake_unlock_press">Only listens for events once the screen is on</string>
+    <string name="fingerprint_wake_unlock_title">Touchez le lecteur d\'empreinte digitale pour déverrouiller</string>
+    <string name="fingerprint_wake_unlock_touch">Écouter les événements lorsque l\'écran est éteint</string>
+    <string name="fingerprint_wake_unlock_press">Écouter uniquement les événements lorsque l\'écran est allumé</string>
     <!-- Battery light -->
-    <string name="battery_light_title">Turn on the light when charging</string>
+    <string name="battery_light_title">Allumer la LED pendant la charge</string>
     <!-- Notch: Full screen apps -->
-    <string name="display_cutout_force_fullscreen_title">Full screen apps</string>
-    <string name="display_cutout_force_fullscreen_summary">Force apps to ignore notch space</string>
-    <string name="search">Search</string>
-    <string name="search_apps">Search apps</string>
+    <string name="display_cutout_force_fullscreen_title">Applications en plein écran</string>
+    <string name="display_cutout_force_fullscreen_summary">Forcer les applications à ignorer l\'encoche</string>
+    <string name="search">Rechercher</string>
+    <string name="search_apps">Rechercher des applications</string>
     <!-- DT2S on statusbar-->
-    <string name="double_tap_sleep_gesture_title">Tap to sleep</string>
-    <string name="double_tap_sleep_gesture_summary">Double-tap anywhere on the status bar to put the device to sleep</string>
+    <string name="double_tap_sleep_gesture_title">Appuyer pour mettre en veille</string>
+    <string name="double_tap_sleep_gesture_summary">Appuyez deux fois n\'importe où sur la barre d\'état pour mettre l\'appareil en veille</string>
     <!-- Torch Power button gestures -->
-    <string name="power_button_torch_title">Quick torch</string>
-    <string name="power_button_torch_summary">When the screen is off, long-pressing power button will enable torch</string>
+    <string name="power_button_torch_title">Lampe de poche rapide</string>
+    <string name="power_button_torch_summary">Lorsque l\'écran est éteint, un appui long sur le bouton d\'alimentation activera la lampe de poche</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
-    <string name="duration_less_than_one_minute">Less than 1 minute</string>
+    <string name="duration_less_than_one_minute">Moins d\'une minute</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
-    <string name="screen_time_summary_usage_today">%1$s today</string>
+    <string name="screen_time_summary_usage_today">%1$s aujourd\'hui</string>
     <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">Annoying Notifications</string>
-    <string name="notification_sound_vib_screen_on_summary">Play sound and vibration for notifications when screen is on</string>
+    <string name="notification_sound_vib_screen_on_title">Notifications gênantes</string>
+    <string name="notification_sound_vib_screen_on_summary">Emettre un son et une vibration pour les notifications lorsque l\'écran est allumé</string>
     <!-- Incall vibrate options -->
-    <string name="incall_vibration_category">In-call vibration options</string>
-    <string name="incall_vibrate_connect_title">Vibrate on connect</string>
-    <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-    <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
+    <string name="incall_vibration_category">Options de vibration appel entrant</string>
+    <string name="incall_vibrate_connect_title">Vibrer lorsque la connexion est établie</string>
+    <string name="incall_vibrate_call_wait_title">Vibrer lors d\'un appel en attente</string>
+    <string name="incall_vibrate_disconnect_title">Vibrer lors de la fin de l\'appel</string>
     <!-- Volume link notification -->
-    <string name="volume_link_notification_title">Link ring &amp; notification volumes</string>
+    <string name="volume_link_notification_title">Lier les volumes de la sonnerie &amp; des notifications</string>
     <!-- High touch sensitivity -->
-    <string name="high_touch_sensitivity_title">High touch sensitivity</string>
-    <string name="high_touch_sensitivity_summary">Increase touchscreen sensitivity so it can be used while wearing gloves</string>
+    <string name="high_touch_sensitivity_title">Sensibilité tactile élevée</string>
+    <string name="high_touch_sensitivity_summary">Augmenter la sensibilité de l\'écran tactile pour qu\'il puisse être utilisé avec des gants</string>
     <!-- Touchscreen hovering -->
-    <string name="touchscreen_hovering_title">Touchscreen hovering</string>
-    <string name="touchscreen_hovering_summary">Allows you to hover the screen like a mouse in web browsers, remote desktops, etc</string>
+    <string name="touchscreen_hovering_title">Survol de l\'écran tactile</string>
+    <string name="touchscreen_hovering_summary">Permet de survoler l\'écran comme avec une souris dans les navigateurs web, les bureaux à distance, etc</string>
     <!-- High touch polling rate -->
     <string name="high_touch_polling_rate_title">Taux de rafraîchissement élevé</string>
     <string name="high_touch_polling_rate_summary">Augmenter le taux de rafraîchissement de l\'écran</string>
@@ -103,76 +103,76 @@
     <string name="live_display_color_profile_basic_summary">Utiliser l\'affichage non calibré</string>
     <string name="live_display_color_profile_adaptive_title">Adaptatif</string>
     <string name="live_display_color_profile_adaptive_summary">Les couleurs s\'adaptent aux conditions ambiantes</string>
-    <string name="live_display_color_profile_reading_title">Reading</string>
-    <string name="live_display_color_profile_reading_summary">Warmer colors for less eye strain</string>
+    <string name="live_display_color_profile_reading_title">Lecture</string>
+    <string name="live_display_color_profile_reading_summary">Couleurs plus chaudes pour diminuer la fatigue oculaire</string>
     <string name="live_display_color_profile_srgb_title">sRGB</string>
-    <string name="live_display_color_profile_srgb_summary">Colors accurate to the sRGB color space</string>
+    <string name="live_display_color_profile_srgb_summary">Couleurs fidèles à l’espace colorimétrique sRGB</string>
     <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
-    <string name="live_display_color_profile_dci_p3_summary">Colors accurate to the DCI-P3 color space</string>
-    <string name="live_display_reading_mode_title">Reading mode</string>
-    <string name="live_display_reading_mode_summary">Grayscale mode for long-term reading</string>
-    <string name="color_calibration_title">Color calibration</string>
-    <string name="color_calibration_summary">Calibrate on-screen colors</string>
-    <string name="color_red_title">Red</string>
-    <string name="color_green_title">Green</string>
-    <string name="color_blue_title">Blue</string>
+    <string name="live_display_color_profile_dci_p3_summary">Couleurs fidèles à l’espace colorimétrique DCI-P3</string>
+    <string name="live_display_reading_mode_title">Mode Lecture</string>
+    <string name="live_display_reading_mode_summary">Mode niveaux de gris pour la lecture prolongée</string>
+    <string name="color_calibration_title">Calibrage des couleurs</string>
+    <string name="color_calibration_summary">Calibrer les couleurs de l\'écran</string>
+    <string name="color_red_title">Rouge</string>
+    <string name="color_green_title">Vert</string>
+    <string name="color_blue_title">Bleu</string>
     <!-- LiveDisplay : Picture Adjustment -->
-    <string name="picture_adjustment_title">Picture adjustment</string>
-    <string name="picture_adjustment_summary">Adjust hue, saturation, intensity, and contrast</string>
-    <string name="adj_hue_title">Hue</string>
+    <string name="picture_adjustment_title">Ajustement de l\'image</string>
+    <string name="picture_adjustment_summary">Ajustement de la teinte, la saturation, l\'intensité et le contraste</string>
+    <string name="adj_hue_title">Teinte</string>
     <string name="adj_saturation_title">Saturation</string>
-    <string name="adj_intensity_title">Intensity</string>
-    <string name="adj_contrast_title">Contrast</string>
+    <string name="adj_intensity_title">Intensité</string>
+    <string name="adj_contrast_title">Contraste</string>
     <!-- Doze on double tap -->
-    <string name="double_tap_title">Double tap</string>
-    <string name="doze_double_tap_title">Double tap to check phone</string>
-    <string name="doze_double_tap_summary">Pulse notifications by a double tap</string>
+    <string name="double_tap_title">Appui double</string>
+    <string name="doze_double_tap_title">Appuyez deux fois pour vérifier le téléphone</string>
+    <string name="doze_double_tap_summary">Notification par impulsion lumineuse lors d\'un appui double</string>
     <!-- Volume rocker music control -->
-    <string name="volume_button_music_control_title">Playback control</string>
-    <string name="volume_button_music_control_summary">When the screen is off, long-pressing the volume keys will skip music tracks</string>
+    <string name="volume_button_music_control_title">Contrôle du lecteur de musique</string>
+    <string name="volume_button_music_control_summary">Lorsque l\'écran est éteint, un appui long sur les boutons de volume permet de passer des pistes musicales</string>
     <!-- Global Actions -->
-    <string name="global_actions_advanced_reboot_title">Enable advanced restart</string>
-    <string name="global_actions_advanced_reboot_summary">Show options for recovery and bootloader in power menu</string>
+    <string name="global_actions_advanced_reboot_title">Activer le redémarrage avancé</string>
+    <string name="global_actions_advanced_reboot_summary">Afficher les options pour le mode recovery et le mode bootloader dans le menu d\'alimentation</string>
     <!-- Scramble pin -->
-    <string name="unlock_scramble_pin_layout_title">Scramble layout</string>
-    <string name="unlock_scramble_pin_layout_summary">Scramble PIN layout when unlocking device</string>
+    <string name="unlock_scramble_pin_layout_title">Disposition aléatoire</string>
+    <string name="unlock_scramble_pin_layout_summary">Mélanger la disposition des chiffres de saisie du code PIN lors du déverrouillage</string>
     <!-- Hotspot VPN -->
-    <string name="tethering_allow_vpn_upstreams_title">Allow clients to use VPNs</string>
-    <string name="tethering_allow_vpn_upstreams_summary">Permit hotspot clients to use this device\u2019s VPN connections for upstream connectivity</string>
+    <string name="tethering_allow_vpn_upstreams_title">Autoriser les utilisateurs à utiliser les connections VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Permettre aux utilisateurs du point d\'accès d\'utiliser les connexions VPN de l\'appareil \u2019 pour la connectivité sortante</string>
     <!-- Ignore window secure -->
-    <string name="ignore_window_secure_title">Ignore window secure flags</string>
-    <string name="ignore_window_secure_summary">Remove screenshot and screenrecord limits for all apps. This can be convenient in some cases but may lead to privacy leaks.</string>
+    <string name="ignore_window_secure_title">Ignorer les fenêtres d\'indication de sécurité</string>
+    <string name="ignore_window_secure_summary">Supprimer les limites de capture d\'écran et d\'enregistrement d\'écran pour toutes les applications. Cela peut être pratique dans certains cas, mais peut entraîner des fuites de confidentialité.</string>
     <!-- Quick unlock -->
-    <string name="unlock_quick_unlock_control_title">Quick unlock</string>
-    <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
+    <string name="unlock_quick_unlock_control_title">Déverrouillage rapide</string>
+    <string name="unlock_quick_unlock_control_summary">Déverrouiller automatiquement l\'appareil lorsque le bon code PIN/mot de passe est saisi</string>
     <!-- Per-app volume control -->
-    <string name="app_volume">App volume</string>
-    <string name="app_volume_title">Per-app volume control</string>
-    <string name="app_volume_summary">Allow to set different volume levels for each app</string>
+    <string name="app_volume">Volume par application</string>
+    <string name="app_volume_title">Contrôle du volume par application</string>
+    <string name="app_volume_summary">Permettre de définir différents niveaux de volume pour chaque application</string>
     <!-- Fingerprint Ripple Effect -->
-    <string name="enable_fingerprint_ripple_effect_title">Ripple effect</string>
-    <string name="enable_fingerprint_ripple_effect_summary">Show ripple effect on unlock with fingerprint</string>
+    <string name="enable_fingerprint_ripple_effect_title">Effet d\'ondulation</string>
+    <string name="enable_fingerprint_ripple_effect_summary">Afficher l\'effet d\'ondulation en déverrouillant avec l\'empreinte digitale</string>
     <!-- Max refresh rate -->
-    <string name="max_refresh_rate_title">Peak refresh rate</string>
+    <string name="max_refresh_rate_title">Taux de rafraîchissement maxi</string>
     <!-- Min refresh rate -->
-    <string name="min_refresh_rate_title">Minimum refresh rate</string>
+    <string name="min_refresh_rate_title">Taux de rafraîchissement minimum</string>
     <!-- Display settings screen, peak refresh rate settings summary [CHAR LIMIT=NONE] -->
-    <string name="peak_refresh_rate_summary_custom">Automatically raises the refresh rate from 60 to %1$d Hz for some content. Increases battery usage.</string>
+    <string name="peak_refresh_rate_summary_custom">Augmente automatiquement le taux de rafraîchissement de 60 à %1$d Hz pour certains contenus. Accroît l\'utilisation de la batterie.</string>
     <!-- Notification sound timeout -->
-    <string name="app_notification_sound_timeout_title">Minimum time between notification sounds</string>
-    <string name="app_notification_sound_timeout_summary_template">Allow sounds or vibration no more than once every <xliff:g id="duration">%1$s</xliff:g></string>
-    <string name="app_notification_sound_timeout_value_none">No restriction</string>
-    <string name="app_notification_sound_timeout_value_10_seconds">10 seconds</string>
-    <string name="app_notification_sound_timeout_value_30_seconds">30 seconds</string>
+    <string name="app_notification_sound_timeout_title">Délai minimum entre les sons des notifications</string>
+    <string name="app_notification_sound_timeout_summary_template">Permettre des sons ou des vibrations pas plus d’une fois chaque <xliff:g id="duration">%1$s</xliff:g></string>
+    <string name="app_notification_sound_timeout_value_none">Pas de restriction</string>
+    <string name="app_notification_sound_timeout_value_10_seconds">10 secondes</string>
+    <string name="app_notification_sound_timeout_value_30_seconds">30 secondes</string>
     <string name="app_notification_sound_timeout_value_1_minute">1 minute</string>
     <string name="app_notification_sound_timeout_value_5_minutes">5 minutes</string>
     <string name="app_notification_sound_timeout_value_15_minutes">10 minutes</string>
     <string name="app_notification_sound_timeout_value_30_minutes">30 minutes</string>
     <!-- Immersive Navigation -->
-    <string name="gesture_navbar_category_title">Navigation bar</string>
-    <string name="immersive_navigation_title">Immersive Navigation</string>
+    <string name="gesture_navbar_category_title">Barre de navigation</string>
+    <string name="immersive_navigation_title">Navigation Immersive</string>
     <string name="immersive_navigation_summary">Hide the gesture pill and navigation bar padding.</string>
     <!-- General -->
-    <string name="copied_to_clipboard">Copied to clipboard</string>
-    <string name="longpress_to_clipboard">Long-press to copy</string>
+    <string name="copied_to_clipboard">Copié dans le presse-papier</string>
+    <string name="longpress_to_clipboard">Appui long pour copier</string>
 </resources>
