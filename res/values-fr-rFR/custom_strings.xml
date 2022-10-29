@@ -171,7 +171,7 @@
     <!-- Immersive Navigation -->
     <string name="gesture_navbar_category_title">Barre de navigation</string>
     <string name="immersive_navigation_title">Navigation Immersive</string>
-    <string name="immersive_navigation_summary">Hide the gesture pill and navigation bar padding.</string>
+    <string name="immersive_navigation_summary">Masquer la pilule gestuelle et le remplissage de la barre de navigation.</string>
     <!-- General -->
     <string name="copied_to_clipboard">Copié dans le presse-papier</string>
     <string name="longpress_to_clipboard">Appui long pour copier</string>
