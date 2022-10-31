@@ -156,8 +156,6 @@
     <string name="max_refresh_rate_title">最高刷新率</string>
     <!-- Min refresh rate -->
     <string name="min_refresh_rate_title">最低刷新率</string>
-    <!-- Display settings screen, peak refresh rate settings summary [CHAR LIMIT=NONE] -->
-    <string name="peak_refresh_rate_summary_custom">自动将某些内容的刷新频率从 60 Hz 调高到 %1$d Hz。这么做会增加耗电量。</string>
     <!-- Notification sound timeout -->
     <string name="app_notification_sound_timeout_title">通知提示音间隔时间</string>
     <string name="app_notification_sound_timeout_summary_template">每 <xliff:g id="duration">%1$s</xliff:g> 允许响铃或振动一次</string>
@@ -175,4 +173,8 @@
     <!-- General -->
     <string name="copied_to_clipboard">已复制到剪贴板</string>
     <string name="longpress_to_clipboard">长按复制</string>
+    <!-- Advanced sound settings -->
+    <string name="sound_settings_advanced_title">Additional Settings</string>
+    <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
+    <string name="category_name_refresh_rate_controls">Refresh Rate</string>
 </resources>
