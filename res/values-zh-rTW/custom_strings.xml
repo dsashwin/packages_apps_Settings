@@ -174,7 +174,7 @@
     <string name="copied_to_clipboard">已複製到剪貼簿</string>
     <string name="longpress_to_clipboard">長按複製</string>
     <!-- Advanced sound settings -->
-    <string name="sound_settings_advanced_title">Additional Settings</string>
+    <string name="sound_settings_advanced_title">其他設定</string>
     <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
     <string name="category_name_refresh_rate_controls">Refresh Rate</string>
 </resources>
