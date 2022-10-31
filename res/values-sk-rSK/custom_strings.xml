@@ -156,8 +156,6 @@
     <string name="max_refresh_rate_title">Špičková obnovovacia frekvencia</string>
     <!-- Min refresh rate -->
     <string name="min_refresh_rate_title">Minimálna obnovovacia frekvencia</string>
-    <!-- Display settings screen, peak refresh rate settings summary [CHAR LIMIT=NONE] -->
-    <string name="peak_refresh_rate_summary_custom">Automaticky zvyšuje frekvenciu obnovenia zo 60 na %1$d Hz pre určitý obsah. Zvýši sa spotreba batérie.</string>
     <!-- Notification sound timeout -->
     <string name="app_notification_sound_timeout_title">Minimálny čas medzi zvukmi upozornenia</string>
     <string name="app_notification_sound_timeout_summary_template">Povoliť zvuky alebo vibrácie nie viac ako raz za <xliff:g id="duration">%1$s </xliff:g></string>
@@ -175,4 +173,8 @@
     <!-- General -->
     <string name="copied_to_clipboard">Skopírované do schránky</string>
     <string name="longpress_to_clipboard">Dlhým stlačením skopírujete</string>
+    <!-- Advanced sound settings -->
+    <string name="sound_settings_advanced_title">Additional Settings</string>
+    <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
+    <string name="category_name_refresh_rate_controls">Refresh Rate</string>
 </resources>
