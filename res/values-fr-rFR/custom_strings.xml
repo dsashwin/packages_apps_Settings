@@ -174,7 +174,7 @@
     <string name="copied_to_clipboard">Copié dans le presse-papier</string>
     <string name="longpress_to_clipboard">Appui long pour copier</string>
     <!-- Advanced sound settings -->
-    <string name="sound_settings_advanced_title">Additional Settings</string>
+    <string name="sound_settings_advanced_title">Paramètres supplémentaires</string>
     <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
-    <string name="category_name_refresh_rate_controls">Refresh Rate</string>
+    <string name="category_name_refresh_rate_controls">Taux de raffraichissement</string>
 </resources>
