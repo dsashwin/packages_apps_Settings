@@ -156,8 +156,6 @@
     <string name="max_refresh_rate_title">Taxa de atualização máxima</string>
     <!-- Min refresh rate -->
     <string name="min_refresh_rate_title">Taxa mínima de atualização</string>
-    <!-- Display settings screen, peak refresh rate settings summary [CHAR LIMIT=NONE] -->
-    <string name="peak_refresh_rate_summary_custom">Aumenta automaticamente a taxa de atualização de 60 para %1$d Hz em certos conteúdos. Aumenta a utilização da bateria.</string>
     <!-- Notification sound timeout -->
     <string name="app_notification_sound_timeout_title">Tempo mínimo entre sons de notificação</string>
     <string name="app_notification_sound_timeout_summary_template">Permitir sons ou vibração, não mais de uma vez a cada <xliff:g id="duration">%1$s</xliff:g></string>
@@ -175,4 +173,8 @@
     <!-- General -->
     <string name="copied_to_clipboard">Copiado para a área de transferência</string>
     <string name="longpress_to_clipboard">Prima e segure para copiar</string>
+    <!-- Advanced sound settings -->
+    <string name="sound_settings_advanced_title">Additional Settings</string>
+    <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
+    <string name="category_name_refresh_rate_controls">Refresh Rate</string>
 </resources>
