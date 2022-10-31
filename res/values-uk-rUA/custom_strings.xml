@@ -156,8 +156,6 @@
     <string name="max_refresh_rate_title">Максимальна частота оновлення</string>
     <!-- Min refresh rate -->
     <string name="min_refresh_rate_title">Найменша частота оновлення</string>
-    <!-- Display settings screen, peak refresh rate settings summary [CHAR LIMIT=NONE] -->
-    <string name="peak_refresh_rate_summary_custom">Автоматично збільшує частоту оновлення певного вмісту з 60 до %1$d Гц. Підвищує використання заряду акумулятора.</string>
     <!-- Notification sound timeout -->
     <string name="app_notification_sound_timeout_title">Мінімальний час між звуками повідомлень</string>
     <string name="app_notification_sound_timeout_summary_template">Дозволити звук або вібрацію не більше ніж один раз кожні <xliff:g id="duration">%1$s </xliff:g></string>
@@ -175,4 +173,8 @@
     <!-- General -->
     <string name="copied_to_clipboard">Скопійовано в буфер обміну</string>
     <string name="longpress_to_clipboard">Довге натискання для копіювання</string>
+    <!-- Advanced sound settings -->
+    <string name="sound_settings_advanced_title">Additional Settings</string>
+    <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
+    <string name="category_name_refresh_rate_controls">Refresh Rate</string>
 </resources>
