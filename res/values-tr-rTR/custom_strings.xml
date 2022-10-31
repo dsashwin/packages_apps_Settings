@@ -156,8 +156,6 @@
     <string name="max_refresh_rate_title">En yüksek yenileme hızı</string>
     <!-- Min refresh rate -->
     <string name="min_refresh_rate_title">Minimum yenileme hızı</string>
-    <!-- Display settings screen, peak refresh rate settings summary [CHAR LIMIT=NONE] -->
-    <string name="peak_refresh_rate_summary_custom">Bazı içerikler için yenileme hızını otomatik olarak 60 Hz\'den %1$d Hz\'e yükseltir. Pil kullanımını artırır.</string>
     <!-- Notification sound timeout -->
     <string name="app_notification_sound_timeout_title">Bildirim sesleri arasındaki en az süre</string>
     <string name="app_notification_sound_timeout_summary_template">Her <xliff:g id="duration">%1$s</xliff:g> bir defadan fazla sese veya titreşime izin ver</string>
@@ -175,4 +173,8 @@
     <!-- General -->
     <string name="copied_to_clipboard">Panoya kopyalandı</string>
     <string name="longpress_to_clipboard">Kopyalamak için uzun basın</string>
+    <!-- Advanced sound settings -->
+    <string name="sound_settings_advanced_title">Additional Settings</string>
+    <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
+    <string name="category_name_refresh_rate_controls">Refresh Rate</string>
 </resources>
