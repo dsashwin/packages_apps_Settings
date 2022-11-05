@@ -170,6 +170,9 @@
     <string name="gesture_navbar_category_title">Gezinme çubuğu</string>
     <string name="immersive_navigation_title">Tam ekran gezinme</string>
     <string name="immersive_navigation_summary">Gezinme çubuğunu ve boşluğunu gizle</string>
+    <!-- Black background -->
+    <string name="black_bg_title">Black background</string>
+    <string name="black_bg_summary">Use an absolute black background when dark mode is on</string>
     <!-- General -->
     <string name="copied_to_clipboard">Panoya kopyalandı</string>
     <string name="longpress_to_clipboard">Kopyalamak için uzun basın</string>
