@@ -171,6 +171,9 @@ Malam: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="gesture_navbar_category_title">Bilah navigasi</string>
     <string name="immersive_navigation_title">Navigasi Immersive</string>
     <string name="immersive_navigation_summary">Sembunyikan pil gestur dan lapisan bilah navigasi.</string>
+    <!-- Black background -->
+    <string name="black_bg_title">Black background</string>
+    <string name="black_bg_summary">Use an absolute black background when dark mode is on</string>
     <!-- General -->
     <string name="copied_to_clipboard">Disalin ke papan klip</string>
     <string name="longpress_to_clipboard">Tekan lama untuk menyalin</string>
