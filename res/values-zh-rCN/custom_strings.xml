@@ -170,6 +170,9 @@
     <string name="gesture_navbar_category_title">导航栏</string>
     <string name="immersive_navigation_title">沉浸式导航栏</string>
     <string name="immersive_navigation_summary">隐藏手势药丸和导航栏填充。</string>
+    <!-- Black background -->
+    <string name="black_bg_title">Black background</string>
+    <string name="black_bg_summary">Use an absolute black background when dark mode is on</string>
     <!-- General -->
     <string name="copied_to_clipboard">已复制到剪贴板</string>
     <string name="longpress_to_clipboard">长按复制</string>
