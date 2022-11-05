@@ -15,21 +15,21 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- String for removal of sensitive info on about, depending on tap -->
-    <string name="device_info_protected_single_press">Antippen, um Info anzuzeigen</string>
+    <string name="device_info_protected_single_press">Tippen, um Info anzuzeigen</string>
     <!-- Manage applications, package string displayed in app snippet -->
     <string name="packagename_text"><xliff:g id="package_name">%1$s</xliff:g></string>
     <!-- Warning message displayed if user choses not to validate the EAP server -->
     <string name="wifi_do_not_validate_eap_server_warning">Kein Zertifikat angegeben. Ihre Verbindung ist nicht privat.</string>
     <!-- Swipe to screenshot -->
     <string name="swipe_to_screenshot_title">Wischen für Screenshot</string>
-    <string name="swipe_to_screenshot_summary">Mit 3 Fingern über den Bildschirm wischen, um einen Screenshot zu erstellen</string>
+    <string name="swipe_to_screenshot_summary">Mit drei Fingern nach unten wischen, um einen Screenshot zu erstellen</string>
     <!-- Status bar Icon Manager -->
     <string name="icon_manager_title">Icon-Manager</string>
     <string name="icon_manager_summary">Sichtbarkeit der Statusleistensymbole ändern</string>
     <!-- Preference and settings suggestion title text for screen off UDFPS  (device) [CHAR LIMIT=60]-->
     <string name="ambient_display_screen_off_udfps_title">Fingerabdrucksensor lange drücken, um das Gerät zu entsperren</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">Zum Anschalten und Entsperren des Geräts den Fingerabdrucksensor im Display gedrückt halten.</string>
+    <string name="ambient_display_screen_off_udfps_summary">Zum Anschalten und Entsperren des Geräts den Fingerabdrucksensor im Display lange gedrückt halten.</string>
     <!-- Fingerprint wake-and-unlock -->
     <string name="fingerprint_wake_unlock_title">Zum Entsperren Fingerabdrucksensor berühren</string>
     <string name="fingerprint_wake_unlock_touch">Fingerabdrucksensor bleibt aktiv, wenn der Bildschirm aus ist</string>
@@ -85,7 +85,7 @@
     <string name="live_display_low_power_title">Akkuverbrauch reduzieren</string>
     <string name="live_display_low_power_summary">Anpassen der Anzeige für den geringsten Akkuverbrauch ohne Beeinträchtigungen</string>
     <string name="live_display_enhance_color_title">Farben verbessern</string>
-    <string name="live_display_enhance_color_summary">Verbessert die Farbbrillianz von Hauttönen, Landschaften und anderen Bildern</string>
+    <string name="live_display_enhance_color_summary">Verbessert die Farbbrillanz von Hauttönen, Landschaften und anderen Bildern</string>
     <string name="live_display_color_profile_title">Farbprofil</string>
     <string name="live_display_color_profile_standard_title">Standard</string>
     <string name="live_display_color_profile_standard_summary">Genaue Farbdarstellung und helle Weißtöne</string>
@@ -171,8 +171,8 @@
     <string name="immersive_navigation_title">Navigationsleiste ausblenden</string>
     <string name="immersive_navigation_summary">Gestenpille und Navigationsleiste ausblenden.</string>
     <!-- Black background -->
-    <string name="black_bg_title">Black background</string>
-    <string name="black_bg_summary">Use an absolute black background when dark mode is on</string>
+    <string name="black_bg_title">Schwarzer Hintergrund</string>
+    <string name="black_bg_summary">Verwenden Sie einen komplett schwarzen Hintergrund, wenn der Dunkelmodus aktiviert ist</string>
     <!-- General -->
     <string name="copied_to_clipboard">In Zwischenablage kopiert</string>
     <string name="longpress_to_clipboard">Lange drücken zum Kopieren</string>
