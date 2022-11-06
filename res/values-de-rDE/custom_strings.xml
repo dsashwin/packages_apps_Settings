@@ -37,7 +37,7 @@
     <!-- Battery light -->
     <string name="battery_light_title">LED-Licht beim Laden aktivieren</string>
     <!-- Notch: Full screen apps -->
-    <string name="display_cutout_force_fullscreen_title">Vollbild Apps</string>
+    <string name="display_cutout_force_fullscreen_title">Vollbild-Apps</string>
     <string name="display_cutout_force_fullscreen_summary">Apps zwingen, die Notch zu ignorieren</string>
     <string name="search">Suche</string>
     <string name="search_apps">Apps suchen</string>
@@ -63,7 +63,7 @@
     <string name="volume_link_notification_title">Gleiche Lautstärke für Klingelton &amp; Benachrichtigungen</string>
     <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Hohe Berührungsempfindlichkeit</string>
-    <string name="high_touch_sensitivity_summary">Berührmpfindlichkeit erhöhen, um den Touchscreen auch mit Handschuhen bedienen zu können</string>
+    <string name="high_touch_sensitivity_summary">Berührungsempfindlichkeit erhöhen, um den Touchscreen auch mit Handschuhen bedienen zu können</string>
     <!-- Touchscreen hovering -->
     <string name="touchscreen_hovering_title">Touchscreen als Maus verwenden</string>
     <string name="touchscreen_hovering_summary">Erlaubt es den Bildschirm wie eine Maus zu nutzen, unter anderem bei Webbrowsern, Remotedesktop, etc.</string>
