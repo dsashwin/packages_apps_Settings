@@ -171,13 +171,13 @@
     <string name="immersive_navigation_title">Navegação imersiva</string>
     <string name="immersive_navigation_summary">Ocultar a pílula de gestos e barra de navegação.</string>
     <!-- Black background -->
-    <string name="black_bg_title">Black background</string>
-    <string name="black_bg_summary">Use an absolute black background when dark mode is on</string>
+    <string name="black_bg_title">Plano de fundo preto</string>
+    <string name="black_bg_summary">Use um fundo preto absoluto quando o modo escuro estiver ligado</string>
     <!-- General -->
     <string name="copied_to_clipboard">Copiado para a área de transferência</string>
     <string name="longpress_to_clipboard">Pressione e segure para copiar</string>
     <!-- Advanced sound settings -->
-    <string name="sound_settings_advanced_title">Additional Settings</string>
+    <string name="sound_settings_advanced_title">Configurações Adicionais</string>
     <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
-    <string name="category_name_refresh_rate_controls">Refresh Rate</string>
+    <string name="category_name_refresh_rate_controls">Taxa de atualização</string>
 </resources>
