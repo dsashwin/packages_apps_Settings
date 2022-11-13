@@ -174,44 +174,44 @@
     <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
     <string name="category_name_refresh_rate_controls">Obnovovacia frekvencia</string>
     <!-- Misc gesture settings -->
-    <string name="back_gesture_haptic_title">Haptic feedback</string>
-    <string name="back_gesture_haptic_summary">Enable haptic tick effect on back gesture</string>
+    <string name="back_gesture_haptic_title">Hmatová odozva</string>
+    <string name="back_gesture_haptic_summary">Povoliť efekt krátkeho zavibrovanie pri použití gestá \"Späť\"</string>
     <!-- One shot automatic brightness -->
-    <string name="auto_brightness_one_shot_title">One shot auto-brightness</string>
-    <string name="auto_brightness_one_shot_summary">Brightness adjustment will only occur at the moment the screen is turned on</string>
+    <string name="auto_brightness_one_shot_title">Jednorázový automatický jas</string>
+    <string name="auto_brightness_one_shot_summary">Úprava jasu sa vykoná iba vo chvíli, keď sa zapne obrazovka</string>
     <!-- Face Unlock -->
-    <string name="security_settings_face_unlock_redo_face_scan_summary">Remove existing face scan and create a new scan</string>
-    <string name="security_settings_face_unlock_redo_face_scan_title">Redo face scan</string>
-    <string name="face_redo_confirm_btn">Redo</string>
-    <string name="face_redo_warning_msg">Do you want to remove the existing face scan and create a new one?</string>
-    <string name="face_unlock_method_title">Allow face unlock on lock screen</string>
-    <string name="face_unlock_method_default">When the screen is turned on</string>
-    <string name="face_unlock_method_swipe">When swiping on lock screen</string>
+    <string name="security_settings_face_unlock_redo_face_scan_summary">Odstrániť existujúcu naskenovanú tvár a vytvoriť nový sken</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">Znovu naskenovať tvár</string>
+    <string name="face_redo_confirm_btn">Znova</string>
+    <string name="face_redo_warning_msg">Chcete odstrániť existujúci sken tváre a vytvoriť nový?</string>
+    <string name="face_unlock_method_title">Povoliť odomknutie tvárou na obrazovke uzamknutia</string>
+    <string name="face_unlock_method_default">Keď je obrazovka zapnutá</string>
+    <string name="face_unlock_method_swipe">Keď posúvate prstom na zamknutej obrazovke</string>
     <!-- Volume button music control -->
     <string name="volume_button_music_control_title">Ovládanie prehrávania</string>
-    <string name="volume_button_music_control_summary">When the screen is off, long-pressing volume keys will skip music tracks</string>
+    <string name="volume_button_music_control_summary">Keď je obrazovka vypnutá, dlhým stlačením tlačidiel na ovládanie hlasitosti môžete prepínať skladby</string>
     <!-- Smart Pause -->
-    <string name="adaptive_playback_screen_title">Smart Pause</string>
-    <string name="adaptive_playback_enabled">Use smart pause</string>
-    <string name="adaptive_playback_disabled_summary">Off</string>
-    <string name="adaptive_playback_intro_text">Automatically pauses media when the volume is muted and will resume automatically when volume is restored within the set time.</string>
-    <string name="adaptive_playback_timeout_title">Use a timeout of</string>
-    <string name="adaptive_playback_timeout_none">No timeout</string>
-    <string name="adaptive_playback_timeout_none_summary">On (no timeout)</string>
-    <string name="adaptive_playback_timeout_30_secs">30 seconds</string>
-    <string name="adaptive_playback_timeout_30_secs_summary">On (30 seconds)</string>
-    <string name="adaptive_playback_timeout_1_min">1 minute</string>
-    <string name="adaptive_playback_timeout_1_min_summary">On (1 minute)</string>
-    <string name="adaptive_playback_timeout_2_min">2 minutes</string>
-    <string name="adaptive_playback_timeout_2_min_summary">On (2 minutes)</string>
-    <string name="adaptive_playback_timeout_5_min">5 minutes</string>
-    <string name="adaptive_playback_timeout_5_min_summary">On (5 minutes)</string>
-    <string name="adaptive_playback_timeout_10_min">10 minutes</string>
-    <string name="adaptive_playback_timeout_10_min_summary">On (10 minutes)</string>
+    <string name="adaptive_playback_screen_title">Inteligentné Pozastavenie</string>
+    <string name="adaptive_playback_enabled">Použiť Inteligentné Pozastavenie</string>
+    <string name="adaptive_playback_disabled_summary">Vypnuté</string>
+    <string name="adaptive_playback_intro_text">Automaticky pozastaví médiá, keď je hlasitosť stlmená a automaticky ich obnoví pri obnove hlasitosti v zadanom čase.</string>
+    <string name="adaptive_playback_timeout_title">Použít časový limit</string>
+    <string name="adaptive_playback_timeout_none">Bez časového limitu</string>
+    <string name="adaptive_playback_timeout_none_summary">Zap. (bez časového limitu)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 sekúnd</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">Zapnuté (30 sekúnd)</string>
+    <string name="adaptive_playback_timeout_1_min">1 minúta</string>
+    <string name="adaptive_playback_timeout_1_min_summary">Zapnuté (1 minúta)</string>
+    <string name="adaptive_playback_timeout_2_min">2 minúty</string>
+    <string name="adaptive_playback_timeout_2_min_summary">Zapnuté (2 minúty)</string>
+    <string name="adaptive_playback_timeout_5_min">5 minút</string>
+    <string name="adaptive_playback_timeout_5_min_summary">Zapnuté (5 minút)</string>
+    <string name="adaptive_playback_timeout_10_min">10 minút</string>
+    <string name="adaptive_playback_timeout_10_min_summary">Zapnuté (10 minút)</string>
     <!-- Navbar options -->
-    <string name="navbar_invert_layout_title">Invert navigation bar layout</string>
-    <string name="navbar_invert_info">Swap the \"Back\" and \"Recents\" buttons on the navigation bar</string>
+    <string name="navbar_invert_layout_title">Prevrátiť rozloženie navigačného panela</string>
+    <string name="navbar_invert_info">Prehodiť tlačidlá \"Späť\" a \"Nedávne\" na navigačnom paneli</string>
     <!-- Navigation bar hint -->
-    <string name="show_navbar_gesture_bar_title">Gesture bar</string>
-    <string name="show_navbar_gesture_bar_summary">Show gesture bar at the bottom of the screen</string>
+    <string name="show_navbar_gesture_bar_title">Panel gest</string>
+    <string name="show_navbar_gesture_bar_summary">Zobraziť panel gest v dolnej časti obrazovky</string>
 </resources>
