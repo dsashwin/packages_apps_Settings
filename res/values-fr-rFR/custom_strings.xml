@@ -194,7 +194,7 @@
     <string name="adaptive_playback_screen_title">Pause intelligente</string>
     <string name="adaptive_playback_enabled">Utiliser la pause intelligente</string>
     <string name="adaptive_playback_disabled_summary">Arrêt</string>
-    <string name="adaptive_playback_intro_text">Automatically pauses media when the volume is muted and will resume automatically when volume is restored within the set time.</string>
+    <string name="adaptive_playback_intro_text">Met automatiquement les médias en pause lorsque le volume est mis en sourdine et reprend lorsque le volume est restauré dans le délai défini.</string>
     <string name="adaptive_playback_timeout_title">Utiliser un délai d\'expiration de</string>
     <string name="adaptive_playback_timeout_none">Aucun délai d\'expiration</string>
     <string name="adaptive_playback_timeout_none_summary">Activé (sans délai d\'expiration)</string>
