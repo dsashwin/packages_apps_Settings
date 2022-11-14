@@ -164,18 +164,18 @@
     <string name="app_notification_sound_timeout_value_15_minutes">10 хвилин</string>
     <string name="app_notification_sound_timeout_value_30_minutes">30 хвилин</string>
     <!-- Black background -->
-    <string name="black_bg_title">Black background</string>
-    <string name="black_bg_summary">Use an absolute black background when dark mode is on</string>
+    <string name="black_bg_title">Чорний фон</string>
+    <string name="black_bg_summary">Використовувати абсолютний чорний фон, коли темно-режим увімкнено</string>
     <!-- General -->
     <string name="copied_to_clipboard">Скопійовано в буфер обміну</string>
     <string name="longpress_to_clipboard">Довге натискання для копіювання</string>
     <!-- Advanced sound settings -->
-    <string name="sound_settings_advanced_title">Additional Settings</string>
+    <string name="sound_settings_advanced_title">Додаткові налаштування</string>
     <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
-    <string name="category_name_refresh_rate_controls">Refresh Rate</string>
+    <string name="category_name_refresh_rate_controls">Частота оновлення</string>
     <!-- Misc gesture settings -->
-    <string name="back_gesture_haptic_title">Haptic feedback</string>
-    <string name="back_gesture_haptic_summary">Enable haptic tick effect on back gesture</string>
+    <string name="back_gesture_haptic_title">Вібровідгук</string>
+    <string name="back_gesture_haptic_summary">Увімкнути тактильний ефект від жесту назад</string>
     <!-- One shot automatic brightness -->
     <string name="auto_brightness_one_shot_title">One shot auto-brightness</string>
     <string name="auto_brightness_one_shot_summary">Brightness adjustment will only occur at the moment the screen is turned on</string>
