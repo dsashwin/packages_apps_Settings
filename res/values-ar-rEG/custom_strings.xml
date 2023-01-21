@@ -22,12 +22,12 @@
     <!-- Min refresh rate -->
     <string name="min_refresh_rate_title">الحد الادنى لمعدل تحديث الشاشه</string>
     <!-- Display settings screen, peak refresh rate settings summary [CHAR LIMIT=NONE] -->
-    <string name="peak_refresh_rate_summary_custom">Automatically raises the refresh rate from 60 to %1$d Hz for some content. Increases battery usage.</string>
+    <string name="peak_refresh_rate_summary_custom">رفع معدل التحديث تلقائياً من 60 إلى %1$d هرتز لبعض المحتوى. يزيد من استخدام البطارية.</string>
     <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
     <string name="category_name_refresh_rate_controls">معدل التحديث</string>
     <!-- Three-fingers-swipe to screenshot -->
-    <string name="three_finger_gesture">Swipe to screenshot</string>
-    <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
+    <string name="three_finger_gesture">اسحب لالتقاط صورة للشاشة</string>
+    <string name="three_finger_gesture_summary">السحب لأسفل بثلاث أصابع لأخذ لقطة شاشة</string>
     <!-- Status bar Icon Manager -->
     <string name="icon_manager_title">إدارة الأيقونات</string>
     <string name="icon_manager_summary">التحكم في ظهور أيقونات شريط الحالة</string>
@@ -121,55 +121,55 @@
     <string name="tethering_allow_vpn_upstreams_title">السماح للمتصلين باستخدام VPN</string>
     <string name="tethering_allow_vpn_upstreams_summary">السماح للمتصلين بنقطة الاتصال النقالة باستخدام اتصالات VPN للجهاز\u2019 من أجل الإرسال</string>
     <!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
-    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Locate the fingerprint sensor on the front of your tablet.</string>
-    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Locate the fingerprint sensor on the front of your device.</string>
-    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Locate the fingerprint sensor on the front of your phone.</string>
-    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Locate the fingerprint sensor on the back of your tablet.</string>
-    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Locate the fingerprint sensor on the back of your device.</string>
-    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Locate the fingerprint sensor on the back of your phone.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">حدد موقع مستشعر البصمة في مقدمة جهازك اللوحي.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">حدد موقع مستشعر بصمة الإصبع في مقدمة جهازك.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">حدد موقع مستشعر بصمة الإصبع في مقدمة هاتفك.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">حدد موقع مستشعر بصمة الإصبع على ظهر جهازك اللوحي.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">حدد موقع مستشعر بصمة الإصبع على الجزء الخلفي من جهازك.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">حدد موقع مستشعر بصمة الإصبع على ظهر هاتفك.</string>
     <!-- Message shown when user touches the icon on the screen, instead of the real fingerprint sensor -->
-    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Touch the sensor on the front of your tablet.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Touch the sensor on the front of your device.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Touch the sensor on the front of your phone.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Touch the sensor on the back of your tablet.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Touch the sensor on the back of your device.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Touch the sensor on the back of your phone.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Touch the sensor on the side of your tablet.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Touch the sensor on the side of your device.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Touch the sensor on the side of your phone.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">المس مستشعر البصمة في الجزء الأمامي من الجهاز اللوحي.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">المس مستشعر بصمة الإصبع في الجزء الأمامي من جهازك.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">المس مستشعر بصمة الإصبع في الجزء الأمامي من هاتفك.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">المس مستشعر البصمة في الجزء الخلفي من جهازك اللوحي.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">المس مستشعر البصمة في الجزء الخلفي من جهازك.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">المس مستشعر البصمة على الجزء الخلفي من هاتفك.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">المس مستشعر البصمة في الجزء الخلفي من جهازك اللوحي.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">المس مستشعر البصمة في الجزء الجانبي من جهازك.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">المس مستشعر البصمة على الجزء الجانبي من هاتفك.</string>
     <!-- Warning message for the sd card setup -->
-    <string name="storage_warning_internal">Warning: This option may not work properly or lead to data loss and is therefore not recommended!</string>
+    <string name="storage_warning_internal">تحذير: قد لا يعمل هذا الخيار بشكل صحيح أو يؤدي إلى فقدان البيانات ولذلك لا يوصى به!</string>
     <!-- Generic stuff used everywhere -->
-    <string name="reset">Reset</string>
+    <string name="reset">اعادة تعيين</string>
     <!-- Buttons -->
-    <string name="button_pref_title">Buttons</string>
-    <string name="hardware_keys_home_key_title">Home button</string>
-    <string name="hardware_keys_back_key_title">Back button</string>
-    <string name="hardware_keys_menu_key_title">Menu button</string>
-    <string name="hardware_keys_assist_key_title">Search button</string>
-    <string name="hardware_keys_appswitch_key_title">Recents button</string>
-    <string name="hardware_keys_camera_key_title">Camera button</string>
-    <string name="hardware_keys_short_press_title">Short press action</string>
-    <string name="hardware_keys_long_press_title">Long press action</string>
-    <string name="hardware_keys_double_tap_title">Double tap action</string>
-    <string name="hardware_keys_action_nothing">No action</string>
-    <string name="hardware_keys_action_menu">Open/close menu</string>
-    <string name="hardware_keys_action_app_switch">Recent apps switcher</string>
-    <string name="hardware_keys_action_search">Search assistant</string>
-    <string name="hardware_keys_action_voice_search">Voice search</string>
-    <string name="hardware_keys_action_in_app_search">In-app search</string>
-    <string name="hardware_keys_action_launch_camera">Launch camera</string>
-    <string name="hardware_keys_action_sleep">Turn screen off</string>
-    <string name="hardware_keys_action_split_screen">Split screen</string>
-    <string name="hardware_keys_swipe_right_key_title">Swipe right</string>
-    <string name="hardware_keys_swipe_left_key_title">Swipe left</string>
-    <string name="hardware_keys_long_tap_key_title">Long tap</string>
-    <string name="hardware_keys_swipe_tap_title">Swipe action</string>
-    <string name="hardware_keys_long_tap_title">Long tap action</string>
-    <string name="button_wake_title">Wake device</string>
-    <string name="camera_sleep_on_release_title">Screen peek</string>
-    <string name="camera_sleep_on_release_summary">A half press will keep the screen on only while the button is held down</string>
-    <string name="camera_launch_title">Launch camera</string>
+    <string name="button_pref_title">أزرار</string>
+    <string name="hardware_keys_home_key_title">زر الشاشة الرئيسية</string>
+    <string name="hardware_keys_back_key_title">زر العودة</string>
+    <string name="hardware_keys_menu_key_title">زر القائمة</string>
+    <string name="hardware_keys_assist_key_title">زر البحث</string>
+    <string name="hardware_keys_appswitch_key_title">زر التطبيقات الأخيرة</string>
+    <string name="hardware_keys_camera_key_title">زر الكاميرا</string>
+    <string name="hardware_keys_short_press_title">إجراء الضغط القصير</string>
+    <string name="hardware_keys_long_press_title">إجراء الضغط المطول</string>
+    <string name="hardware_keys_double_tap_title">إجراء النقر المزدوج</string>
+    <string name="hardware_keys_action_nothing">لا يوجد إجراء</string>
+    <string name="hardware_keys_action_menu">فتح/إغلاق القائمة</string>
+    <string name="hardware_keys_action_app_switch">تبديل التطبيقات الأخيرة</string>
+    <string name="hardware_keys_action_search">مساعد البحث</string>
+    <string name="hardware_keys_action_voice_search">البحث الصوتي</string>
+    <string name="hardware_keys_action_in_app_search">بحث في التطبيق</string>
+    <string name="hardware_keys_action_launch_camera">تشغيل الكاميرا</string>
+    <string name="hardware_keys_action_sleep">إيقاف تشغيل الشاشة</string>
+    <string name="hardware_keys_action_split_screen">تقسيم الشاشة</string>
+    <string name="hardware_keys_swipe_right_key_title">اسحب لليمين</string>
+    <string name="hardware_keys_swipe_left_key_title">اسحب لليسار</string>
+    <string name="hardware_keys_long_tap_key_title">اضغط مطولاً</string>
+    <string name="hardware_keys_swipe_tap_title">اجراء السحب</string>
+    <string name="hardware_keys_long_tap_title">إجراء الضغط المطول</string>
+    <string name="button_wake_title">ايقاظ الجهاز</string>
+    <string name="camera_sleep_on_release_title">لمحة عن الشاشة</string>
+    <string name="camera_sleep_on_release_summary">نصف ضغطة ستبقي الشاشة قيد التشغيل فقط عند الضغط على الزر للأسفل</string>
+    <string name="camera_launch_title">تشغيل الكاميرا</string>
     <string name="camera_launch_summary">A longpress and release will launch camera</string>
     <!-- Key backlight -->
     <string name="button_backlight_title">Backlight</string>
