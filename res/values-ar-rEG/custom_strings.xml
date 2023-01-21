@@ -170,28 +170,28 @@
     <string name="camera_sleep_on_release_title">لمحة عن الشاشة</string>
     <string name="camera_sleep_on_release_summary">نصف ضغطة ستبقي الشاشة قيد التشغيل فقط عند الضغط على الزر للأسفل</string>
     <string name="camera_launch_title">تشغيل الكاميرا</string>
-    <string name="camera_launch_summary">A longpress and release will launch camera</string>
+    <string name="camera_launch_summary">سيتم تشغيل الكاميرا بضغطة طويلة</string>
     <!-- Key backlight -->
-    <string name="button_backlight_title">Backlight</string>
-    <string name="button_backlight_enabled">Illuminate buttons</string>
-    <string name="button_backlight_only_when_pressed_title">Illuminate buttons only when pressed</string>
-    <string name="keyboard_backlight_enabled">Illuminate keyboard</string>
-    <string name="button_backlight_seekbar_title">Button brightness</string>
-    <string name="keyboard_backlight_seekbar_title">Keyboard brightness</string>
-    <string name="backlight_timeout_title">Illumination timeout</string>
-    <string name="backlight_timeout_unlimited">Don\'t turn off</string>
-    <string name="backlight_summary_disabled">Disabled</string>
-    <string name="backlight_summary_enabled_with_timeout">Enabled for <xliff:g id="timeout">%s</xliff:g></string>
-    <string name="backlight_summary_enabled">Enabled</string>
+    <string name="button_backlight_title">إضاءة الشاشه</string>
+    <string name="button_backlight_enabled">إضاءة الأزرار</string>
+    <string name="button_backlight_only_when_pressed_title">أضيء الأزرار فقط عند الضغط</string>
+    <string name="keyboard_backlight_enabled">إضاءة لوحة المفاتيح</string>
+    <string name="button_backlight_seekbar_title">سطوع الزر</string>
+    <string name="keyboard_backlight_seekbar_title">سطوع لوحة المفاتيح</string>
+    <string name="backlight_timeout_title">مهلة الإضاءة</string>
+    <string name="backlight_timeout_unlimited">عدم إيقاف التشغيل</string>
+    <string name="backlight_summary_disabled">معطل</string>
+    <string name="backlight_summary_enabled_with_timeout">مفعّل ل <xliff:g id="timeout">%s</xliff:g></string>
+    <string name="backlight_summary_enabled">مفعل</string>
     <!-- Buttons - Enable navbar -->
-    <string name="disable_navkeys_title">Enable on-screen nav bar</string>
-    <string name="disable_navkeys_summary">Enable on-screen navigation bar and disable hardware buttons</string>
+    <string name="disable_navkeys_title">تفعيل شريط التنقل على الشاشة</string>
+    <string name="disable_navkeys_summary">تفعيل شريط التنقل على الشاشة وتعطيل أزرار الجهاز</string>
     <!-- Buttons - Swap capacitive keys -->
-    <string name="swap_capacitive_keys_title">Swap capacitive buttons</string>
-    <string name="swap_capacitive_keys_summary">Swap the order of recents and back buttons</string>
+    <string name="swap_capacitive_keys_title">تبديل أزرار</string>
+    <string name="swap_capacitive_keys_summary">تبديل ترتيب أزرار التطبيقات الحديثة والعودة</string>
     <!-- Others settings -->
-    <string name="others_settings_title">Others settings</string>
-    <string name="additional_buttons_title">Additional buttons</string>
+    <string name="others_settings_title">الإعدادات الأخرى</string>
+    <string name="additional_buttons_title">أزرار إضافية</string>
     <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">حساسية لمس عالي</string>
     <string name="high_touch_sensitivity_summary">زيادة حساسية شاشة اللمس حتى يمكن استخدامها أثناء ارتداء القفازات</string>
@@ -202,8 +202,8 @@
     <string name="high_touch_polling_rate_title">معدل تصويت عالي اللمس</string>
     <string name="high_touch_polling_rate_summary">زيادة معدل التصويت لشاشة اللمس</string>
     <!-- Advanced keyboard settings -->
-    <string name="keyboard_extras_title">Extras</string>
-    <string name="advanced_keyboard_settings_title">Advanced settings</string>
+    <string name="keyboard_extras_title">المزيد</string>
+    <string name="advanced_keyboard_settings_title">الإعدادات المتقدمة</string>
     <!-- Face Unlock -->
     <string name="security_settings_face_unlock_redo_face_scan_summary">إزالة مسح الوجه الموجود و إنشاء مسح جديد</string>
     <string name="security_settings_face_unlock_redo_face_scan_title">إعادة مسح الوجه</string>
@@ -271,30 +271,30 @@
     <string name="black_bg_title">خلفية سوداء</string>
     <string name="black_bg_summary">استخدام خلفية سوداء مطلقة عندما يكون الوضع المظلم قيد التشغيل</string>
     <!-- QS footer data usage -->
-    <string name="qs_show_data_usage_title">Show data usage</string>
-    <string name="qs_show_data_usage_summary">Show daily cellular/Wi-Fi data usage in QS footer</string>
+    <string name="qs_show_data_usage_title">إظهار استخدام البيانات</string>
+    <string name="qs_show_data_usage_summary">اظهار البيانات المستخدمة اليومية اسفل قائمة الاعدادات السريعة</string>
     <!-- Fingerprint Ripple Effect -->
     <string name="enable_fingerprint_ripple_effect_title">تأثير التموج</string>
     <string name="enable_fingerprint_ripple_effect_summary">إظهار تأثير تموّج عند إلغاء القُفل باستخدام بصمة الإصبع</string>
     <!-- Display : Rotation -->
-    <string name="display_rotation_title">Rotation settings</string>
-    <string name="display_rotation_enabled">Auto-rotation is enabled</string>
-    <string name="display_rotation_disabled">Auto-rotation is disabled</string>
-    <string name="display_rotation_unit">degrees</string>
-    <string name="display_rotation_category_title">Rotation modes</string>
-    <string name="display_rotation_0_title">0 degrees</string>
-    <string name="display_rotation_90_title">90 degrees</string>
-    <string name="display_rotation_180_title">180 degrees</string>
-    <string name="display_rotation_270_title">270 degrees</string>
+    <string name="display_rotation_title">إعدادات التدوير</string>
+    <string name="display_rotation_enabled">التدوير التلقائي مُفعل</string>
+    <string name="display_rotation_disabled">التدوير التلقائي مُعطل</string>
+    <string name="display_rotation_unit">درجات</string>
+    <string name="display_rotation_category_title">أوضاع تدوير الشاشة</string>
+    <string name="display_rotation_0_title">صفر درجة</string>
+    <string name="display_rotation_90_title">٩٠ درجة</string>
+    <string name="display_rotation_180_title">١٨٠ درجة</string>
+    <string name="display_rotation_270_title">٢٧٠ درجة</string>
     <!-- Radio Info -->
-    <string name="radio_info_title">Radio info</string>
+    <string name="radio_info_title">معلومات الراديو</string>
     <!-- Pocket mode -->
-    <string name="proximity_wake_title">Prevent accidental wake-up</string>
-    <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen</string>
+    <string name="proximity_wake_title">منع الاستيقاظ بالخطأ</string>
+    <string name="proximity_wake_summary">التحقق من مستشعر القرب قبل إيقاظ الشاشة</string>
     <!-- Scramble pin -->
-    <string name="unlock_scramble_pin_layout_title">Scramble layout</string>
-    <string name="unlock_scramble_pin_layout_summary">Scramble PIN layout when unlocking device</string>
+    <string name="unlock_scramble_pin_layout_title">ترتيب عشوائي</string>
+    <string name="unlock_scramble_pin_layout_summary">ترتيب أزرار رمز PIN بصورة عشوائية عند فك قفل الجهاز</string>
     <!-- Quick unlock -->
-    <string name="unlock_quick_unlock_control_title">Quick unlock</string>
-    <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
+    <string name="unlock_quick_unlock_control_title">الفتح السريع</string>
+    <string name="unlock_quick_unlock_control_summary">فتح تلقائياً عند إدخال رمز PIN/كلمة المرور صحيحة</string>
 </resources>
