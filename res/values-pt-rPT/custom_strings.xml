@@ -90,8 +90,8 @@
     <!-- Advanced sound settings -->
     <string name="sound_settings_advanced_title">Definições adicionais</string>
     <!-- Smart Pause -->
-    <string name="adaptive_playback_screen_title">Reprodução Adaptável</string>
-    <string name="adaptive_playback_enabled">Utilizar reprodução adaptável</string>
+    <string name="adaptive_playback_screen_title">Pausa Inteligente</string>
+    <string name="adaptive_playback_enabled">Usar pausa inteligente</string>
     <string name="adaptive_playback_disabled_summary">Desligado</string>
     <string name="adaptive_playback_intro_text">Pausa automaticamente a mídia quando o volume é silenciado e retoma automaticamente quando o volume é restaurado dentro do tempo definido.</string>
     <string name="adaptive_playback_timeout_title">Usar um tempo limite de</string>
