@@ -26,7 +26,7 @@
     <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
     <string name="category_name_refresh_rate_controls">Частота оновлення</string>
     <!-- Three-fingers-swipe to screenshot -->
-    <string name="three_finger_gesture">Свайп для створення скріншота</string>
+    <string name="three_finger_gesture">Жест для створення скріншота</string>
     <string name="three_finger_gesture_summary">Проведіть вниз трьома пальцями на екрані, щоб зробити знімок екрану</string>
     <!-- Status bar Icon Manager -->
     <string name="icon_manager_title">Менеджер іконок</string>
@@ -34,7 +34,7 @@
     <!-- Preference and settings suggestion title text for screen off UDFPS  (device) [CHAR LIMIT=60]-->
     <string name="ambient_display_screen_off_udfps_title">Утримувати сканер відбитків пальців, щоб розблокувати пристрій</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">Щоб увімкнути екран та розблокувати, затисніть сенсор відбитків пальців.</string>
+    <string name="ambient_display_screen_off_udfps_summary">Щоб увімкнути екран та розблокувати, торкніться сенсору відбитків пальців.</string>
     <!-- Fingerprint wake-and-unlock -->
     <string name="fingerprint_wake_unlock_title">Торкніться сенсора відбитка пальців, щоб розблокувати</string>
     <string name="fingerprint_wake_unlock_touch">Слухає події поки екран вимкнено</string>
@@ -51,7 +51,7 @@
     <string name="power_button_torch_title">Швидкий ліхтарик</string>
     <string name="power_button_torch_summary">Коли екран вимкнений, тривале натискання кнопки живлення увімкне ліхтарик</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
-    <string name="duration_less_than_one_minute">Менше 1 хвилини</string>
+    <string name="duration_less_than_one_minute">Менше за 1 хвилину</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
     <string name="screen_time_summary_usage_today">%1$s сьогодні</string>
     <!-- Annoying Notifications -->
@@ -63,7 +63,7 @@
     <string name="incall_vibrate_call_wait_title">Вібрувати під час очікування дзвінка</string>
     <string name="incall_vibrate_disconnect_title">Вібрація при роз\'єднанні</string>
     <!-- Volume link notification -->
-    <string name="volume_link_notification_title">Зв’язати гучність дзвінка та сповіщень</string>
+    <string name="volume_link_notification_title">Об\'єднати гучність дзвінка та сповіщень</string>
     <!-- Global Actions -->
     <string name="global_actions_advanced_reboot_title">Ввімкнути розширене перезавантаження</string>
     <string name="global_actions_advanced_reboot_summary">Показувати параметри відновлення і завантажувача в меню живлення</string>
@@ -85,7 +85,7 @@
     <string name="app_notification_sound_timeout_value_15_minutes">10 хвилин</string>
     <string name="app_notification_sound_timeout_value_30_minutes">30 хвилин</string>
     <!-- General -->
-    <string name="copied_to_clipboard">Скопійовано в буфер обміну</string>
+    <string name="copied_to_clipboard">Скопійовано до буферу обміну.</string>
     <string name="longpress_to_clipboard">Довге натискання для копіювання</string>
     <!-- Advanced sound settings -->
     <string name="sound_settings_advanced_title">Додаткові налаштування</string>
@@ -287,14 +287,14 @@
     <string name="display_rotation_180_title">180 градусів</string>
     <string name="display_rotation_270_title">270 градусів</string>
     <!-- Radio Info -->
-    <string name="radio_info_title">Radio info</string>
+    <string name="radio_info_title">Інформація про радіо</string>
     <!-- Pocket mode -->
-    <string name="proximity_wake_title">Prevent accidental wake-up</string>
-    <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen</string>
+    <string name="proximity_wake_title">Запобігти випадковому вмиканню екрану</string>
+    <string name="proximity_wake_summary">Перевіряти датчик наближення перед розблокуванням екрану</string>
     <!-- Scramble pin -->
-    <string name="unlock_scramble_pin_layout_title">Scramble layout</string>
-    <string name="unlock_scramble_pin_layout_summary">Scramble PIN layout when unlocking device</string>
+    <string name="unlock_scramble_pin_layout_title">Перемішати кнопки</string>
+    <string name="unlock_scramble_pin_layout_summary">Перемішати кнопки вводу PIN-коду при розблокуванні</string>
     <!-- Quick unlock -->
-    <string name="unlock_quick_unlock_control_title">Quick unlock</string>
-    <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
+    <string name="unlock_quick_unlock_control_title">Швидке розблокування</string>
+    <string name="unlock_quick_unlock_control_summary">Автоматичне розблокування при введенні правильного паролю чи PIN-коду</string>
 </resources>
