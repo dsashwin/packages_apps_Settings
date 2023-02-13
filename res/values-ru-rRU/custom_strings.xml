@@ -352,7 +352,7 @@
     <string name="network_traffic_mode_disable">Отключено</string>
     <string name="network_traffic_mode_status_bar">Строка состояния</string>
     <string name="network_traffic_mode_qs">Быстрые настройки</string>
-    <string name="network_traffic_autohide">Auto hide</string>
-    <string name="network_traffic_autohide_summary">Hide the traffic monitor when there is no activity</string>
-    <string name="network_traffic_units_title">Traffic measurement units</string>
+    <string name="network_traffic_autohide">Скрывать автоматически</string>
+    <string name="network_traffic_autohide_summary">Скрывать сетевой трафик, когда передача данных не осуществляется</string>
+    <string name="network_traffic_units_title">Единицы измерения трафика</string>
 </resources>
