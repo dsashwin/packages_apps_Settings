@@ -32,9 +32,9 @@
     <string name="icon_manager_title">Správca ikon</string>
     <string name="icon_manager_summary">Ovládať viditeľnosť ikon stavového riadku</string>
     <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
-    <string name="ambient_display_screen_off_udfps_title">Always on Fingerprint</string>
+    <string name="ambient_display_screen_off_udfps_title">Vždy zapnutý odtlačok prsta</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">Allows unlocking with the screen off.\nEnabling may cause accidental wake-ups.</string>
+    <string name="ambient_display_screen_off_udfps_summary">Umožňuje odomknutie s vypnutou obrazovkou.\nPovolenie môže spôsobiť náhodné prebudenie.</string>
     <!-- Fingerprint wake-and-unlock -->
     <string name="fingerprint_wake_unlock_title">Odomknúť použitím odtlačku prstu</string>
     <string name="fingerprint_wake_unlock_touch">Načúva udalostiam keď je obrazovka vypnutá</string>
@@ -299,8 +299,8 @@
     <string name="auto_brightness_one_shot_summary">Úprava jasu sa vykoná iba vo chvíli, keď sa zapne obrazovka</string>
     <!-- Immersive Navigation -->
     <string name="gesture_navbar_category_title">Navigačný panel</string>
-    <string name="immersive_navigation_title">Immersive Navigation</string>
-    <string name="immersive_navigation_summary">Hide the gesture pill and navigation bar padding.</string>
+    <string name="immersive_navigation_title">Imersívna navigácia</string>
+    <string name="immersive_navigation_summary">Skryť navigačnú pilulku a výplň navigačného panelu.</string>
     <!-- Package details -->
     <string name="package_details_group_title">Podrobnosti o balíčku</string>
     <string name="package_name">Názov balíčku</string>
@@ -332,15 +332,15 @@
     <string name="volume_button_music_control_summary">Keď je obrazovka vypnutá, dlhým stlačením tlačidiel na ovládanie hlasitosti môžete prepínať skladby</string>
     <!-- Power menu on lockscreen -->
     <string name="power_menu_hide_on_secure_title">Skryť na obrazovke uzamknutia</string>
-    <string name="power_menu_hide_on_secure_summary">Hide the power menu while on a secure lock screen</string>
+    <string name="power_menu_hide_on_secure_summary">Skryť ponuku napájania na zabezpečenej uzamknutej obrazovke</string>
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">Zvuk snímky obrazovky</string>
     <!-- Lockscreen bottom shortcuts -->
     <string name="lockscreen_shortcuts">Skratky na obrazovke uzamknutia</string>
-    <string name="lockscreen_shortcuts_summary">Configure lockscreen shortcuts</string>
+    <string name="lockscreen_shortcuts_summary">Konfigurácia skratiek na uzamknutej obrazovke</string>
     <string name="lockscreen_shortcut_start_title">Ľavá skratka</string>
     <string name="lockscreen_shortcut_end_title">Pravá skratka</string>
-    <string name="lockscreen_shortcut_home">Home controls</string>
+    <string name="lockscreen_shortcut_home">Ovládanie domácnosti</string>
     <string name="lockscreen_shortcut_wallet">Peňaženka</string>
     <string name="lockscreen_shortcut_flashlight">Baterka</string>
     <string name="lockscreen_shortcut_qr">Skener QR kódov</string>
