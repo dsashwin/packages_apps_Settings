@@ -353,6 +353,6 @@
     <string name="network_traffic_mode_status_bar">Statusleiste</string>
     <string name="network_traffic_mode_qs">Schnelleinstellungen</string>
     <string name="network_traffic_autohide">Automatisch ausblenden</string>
-    <string name="network_traffic_autohide_summary">Hide the traffic monitor when there is no activity</string>
-    <string name="network_traffic_units_title">Traffic measurement units</string>
+    <string name="network_traffic_autohide_summary">Datenverkehr-Anzeige ausblenden, wenn keine Netzwerkaktivität vorhanden ist</string>
+    <string name="network_traffic_units_title">Einheiten der Datenübertragungsraten</string>
 </resources>
