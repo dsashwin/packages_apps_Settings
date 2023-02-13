@@ -108,8 +108,8 @@
     <string name="adaptive_playback_timeout_10_min">10 分鐘</string>
     <string name="adaptive_playback_timeout_10_min_summary">開啟（10 分鐘）</string>
     <!-- Navbar options -->
-    <string name="navbar_invert_layout_title">Invert navigation bar layout</string>
-    <string name="navbar_invert_info">Swap the \"Back\" and \"Recents\" buttons on the navigation bar</string>
+    <string name="navbar_invert_layout_title">反轉導覽列配置</string>
+    <string name="navbar_invert_info">對換導覽列上的返回及總覽鍵</string>
     <!-- Doze on double tap -->
     <string name="double_tap_title">輕觸兩下</string>
     <string name="doze_double_tap_title">輕觸兩下來查看手機</string>
