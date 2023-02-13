@@ -173,22 +173,22 @@
     <string name="button_backlight_enabled">Illuminate buttons</string>
     <string name="button_backlight_only_when_pressed_title">僅在按下按鈕才點亮指示燈</string>
     <string name="keyboard_backlight_enabled">鍵盤背光</string>
-    <string name="button_backlight_seekbar_title">Button brightness</string>
-    <string name="keyboard_backlight_seekbar_title">Keyboard brightness</string>
-    <string name="backlight_timeout_title">Illumination timeout</string>
-    <string name="backlight_timeout_unlimited">Don\'t turn off</string>
-    <string name="backlight_summary_disabled">Disabled</string>
-    <string name="backlight_summary_enabled_with_timeout">Enabled for <xliff:g id="timeout">%s</xliff:g></string>
-    <string name="backlight_summary_enabled">Enabled</string>
+    <string name="button_backlight_seekbar_title">按鈕亮度</string>
+    <string name="keyboard_backlight_seekbar_title">鍵盤亮度</string>
+    <string name="backlight_timeout_title">背光自動關閉時間</string>
+    <string name="backlight_timeout_unlimited">不關閉</string>
+    <string name="backlight_summary_disabled">已停用</string>
+    <string name="backlight_summary_enabled_with_timeout">已啟用 <xliff:g id="timeout">%s</xliff:g></string>
+    <string name="backlight_summary_enabled">已啟用</string>
     <!-- Buttons - Enable navbar -->
-    <string name="disable_navkeys_title">Enable on-screen nav bar</string>
-    <string name="disable_navkeys_summary">Enable on-screen navigation bar and disable hardware buttons</string>
+    <string name="disable_navkeys_title">啟用螢幕上的導覽列</string>
+    <string name="disable_navkeys_summary">啟用螢幕上的導覽列，並停用實體按鍵</string>
     <!-- Buttons - Swap capacitive keys -->
-    <string name="swap_capacitive_keys_title">Swap capacitive buttons</string>
-    <string name="swap_capacitive_keys_summary">Swap the order of recents and back buttons</string>
+    <string name="swap_capacitive_keys_title">交換觸控按鈕</string>
+    <string name="swap_capacitive_keys_summary">交換總覽和返回按鈕的順序</string>
     <!-- Others settings -->
-    <string name="others_settings_title">Others settings</string>
-    <string name="additional_buttons_title">Additional buttons</string>
+    <string name="others_settings_title">其他設定</string>
+    <string name="additional_buttons_title">附加按鈕</string>
     <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">高觸控靈敏度</string>
     <string name="high_touch_sensitivity_summary">增加觸控螢幕的靈敏度，因此戴著手套也可以使用手機</string>
@@ -199,16 +199,16 @@
     <string name="high_touch_polling_rate_title">高觸控採樣率</string>
     <string name="high_touch_polling_rate_summary">提高螢幕的觸控採樣率</string>
     <!-- Advanced keyboard settings -->
-    <string name="keyboard_extras_title">Extras</string>
-    <string name="advanced_keyboard_settings_title">Advanced settings</string>
+    <string name="keyboard_extras_title">附加的</string>
+    <string name="advanced_keyboard_settings_title">進階設定</string>
     <!-- Face Unlock -->
-    <string name="security_settings_face_unlock_redo_face_scan_summary">Remove existing face scan and create a new scan</string>
-    <string name="security_settings_face_unlock_redo_face_scan_title">Redo face scan</string>
-    <string name="face_redo_confirm_btn">Redo</string>
-    <string name="face_redo_warning_msg">Do you want to remove the existing face scan and create a new one?</string>
-    <string name="face_unlock_method_title">Allow face unlock on lock screen</string>
-    <string name="face_unlock_method_default">When the screen is turned on</string>
-    <string name="face_unlock_method_swipe">When swiping on lock screen</string>
+    <string name="security_settings_face_unlock_redo_face_scan_summary">移除現有的臉部模型，並建立新的臉部模型</string>
+    <string name="security_settings_face_unlock_redo_face_scan_title">重新掃描臉部</string>
+    <string name="face_redo_confirm_btn">重做</string>
+    <string name="face_redo_warning_msg">您要移除現有的臉部模型資料，並建立新的臉部模型嗎?</string>
+    <string name="face_unlock_method_title">允許在鎖定畫面使用人臉解鎖</string>
+    <string name="face_unlock_method_default">當螢幕開啟時</string>
+    <string name="face_unlock_method_swipe">當在鎖定畫面滑動時</string>
     <!-- LiveDisplay -->
     <string name="live_display_summary">根據日夜和環境條件調整您的螢幕色溫，可改善可讀性和減少眼睛疲勞</string>
     <string name="live_display_mode">顯示模式</string>
@@ -265,44 +265,44 @@
     <!-- Battery light -->
     <string name="battery_light_title">電量指示燈</string>
     <!-- Black background -->
-    <string name="black_bg_title">Black background</string>
-    <string name="black_bg_summary">Use an absolute black background when dark mode is on</string>
+    <string name="black_bg_title">黑色背景</string>
+    <string name="black_bg_summary">開啟深色主題時，使用純黑的背景</string>
     <!-- QS footer data usage -->
-    <string name="qs_show_data_usage_title">Show data usage</string>
-    <string name="qs_show_data_usage_summary">Show daily cellular/Wi-Fi data usage in QS footer</string>
+    <string name="qs_show_data_usage_title">顯示行動數據用量</string>
+    <string name="qs_show_data_usage_summary">在快速設定面板下方顯示行動數據/ Wi-FI 的用量</string>
     <!-- Fingerprint Ripple Effect -->
     <string name="enable_fingerprint_ripple_effect_title">波紋效果</string>
     <string name="enable_fingerprint_ripple_effect_summary">以指紋解鎖時顯示波紋效果</string>
     <!-- Display : Rotation -->
-    <string name="display_rotation_title">Rotation settings</string>
-    <string name="display_rotation_enabled">Auto-rotation is enabled</string>
-    <string name="display_rotation_disabled">Auto-rotation is disabled</string>
-    <string name="display_rotation_unit">degrees</string>
-    <string name="display_rotation_category_title">Rotation modes</string>
-    <string name="display_rotation_0_title">0 degrees</string>
-    <string name="display_rotation_90_title">90 degrees</string>
-    <string name="display_rotation_180_title">180 degrees</string>
-    <string name="display_rotation_270_title">270 degrees</string>
+    <string name="display_rotation_title">旋轉設定</string>
+    <string name="display_rotation_enabled">啟用自動旋轉</string>
+    <string name="display_rotation_disabled">停用自動旋轉</string>
+    <string name="display_rotation_unit">度</string>
+    <string name="display_rotation_category_title">旋轉模式</string>
+    <string name="display_rotation_0_title">0 度</string>
+    <string name="display_rotation_90_title">90 度</string>
+    <string name="display_rotation_180_title">180 度</string>
+    <string name="display_rotation_270_title">270 度</string>
     <!-- Radio Info -->
-    <string name="radio_info_title">Radio info</string>
+    <string name="radio_info_title">無線連接資訊</string>
     <!-- Pocket mode -->
-    <string name="proximity_wake_title">Prevent accidental wake-up</string>
-    <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen</string>
+    <string name="proximity_wake_title">防止意外喚醒</string>
+    <string name="proximity_wake_summary">在喚醒螢幕之前檢查距離傳感器</string>
     <!-- Scramble pin -->
-    <string name="unlock_scramble_pin_layout_title">Scramble layout</string>
-    <string name="unlock_scramble_pin_layout_summary">Scramble PIN layout when unlocking device</string>
+    <string name="unlock_scramble_pin_layout_title">亂序布局</string>
+    <string name="unlock_scramble_pin_layout_summary">解鎖裝置時使用亂序 PIN 鍵盤布局</string>
     <!-- Quick unlock -->
-    <string name="unlock_quick_unlock_control_title">Quick unlock</string>
-    <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
+    <string name="unlock_quick_unlock_control_title">快速解鎖</string>
+    <string name="unlock_quick_unlock_control_summary">當輸入正確的 PIN 碼/密碼時自動解鎖</string>
     <!-- One shot automatic brightness -->
-    <string name="auto_brightness_one_shot_title">One shot auto-brightness</string>
-    <string name="auto_brightness_one_shot_summary">Brightness adjustment will only occur at the moment the screen is turned on</string>
+    <string name="auto_brightness_one_shot_title">單次自動亮度調整</string>
+    <string name="auto_brightness_one_shot_summary">僅在螢幕開啟時自動調整螢幕亮度一次</string>
     <!-- Immersive Navigation -->
-    <string name="gesture_navbar_category_title">Navigation bar</string>
-    <string name="immersive_navigation_title">Immersive Navigation</string>
-    <string name="immersive_navigation_summary">Hide the gesture pill and navigation bar padding.</string>
+    <string name="gesture_navbar_category_title">導覽列</string>
+    <string name="immersive_navigation_title">沉浸式導覽列</string>
+    <string name="immersive_navigation_summary">隱藏手勢條和導覽列填充。</string>
     <!-- Package details -->
-    <string name="package_details_group_title">Package details</string>
+    <string name="package_details_group_title">套件詳細資料</string>
     <string name="package_name">Package name</string>
     <string name="package_version">Package version</string>
     <!-- Hotspot -->
