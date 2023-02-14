@@ -351,8 +351,8 @@
     <string name="network_traffic_mode_title">Chế độ hiển thị</string>
     <string name="network_traffic_mode_disable">Vô hiệu hóa</string>
     <string name="network_traffic_mode_status_bar">Thanh trạng thái</string>
-    <string name="network_traffic_mode_qs">Quick settings</string>
-    <string name="network_traffic_autohide">Auto hide</string>
-    <string name="network_traffic_autohide_summary">Hide the traffic monitor when there is no activity</string>
-    <string name="network_traffic_units_title">Traffic measurement units</string>
+    <string name="network_traffic_mode_qs">Cài đặt nhanh</string>
+    <string name="network_traffic_autohide">Tự động ẩn</string>
+    <string name="network_traffic_autohide_summary">Ẩn tốc độ mạng khi không có hoạt động</string>
+    <string name="network_traffic_units_title">Đơn vị đo lưu lượng mạng</string>
 </resources>
