@@ -31,10 +31,10 @@
     <!-- Status bar Icon Manager -->
     <string name="icon_manager_title">Gestor de iconos</string>
     <string name="icon_manager_summary">Control de visibilidad de los iconos de la barra de estado</string>
-    <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
-    <string name="ambient_display_screen_off_udfps_title">Huella en AOD</string>
+    <!-- Preference and settings suggestion title text for screen off UDFPS  (device) [CHAR LIMIT=60]-->
+    <string name="ambient_display_screen_off_udfps_title">Long press on fingerprint sensor to unlock device</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">Permite desbloquear con la pantalla apagada.\nActivarlo puede causar encendidos accidentales.</string>
+    <string name="ambient_display_screen_off_udfps_summary">To wake up your screen and unlock, long press your under-display fingerprint sensor.</string>
     <!-- Fingerprint wake-and-unlock -->
     <string name="fingerprint_wake_unlock_title">Usa la huella digital para desbloquear</string>
     <string name="fingerprint_wake_unlock_touch">A la escucha de eventos con pantalla apagada</string>
