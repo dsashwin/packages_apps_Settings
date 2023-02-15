@@ -31,10 +31,10 @@
     <!-- Status bar Icon Manager -->
     <string name="icon_manager_title">Quản lý biểu tượng</string>
     <string name="icon_manager_summary">Điều chỉnh các biểu tượng trên thanh trạng thái</string>
-    <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
-    <string name="ambient_display_screen_off_udfps_title">Luôn bật vân tay khi màn hình tắt</string>
+    <!-- Preference and settings suggestion title text for screen off UDFPS  (device) [CHAR LIMIT=60]-->
+    <string name="ambient_display_screen_off_udfps_title">Long press on fingerprint sensor to unlock device</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">Cho phép mở khóa bằng vân tay khi màn hình đang tắt.\nKích hoạt có thể khiến thiết bị bất ngờ bị đánh thức.</string>
+    <string name="ambient_display_screen_off_udfps_summary">To wake up your screen and unlock, long press your under-display fingerprint sensor.</string>
     <!-- Fingerprint wake-and-unlock -->
     <string name="fingerprint_wake_unlock_title">Chạm vào cảm biến vân tay để mở khoá</string>
     <string name="fingerprint_wake_unlock_touch">Mở khóa bằng vân tay ngay cả khi màn hình tắt</string>
