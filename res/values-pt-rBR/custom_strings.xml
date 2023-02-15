@@ -31,10 +31,10 @@
     <!-- Status bar Icon Manager -->
     <string name="icon_manager_title">Gerenciador de ícones</string>
     <string name="icon_manager_summary">Controle de visibilidade dos ícones da barra de status</string>
-    <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
-    <string name="ambient_display_screen_off_udfps_title">Impressão digital sempre ativa</string>
+    <!-- Preference and settings suggestion title text for screen off UDFPS  (device) [CHAR LIMIT=60]-->
+    <string name="ambient_display_screen_off_udfps_title">Long press on fingerprint sensor to unlock device</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">Permite desbloquear com a tela desligada.\nManter ativado pode fazer sua tela acender acidentalmente.</string>
+    <string name="ambient_display_screen_off_udfps_summary">To wake up your screen and unlock, long press your under-display fingerprint sensor.</string>
     <!-- Fingerprint wake-and-unlock -->
     <string name="fingerprint_wake_unlock_title">Toque no leitor de impressão digital para desbloquear</string>
     <string name="fingerprint_wake_unlock_touch">Permitir desbloqueio com a tela desligada</string>
