@@ -31,10 +31,10 @@
     <!-- Status bar Icon Manager -->
     <string name="icon_manager_title">ഐക്കൺ മാനേജർ</string>
     <string name="icon_manager_summary">സ്റ്റാറ്റസ് ബാർ ഐക്കണുകളുടെ ദൃശ്യപരത നിയന്ത്രിക്കുക</string>
-    <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
-    <string name="ambient_display_screen_off_udfps_title">എല്ലായ്പ്പോഴും പ്രവർത്തിക്കുന്ന ഫിംഗർപ്രിന്റ്</string>
+    <!-- Preference and settings suggestion title text for screen off UDFPS  (device) [CHAR LIMIT=60]-->
+    <string name="ambient_display_screen_off_udfps_title">Long press on fingerprint sensor to unlock device</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">സ്‌ക്രീൻ ഓഫാണെങ്കിലും അൺലോക്ക് ചെയ്യാൻ അനുവദിക്കുന്നു.\nഇത് പ്രവർത്തനക്ഷമമാക്കുന്നത് ആകസ്മികമായ സ്‌ക്രീൻ ഓണാക്കിയേക്കാം.</string>
+    <string name="ambient_display_screen_off_udfps_summary">To wake up your screen and unlock, long press your under-display fingerprint sensor.</string>
     <!-- Fingerprint wake-and-unlock -->
     <string name="fingerprint_wake_unlock_title">അൺലോക്ക് ചെയ്യാൻ വിരലടയാളം സ്പർശിക്കുക</string>
     <string name="fingerprint_wake_unlock_touch">സ്‌ക്രീൻ ഓഫായിരിക്കുമ്പോൾ ഇവന്റുകൾ ശ്രദ്ധിച്ചേക്കാം</string>
