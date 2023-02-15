@@ -22,7 +22,7 @@
     <!-- Min refresh rate -->
     <string name="min_refresh_rate_title">Lägsta uppdateringsfrekvens</string>
     <!-- Display settings screen, peak refresh rate settings summary [CHAR LIMIT=NONE] -->
-    <string name="peak_refresh_rate_summary_custom">Automatically raises the refresh rate from 60 to %1$d Hz for some content. Increases battery usage.</string>
+    <string name="peak_refresh_rate_summary_custom">Ökar automatiskt uppdateringsfrekvensen från 60 till %1$d Hz för visst innehåll. Ökar batterianvändningen.</string>
     <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
     <string name="category_name_refresh_rate_controls">Uppdateringsfrekvens</string>
     <!-- Three-fingers-swipe to screenshot -->
@@ -31,10 +31,10 @@
     <!-- Status bar Icon Manager -->
     <string name="icon_manager_title">Ikonhanterare</string>
     <string name="icon_manager_summary">Styr synligheten av statusfältsikoner</string>
-    <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
-    <string name="ambient_display_screen_off_udfps_title">Fingertryck alltid tillgänglig</string>
+    <!-- Preference and settings suggestion title text for screen off UDFPS  (device) [CHAR LIMIT=60]-->
+    <string name="ambient_display_screen_off_udfps_title">Long press on fingerprint sensor to unlock device</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">Tillåter upplåsning när skärmen är avstängd.\nAktivering kan orsaka oavsiktliga väckningar.</string>
+    <string name="ambient_display_screen_off_udfps_summary">To wake up your screen and unlock, long press your under-display fingerprint sensor.</string>
     <!-- Fingerprint wake-and-unlock -->
     <string name="fingerprint_wake_unlock_title">Rör vid fingeravtrycket för att låsa upp</string>
     <string name="fingerprint_wake_unlock_touch">Lyssna efter fingeravtryck när skärmen är avstängd</string>
@@ -178,7 +178,7 @@
     <string name="backlight_timeout_title">Tidsgräns för knappljus</string>
     <string name="backlight_timeout_unlimited">Stäng inte av</string>
     <string name="backlight_summary_disabled">Inaktiverad</string>
-    <string name="backlight_summary_enabled_with_timeout">Enabled for <xliff:g id="timeout">%s</xliff:g></string>
+    <string name="backlight_summary_enabled_with_timeout">Aktiverad i <xliff:g id="timeout">%s</xliff:g></string>
     <string name="backlight_summary_enabled">Aktiverad</string>
     <!-- Buttons - Enable navbar -->
     <string name="disable_navkeys_title">Aktivera navigeringsfält på skärmen</string>
@@ -295,7 +295,7 @@
     <string name="unlock_quick_unlock_control_title">Snabbupplåsning</string>
     <string name="unlock_quick_unlock_control_summary">Lås upp automatiskt när rätt PIN/lösenord har angivits</string>
     <!-- One shot automatic brightness -->
-    <string name="auto_brightness_one_shot_title">One shot auto-brightness</string>
+    <string name="auto_brightness_one_shot_title">Automatisk ljusstyrka en gång</string>
     <string name="auto_brightness_one_shot_summary">Justering av ljusstyrkan kommer endast att ske när skärmen slås på</string>
     <!-- Immersive Navigation -->
     <string name="gesture_navbar_category_title">Navigeringsfält</string>
