@@ -31,10 +31,10 @@
     <!-- Status bar Icon Manager -->
     <string name="icon_manager_title">Manajer ikon</string>
     <string name="icon_manager_summary">Kontrol visibilitas ikon bilah status</string>
-    <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
-    <string name="ambient_display_screen_off_udfps_title">Sidik Jari Selalu Aktif</string>
+    <!-- Preference and settings suggestion title text for screen off UDFPS  (device) [CHAR LIMIT=60]-->
+    <string name="ambient_display_screen_off_udfps_title">Long press on fingerprint sensor to unlock device</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">Mengizinkan membuka kunci dengan layar mati.\nMengaktifkan ini dapat menyebabkan bangun tanpa disengaja.</string>
+    <string name="ambient_display_screen_off_udfps_summary">To wake up your screen and unlock, long press your under-display fingerprint sensor.</string>
     <!-- Fingerprint wake-and-unlock -->
     <string name="fingerprint_wake_unlock_title">Sentuh sensor sidik jari untuk membuka kunci</string>
     <string name="fingerprint_wake_unlock_touch">Mendeteksi saat layar mati</string>
