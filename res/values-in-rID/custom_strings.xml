@@ -15,7 +15,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- String for removal of sensitive info on about, depending on tap -->
-    <string name="device_info_protected_single_press">Tap to show info</string>
+    <string name="device_info_protected_single_press">Ketuk untuk menampilkan info</string>
     <!-- Max refresh rate -->
     <string name="max_refresh_rate_title">Kecepatan refresh maksimum</string>
     <!-- Min refresh rate -->
@@ -25,8 +25,8 @@
     <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
     <string name="category_name_refresh_rate_controls">Kecepatan Refresh</string>
     <!-- Battery saver refresh rate -->
-    <string name="battery_saver_refresh_rate_title">Reduce refresh rate</string>
-    <string name="battery_saver_refresh_rate_summary">Use 60 Hz screen refresh rate to save power when Battery Saver is on</string>
+    <string name="battery_saver_refresh_rate_title">Kurangi kecepatan refresh</string>
+    <string name="battery_saver_refresh_rate_summary">Gunakan kecepatan refresh layar 60 Hz untuk menghemat daya saat Penghemat Baterai aktif</string>
     <!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Temukan sensor sidik jari di bagian depan tablet Anda.</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="device">Temukan sensor sidik jari di bagian depan perangkat Anda.</string>
@@ -34,9 +34,9 @@
     <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Temukan sensor sidik jari di bagian belakang tablet Anda.</string>
     <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Temukan sensor sidik jari di bagian belakang perangkat Anda.</string>
     <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Temukan sensor sidik jari di bagian belakang ponsel Anda.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Locate the fingerprint sensor on the side of your tablet.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Locate the fingerprint sensor on the side of your device.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Locate the fingerprint sensor on the side of your phone.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Temukan sensor sidik jari di bagian samping tablet Anda.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Temukan sensor sidik jari di bagian samping perangkat Anda.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Temukan sensor sidik jari di bagian samping ponsel Anda.</string>
     <!-- Message shown when user touches the icon on the screen, instead of the real fingerprint sensor -->
     <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Sentuh sensor di bagian depan tablet Anda.</string>
     <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Sentuh sensor di bagian depan perangkat Anda.</string>
@@ -49,7 +49,7 @@
     <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Sentuh sensor di bagian samping ponsel Anda.</string>
     <!-- Proximity wake / Pocket mode -->
     <string name="proximity_wake_title">Mencegah bangun tidak disengaja</string>
-    <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen from the double tap to wake gesture</string>
+    <string name="proximity_wake_summary">Periksa sensor proximity sebelum layar bangun dari gestur bangun ketuk dua kali</string>
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">Opsi getar dalam panggilan</string>
     <string name="incall_vibrate_connect_title">Bergetar saat terhubung</string>
@@ -73,8 +73,8 @@
     <string name="navbar_invert_layout_title">Balikkan tata letak bilah navigasi</string>
     <string name="navbar_invert_info">Tukar posisi tombol \"Kembali\" dan tombol \"Terbaru\" di bilah navigasi</string>
     <!-- Left volume panel -->
-    <string name="volume_panel_on_left_title">Show volume panel on left</string>
-    <string name="volume_panel_on_left_summary">Move volume panel to the left side of the screen</string>
+    <string name="volume_panel_on_left_title">Tampilkan panel volume di kiri</string>
+    <string name="volume_panel_on_left_summary">Tampilkan panel volume di sisi kiri layar</string>
     <!-- Torch Power button gestures -->
     <string name="power_button_torch_title">Senter cepat</string>
     <string name="power_button_torch_summary">Saat layar mati, tombol daya yang menekan lama akan mengaktifkan senter</string>
@@ -82,57 +82,57 @@
     <string name="double_tap_sleep_gesture_title">Ketuk dua kali untuk tidur</string>
     <string name="double_tap_sleep_gesture_summary">Ketuk dua kali pada bilah status untuk mematikan layar</string>
     <!-- Low battery light -->
-    <string name="low_battery_light_title">Low battery light</string>
-    <string name="low_battery_light_summary">Blink LED when battery is low</string>
+    <string name="low_battery_light_title">Lampu baterai lemah</string>
+    <string name="low_battery_light_summary">Kedipkan LED saat baterai lemah</string>
     <!-- Network traffic -->
-    <string name="network_traffic_title">Network traffic indicator</string>
-    <string name="network_traffic_summary">Enable or disable network speed indicator in status bar</string>
-    <string name="network_traffic_state_title">Enable \"Network traffic indicator\"</string>
-    <string name="network_options_title">Options</string>
-    <string name="network_traffic_autohide_title">Hide network traffic indicator is inactive</string>
-    <string name="network_traffic_autohide_summary">Hide when network traffic indicator is below 1 KB/s</string>
+    <string name="network_traffic_title">Indikator lalu lintas jaringan</string>
+    <string name="network_traffic_summary">Aktifkan atau nonaktifkan indikator kecepatan jaringan di bilah status</string>
+    <string name="network_traffic_state_title">Aktifkan \"Indikator lalu lintas jaringan\"</string>
+    <string name="network_options_title">Opsi</string>
+    <string name="network_traffic_autohide_title">Sembunyikan indikator lalu lintas jaringan jika tidak aktif</string>
+    <string name="network_traffic_autohide_summary">Sembunyikan saat indikator lalu lintas jaringan di bawah 1 KB/d</string>
     <!-- Display customization category -->
-    <string name="customization_category_title">Customization</string>
+    <string name="customization_category_title">Kustomisasi</string>
     <!-- QS footer data usage -->
     <string name="qs_show_data_usage_title">Tampilkan penggunaan data</string>
     <string name="qs_show_data_usage_summary">Tampilkan penggunaan data seluler/Wi-Fi harian di footer Setelan Cepat</string>
     <!-- Status bar Icon Manager -->
-    <string name="icon_manager_title">Status bar items</string>
+    <string name="icon_manager_title">Item bilah status</string>
     <string name="icon_manager_summary">Kontrol visibilitas ikon bilah status</string>
     <!-- Show clipboard overlay -->
-    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
-    <string name="show_clipboard_overlay_summary">Show an overlay in the left bottom corner of the screen when something is copied to the clipboard</string>
+    <string name="show_clipboard_overlay_title">Tampilkan hamparan papan klip</string>
+    <string name="show_clipboard_overlay_summary">Tampilkan hamparan di sudut kiri bawah layar ketika sesuatu disalin ke papan klip</string>
     <!-- Volume rocker music control -->
     <string name="volume_button_music_control_title">Kontrol Pemutaran</string>
-    <string name="volume_button_music_control_summary">When the screen is off, long-pressing the volume keys will skip music tracks</string>
+    <string name="volume_button_music_control_summary">Saat layar mati, menekan lama tombol volume akan melewati trek musik</string>
     <!-- Backup Transport selection settings menu and activity title -->
-    <string name="backup_transport_setting_label">Change backup provider</string>
-    <string name="backup_transport_title">Select backup provider</string>
+    <string name="backup_transport_setting_label">Ubah penyedia cadangan</string>
+    <string name="backup_transport_title">Pilih penyedia cadangan</string>
     <!-- Ignore window secure -->
     <string name="ignore_window_secure_title">Abaikan hamparan pengaman privasi</string>
     <string name="ignore_window_secure_summary">Hapus tangkapan layar dan batas perekaman layar untuk semua aplikasi. Ini bisa nyaman dalam beberapa kasus tetapi dapat menyebabkan kebocoran privasi.</string>
     <!-- App lock -->
-    <string name="app_lock_title">App lock</string>
+    <string name="app_lock_title">Kunci aplikasi</string>
     <plurals name="app_lock_summary">
-        <item quantity="other"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> applications are protected</item>
+        <item quantity="other"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> aplikasi dilindungi</item>
     </plurals>
-    <string name="app_lock_authentication_dialog_title">Unlock</string>
-    <string name="enable_debugging">Enable debugging</string>
-    <string name="disable_debugging">Disable debugging</string>
-    <string name="app_lock_packages_title">Protected apps</string>
-    <string name="app_lock_packages_summary">Select the apps to protect with biometrics or device credentials</string>
-    <string name="app_lock_timeout_title">Auto lock timeout</string>
-    <string name="app_lock_timeout_summary">Duration of time after which an unlocked app in background should be locked</string>
-    <string name="app_lock_notifications_title">Redact notifications</string>
-    <string name="app_lock_notifications_summary">          Notification content will be hidden and collapsed for selected apps when they are locked.
-          Heads up notifications will be automatically disabled.
+    <string name="app_lock_authentication_dialog_title">Buka</string>
+    <string name="enable_debugging">Aktifkan debugging</string>
+    <string name="disable_debugging">Matikan debugging</string>
+    <string name="app_lock_packages_title">Aplikasi dilindungi</string>
+    <string name="app_lock_packages_summary">Pilih aplikasi yang akan dilindungi oleh biometrik atau kredensial perangkat</string>
+    <string name="app_lock_timeout_title">Batas waktu penguncian otomatis</string>
+    <string name="app_lock_timeout_summary">Durasi waktu setelah aplikasi yang tidak terkunci di latar belakang harus dikunci</string>
+    <string name="app_lock_notifications_title">Matikan notifikasi</string>
+    <string name="app_lock_notifications_summary">Konten notifikasi akan disembunyikan dan dimatikan untuk aplikasi yang dipilih saat terkunci.
+          Notifikasi mengambang akan dinonaktifkan secara otomatis.
     </string>
-    <string name="app_lock_notifications_disabled_summary">Protect an application first</string>
-    <string name="app_lock_biometrics_allowed_title">Enable biometrics for unlocking</string>
-    <string name="app_lock_footer_text">Bubbles will be automatically dismissed after timeout</string>
-    <string name="enable_protection">Enable protection</string>
-    <string name="hide_from_launcher_title">Hide from launcher</string>
-    <string name="hide_from_launcher_summary">        Prevent this application from showing up in launcher. Requires a launcher restart for changes to take effect.
+    <string name="app_lock_notifications_disabled_summary">Lindungi aplikasi terlebih dahulu</string>
+    <string name="app_lock_biometrics_allowed_title">Aktifkan biometrik untuk membuka kunci</string>
+    <string name="app_lock_footer_text">Gelembung akan ditutup secara otomatis setelah waktu habis</string>
+    <string name="enable_protection">Aktifkan perlindungan</string>
+    <string name="hide_from_launcher_title">Sembunyikan dari peluncur</string>
+    <string name="hide_from_launcher_summary">        Cegah aplikasi ini muncul di peluncur. Membutuhkan mulai ulang peluncur agar perubahan diterapkan.
     </string>
     <!-- Fingerprint Ripple Effect -->
     <string name="enable_fingerprint_ripple_effect_title">Efek riak</string>
@@ -145,12 +145,12 @@
     <string name="search">Cari</string>
     <string name="search_apps">Cari aplikasi</string>
     <!-- Quick Settings quick pulldown -->
-    <string name="quick_settings_quick_pull_down_title">Quick QS pulldown</string>
-    <string name="quick_settings_quick_pull_down_summary">Pull down statusbar from right side to expand quick settings</string>
+    <string name="quick_settings_quick_pull_down_title">Menurunkan cepat Setelan Cepat</string>
+    <string name="quick_settings_quick_pull_down_summary">Tarik ke bawah bilah status dari sisi kanan untuk memperluas setelan cepat</string>
     <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
-    <string name="ambient_display_screen_off_udfps_title">Always on Fingerprint</string>
+    <string name="ambient_display_screen_off_udfps_title">Sidik Jari Selalu Aktif</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">Allows unlocking with the screen off.\nEnabling may cause accidental wake-ups.</string>
+    <string name="ambient_display_screen_off_udfps_summary">Mengizinkan membuka kunci dengan layar mati.\nMengaktifkan ini dapat menyebabkan bangun tanpa disengaja.</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
     <string name="duration_less_than_one_minute">Kurang dari 1 menit</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
@@ -191,8 +191,8 @@
     <string name="adaptive_playback_timeout_10_min">10 menit</string>
     <string name="adaptive_playback_timeout_10_min_summary">Aktif (10 menit)</string>
     <!-- Navigation bar hint -->
-    <string name="show_navbar_gesture_bar_title">Gesture bar</string>
-    <string name="show_navbar_gesture_bar_summary">Show gesture bar at the bottom of the screen</string>
+    <string name="show_navbar_gesture_bar_title">Bilah gestur</string>
+    <string name="show_navbar_gesture_bar_summary">Tampilkan bilah gestur di bagian bawah layar</string>
     <!-- Scramble pin -->
     <string name="unlock_scramble_pin_layout_title">Tata letak acak</string>
     <string name="unlock_scramble_pin_layout_summary">Acak tata letak PIN saat membuka perangkat</string>
@@ -229,7 +229,7 @@
     <string name="face_unlock_method_title">Izinkan face unlock di layar kunci</string>
     <string name="face_unlock_method_default">Saat layar dihidupkan</string>
     <string name="face_unlock_method_swipe">Saat mengusap layar kunci</string>
-    <string name="skip_biometric_auth_confirmation_title">Skip manually confirmation</string>
+    <string name="skip_biometric_auth_confirmation_title">Lewati konfirmasi secara manual</string>
     <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Sensitivitas sentuh tinggi</string>
     <string name="high_touch_sensitivity_summary">Tingkatkan kepekaan layar sentuh sehingga dapat digunakan saat mengenakan sarung tangan</string>
@@ -294,8 +294,8 @@ Malam: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="adj_intensity_title">Intensitas</string>
     <string name="adj_contrast_title">Kontras</string>
     <!-- Black theme -->
-    <string name="system_black_theme_title">Use Black theme</string>
-    <string name="system_black_theme_summary">Force black background colors</string>
+    <string name="system_black_theme_title">Gunakan tema hitam</string>
+    <string name="system_black_theme_summary">Paksa warna latar belakang hitam</string>
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Buka cepat</string>
     <string name="unlock_quick_unlock_control_summary">Membuka secara otomatis ketika PIN/kata sandi yang dimasukkan benar</string>
