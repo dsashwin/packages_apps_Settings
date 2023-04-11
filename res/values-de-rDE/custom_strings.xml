@@ -15,7 +15,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- String for removal of sensitive info on about, depending on tap -->
-    <string name="device_info_protected_single_press">Tap to show info</string>
+    <string name="device_info_protected_single_press">Tippen, um Info anzuzeigen</string>
     <!-- Max refresh rate -->
     <string name="max_refresh_rate_title">Maximale Bildwiederholrate</string>
     <!-- Min refresh rate -->
@@ -25,8 +25,8 @@
     <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
     <string name="category_name_refresh_rate_controls">Aktualisierungsrate</string>
     <!-- Battery saver refresh rate -->
-    <string name="battery_saver_refresh_rate_title">Reduce refresh rate</string>
-    <string name="battery_saver_refresh_rate_summary">Use 60 Hz screen refresh rate to save power when Battery Saver is on</string>
+    <string name="battery_saver_refresh_rate_title">Aktualisierungsrate reduzieren</string>
+    <string name="battery_saver_refresh_rate_summary">Bildschirmaktualisierungsrate von 60 Hz verwenden, um Strom zu sparen, wenn der Energiesparmodus aktiviert ist</string>
     <!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Suchen Sie den Fingerabdrucksensor auf der Vorderseite Ihres Gerätes.</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="device">Suchen Sie den Fingerabdrucksensor auf der Vorderseite Ihres Gerätes.</string>
@@ -34,9 +34,9 @@
     <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Suchen Sie den Fingerabdrucksensor auf der Rückseite Ihres Tablets.</string>
     <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Suchen Sie den Fingerabdrucksensor auf der Rückseite Ihres Geräts.</string>
     <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Suchen Sie den Fingerabdrucksensor auf der Rückseite deines Telefons.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Locate the fingerprint sensor on the side of your tablet.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Locate the fingerprint sensor on the side of your device.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Locate the fingerprint sensor on the side of your phone.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Finde den Fingerabdrucksensor an der Seite deines Tablets.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Finde den Fingerabdrucksensor an der Seite deines Gerätes.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Finde den Fingerabdrucksensor an der Seite deines Telefons.</string>
     <!-- Message shown when user touches the icon on the screen, instead of the real fingerprint sensor -->
     <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Berühren Sie den Sensor auf der Vorderseite Ihres Tablets.</string>
     <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Berühren Sie den Sensor auf der Vorderseite Ihres Tablets.</string>
@@ -49,7 +49,7 @@
     <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Berühren Sie den Sensor an der Seite Ihres Telefons.</string>
     <!-- Proximity wake / Pocket mode -->
     <string name="proximity_wake_title">Unbeabsichtigtes Aufwecken verhindern</string>
-    <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen from the double tap to wake gesture</string>
+    <string name="proximity_wake_summary">Überprüft den Näherungssensor, bevor der Bildschirm mit der Doppeltippgeste aktiviert wird</string>
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">Vibrationseinstellungen während eines Anrufs</string>
     <string name="incall_vibrate_connect_title">Vibrieren bei Verbindung</string>
@@ -73,8 +73,8 @@
     <string name="navbar_invert_layout_title">Layouts der Navigationsleiste umkehren</string>
     <string name="navbar_invert_info">Tausche die \"Zurück\" und \"Zuletzt geöffnet\" Tasten in der Navigationsleiste</string>
     <!-- Left volume panel -->
-    <string name="volume_panel_on_left_title">Show volume panel on left</string>
-    <string name="volume_panel_on_left_summary">Move volume panel to the left side of the screen</string>
+    <string name="volume_panel_on_left_title">Lautstärkeregler auf der linken Seite anzeigen</string>
+    <string name="volume_panel_on_left_summary">Lautstärkeregler auf die linke Bildschirmseite verschieben</string>
     <!-- Torch Power button gestures -->
     <string name="power_button_torch_title">Schnelle Taschenlampe</string>
     <string name="power_button_torch_summary">Wenn der Bildschirm ausgeschaltet ist, wird durch langes Drücken der Ein-/Aus-Taste die Taschenlampe aktiviert</string>
@@ -82,29 +82,29 @@
     <string name="double_tap_sleep_gesture_title">Display ausschalten durch doppeltes Tippen</string>
     <string name="double_tap_sleep_gesture_summary">Doppeltes Tippen auf die Statusleiste, um den Bildschirm ausschalten</string>
     <!-- Low battery light -->
-    <string name="low_battery_light_title">Low battery light</string>
-    <string name="low_battery_light_summary">Blink LED when battery is low</string>
+    <string name="low_battery_light_title">LED bei niedrigem Akkustand</string>
+    <string name="low_battery_light_summary">LED blinkt bei niedrigem Akkustand</string>
     <!-- Network traffic -->
-    <string name="network_traffic_title">Network traffic indicator</string>
-    <string name="network_traffic_summary">Enable or disable network speed indicator in status bar</string>
-    <string name="network_traffic_state_title">Enable \"Network traffic indicator\"</string>
-    <string name="network_options_title">Options</string>
-    <string name="network_traffic_autohide_title">Hide network traffic indicator is inactive</string>
-    <string name="network_traffic_autohide_summary">Hide when network traffic indicator is below 1 KB/s</string>
+    <string name="network_traffic_title">Netzwerkverkehrsanzeige</string>
+    <string name="network_traffic_summary">Aktiviere oder deaktiviere die Netzwerkverkehrsanzeige in der Statusleiste</string>
+    <string name="network_traffic_state_title">Netzwerkverkehrsanzeige einschalten</string>
+    <string name="network_options_title">Einstellungen</string>
+    <string name="network_traffic_autohide_title">Netzwerkverkehrsanzeige ausblenden, wenn inaktiv</string>
+    <string name="network_traffic_autohide_summary">Ausblenden, wenn die Netzwerkverkehrsanzeige unter 1 KB/s liegt</string>
     <!-- Display customization category -->
-    <string name="customization_category_title">Customization</string>
+    <string name="customization_category_title">Personalisierung</string>
     <!-- QS footer data usage -->
     <string name="qs_show_data_usage_title">Datenverbrauch anzeigen</string>
     <string name="qs_show_data_usage_summary">Tägliche Mobilfunk-/WLAN-Datennutzung in den Schnelleinstellungen anzeigen</string>
     <!-- Status bar Icon Manager -->
-    <string name="icon_manager_title">Status bar items</string>
+    <string name="icon_manager_title">Statusleisten-Symbole</string>
     <string name="icon_manager_summary">Sichtbarkeit der Statusleistensymbole ändern</string>
     <!-- Show clipboard overlay -->
-    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
-    <string name="show_clipboard_overlay_summary">Show an overlay in the left bottom corner of the screen when something is copied to the clipboard</string>
+    <string name="show_clipboard_overlay_title">Overlay der Zwischenablage anzeigen</string>
+    <string name="show_clipboard_overlay_summary">Ein Overlay in der linken unteren Ecke des Bildschirms anzeigen, wenn etwas in die Zwischenablage kopiert wird</string>
     <!-- Volume rocker music control -->
     <string name="volume_button_music_control_title">Wiedergabesteuerung</string>
-    <string name="volume_button_music_control_summary">When the screen is off, long-pressing the volume keys will skip music tracks</string>
+    <string name="volume_button_music_control_summary">Bei ausgeschaltetem Bildschirm wird durch langes drücken der Lautstärketaste der Musiktitel gewechselt</string>
     <!-- Backup Transport selection settings menu and activity title -->
     <string name="backup_transport_setting_label">Change backup provider</string>
     <string name="backup_transport_title">Select backup provider</string>
