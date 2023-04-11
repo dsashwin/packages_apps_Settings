@@ -15,7 +15,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- String for removal of sensitive info on about, depending on tap -->
-    <string name="device_info_protected_single_press">Tap to show info</string>
+    <string name="device_info_protected_single_press">Érintse meg az információ megjelenítéséhez</string>
     <!-- Max refresh rate -->
     <string name="max_refresh_rate_title">Maximum frissítési gyakoriság</string>
     <!-- Min refresh rate -->
@@ -25,8 +25,8 @@
     <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
     <string name="category_name_refresh_rate_controls">Képernyőfrissítési érték</string>
     <!-- Battery saver refresh rate -->
-    <string name="battery_saver_refresh_rate_title">Reduce refresh rate</string>
-    <string name="battery_saver_refresh_rate_summary">Use 60 Hz screen refresh rate to save power when Battery Saver is on</string>
+    <string name="battery_saver_refresh_rate_title">Képernyőfrissítés-csökkentés</string>
+    <string name="battery_saver_refresh_rate_summary">60 Hz-es képernyőfrissítés az akkukíméléshez, ha az Akkukímélő mód be van kapcsolva</string>
     <!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Táblagépe előlapján találhatja meg az ujjlenyomat-olvasót.</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="device">Készüléke előlapján találhatja meg az ujjlenyomat-olvasót.</string>
@@ -34,9 +34,9 @@
     <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Táblagépe hátlapján találhatja meg az ujjlenyomat-olvasót.</string>
     <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Készüléke hátlapján találhatja meg az ujjlenyomat-olvasót.</string>
     <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Telefonja hátlapján találhatja meg az ujjlenyomat-olvasót.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Locate the fingerprint sensor on the side of your tablet.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Locate the fingerprint sensor on the side of your device.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Locate the fingerprint sensor on the side of your phone.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Táblagépe oldalán találhatja meg az ujjlenyomat-olvasót.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Készüléke oldalán találhatja meg az ujjlenyomat-olvasót.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Telefonja oldalán találhatja meg az ujjlenyomat-olvasót.</string>
     <!-- Message shown when user touches the icon on the screen, instead of the real fingerprint sensor -->
     <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Érintse meg a szenzort táblagépe előlapján.</string>
     <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Érintse meg a szenzort készüléke előlapján.</string>
@@ -49,7 +49,7 @@
     <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Érintse meg a szenzort telefonja oldalán.</string>
     <!-- Proximity wake / Pocket mode -->
     <string name="proximity_wake_title">Véletlenébresztés-gátló</string>
-    <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen from the double tap to wake gesture</string>
+    <string name="proximity_wake_summary">Közelségérzékelő-ellenőrzés, mielőtt a képernyő egy dupla koppintással felébred</string>
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">A hívás közbeni rezgés beállításai</string>
     <string name="incall_vibrate_connect_title">Rezgés a kapcsolat létrejöttekor</string>
@@ -73,8 +73,8 @@
     <string name="navbar_invert_layout_title">Fordított navigációssáv-elrendezés</string>
     <string name="navbar_invert_info">A \'Vissza\' és az \'Előzmények\' gomb cseréje a navigációban</string>
     <!-- Left volume panel -->
-    <string name="volume_panel_on_left_title">Show volume panel on left</string>
-    <string name="volume_panel_on_left_summary">Move volume panel to the left side of the screen</string>
+    <string name="volume_panel_on_left_title">Hangerőpanel a bal oldalon</string>
+    <string name="volume_panel_on_left_summary">Csúsztassa a hangerő panelt a képernyő bal oldalára</string>
     <!-- Torch Power button gestures -->
     <string name="power_button_torch_title">Zseblámpa gyorsan</string>
     <string name="power_button_torch_summary">Kikapcsolt képernyőnél, a bekapcsológomb hosszan nyomására a zseblámpa bekapcsol</string>
@@ -82,59 +82,59 @@
     <string name="double_tap_sleep_gesture_title">Dupla érintésre alvómód</string>
     <string name="double_tap_sleep_gesture_summary">Az állapotsor dupla érintésére a készülék alvó állapotba kerül</string>
     <!-- Low battery light -->
-    <string name="low_battery_light_title">Low battery light</string>
-    <string name="low_battery_light_summary">Blink LED when battery is low</string>
+    <string name="low_battery_light_title">Akkumerülés-jelzőfény</string>
+    <string name="low_battery_light_summary">Villogjon a LED, ha az akkumulátor töltöttségi szintje alacsony</string>
     <!-- Network traffic -->
-    <string name="network_traffic_title">Network traffic indicator</string>
-    <string name="network_traffic_summary">Enable or disable network speed indicator in status bar</string>
-    <string name="network_traffic_state_title">Enable \"Network traffic indicator\"</string>
-    <string name="network_options_title">Options</string>
-    <string name="network_traffic_autohide_title">Hide network traffic indicator is inactive</string>
-    <string name="network_traffic_autohide_summary">Hide when network traffic indicator is below 1 KB/s</string>
+    <string name="network_traffic_title">Hálózatiforgalom-kijelző</string>
+    <string name="network_traffic_summary">Engedélyezheti vagy letilthatja a hálózat sebességének kijelzését</string>
+    <string name="network_traffic_state_title">A \'Hálózatiforgalom-kijelző\' kapcsolója</string>
+    <string name="network_options_title">Lehetőségek</string>
+    <string name="network_traffic_autohide_title">Ha nincs adatforgalom, a kijelző se látszódjon</string>
+    <string name="network_traffic_autohide_summary">1 KB/s adatforgalom alatt ne látszódjon a kijelző</string>
     <!-- Display customization category -->
-    <string name="customization_category_title">Customization</string>
+    <string name="customization_category_title">Testreszabás</string>
     <!-- QS footer data usage -->
     <string name="qs_show_data_usage_title">Adathasználat-kijelző</string>
     <string name="qs_show_data_usage_summary">A Gyorsbeállítások láblécén kijelzi a napi adatokat</string>
     <!-- Status bar Icon Manager -->
-    <string name="icon_manager_title">Status bar items</string>
+    <string name="icon_manager_title">Állapotsori elemek</string>
     <string name="icon_manager_summary">Az állapotsori ikonoláthatóság beállítása</string>
     <!-- Show clipboard overlay -->
-    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
-    <string name="show_clipboard_overlay_summary">Show an overlay in the left bottom corner of the screen when something is copied to the clipboard</string>
+    <string name="show_clipboard_overlay_title">Vágólap-átfedés</string>
+    <string name="show_clipboard_overlay_summary">Átfedés megjelenítése a képernyő bal alsó sarkában, ha a vágólapra másolódott valami</string>
     <!-- Volume rocker music control -->
     <string name="volume_button_music_control_title">Lejátszásvezérlő</string>
-    <string name="volume_button_music_control_summary">When the screen is off, long-pressing the volume keys will skip music tracks</string>
+    <string name="volume_button_music_control_summary">Kikapcsolt képernyőnél a hangerő gombok hosszan nyomásával léptetheti a zeneszámokat</string>
     <!-- Backup Transport selection settings menu and activity title -->
-    <string name="backup_transport_setting_label">Change backup provider</string>
-    <string name="backup_transport_title">Select backup provider</string>
+    <string name="backup_transport_setting_label">Mentésiszolgáltatás-kapcsoló</string>
+    <string name="backup_transport_title">A mentési-szolgáltatás kiválasztása</string>
     <!-- Ignore window secure -->
     <string name="ignore_window_secure_title">A biztonsági figyemeztetések figyelmen kívül hagyása</string>
     <string name="ignore_window_secure_summary">Törli az összes alkalmazás képernyőkép- és képernyőfelvételi korlátját. Ez bizonyos esetekben kényelmes lehet, de adatlopáshoz vezethet.</string>
     <!-- App lock -->
-    <string name="app_lock_title">App lock</string>
+    <string name="app_lock_title">Alkalmazás-zár</string>
     <plurals name="app_lock_summary">
-        <item quantity="one"><xliff:g example="1" id="Number of applications">%1$d</xliff:g> application is protected</item>
-        <item quantity="other"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> applications are protected</item>
+        <item quantity="one"><xliff:g example="1" id="Number of applications">%1$d</xliff:g> alkalmazás védett</item>
+        <item quantity="other"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> alkalmazás védett</item>
     </plurals>
-    <string name="app_lock_authentication_dialog_title">Unlock</string>
-    <string name="enable_debugging">Enable debugging</string>
-    <string name="disable_debugging">Disable debugging</string>
-    <string name="app_lock_packages_title">Protected apps</string>
-    <string name="app_lock_packages_summary">Select the apps to protect with biometrics or device credentials</string>
-    <string name="app_lock_timeout_title">Auto lock timeout</string>
-    <string name="app_lock_timeout_summary">Duration of time after which an unlocked app in background should be locked</string>
-    <string name="app_lock_notifications_title">Redact notifications</string>
-    <string name="app_lock_notifications_summary">          Notification content will be hidden and collapsed for selected apps when they are locked.
-          Heads up notifications will be automatically disabled.
+    <string name="app_lock_authentication_dialog_title">Feloldás</string>
+    <string name="enable_debugging">A hibakeresés engedélyezése</string>
+    <string name="disable_debugging">A hibakeresés kikapcsolása</string>
+    <string name="app_lock_packages_title">Zárolt alkalmazások</string>
+    <string name="app_lock_packages_summary">Jelölje ki a biometrikus- vagy készülékhitelesítő-adatokkal védeni kívánt alkalmazásokat</string>
+    <string name="app_lock_timeout_title">Az automatikus lezárás időkorlátja</string>
+    <string name="app_lock_timeout_summary">Az az időtartam, amely után a feloldott alkalmazás a háttérben visszazár</string>
+    <string name="app_lock_notifications_title">Összezárt értesítések</string>
+    <string name="app_lock_notifications_summary">          A kiválasztott zárolt alkalmazások értesítései elrejtődnek és összecsukódnak.
+      A lebegő értesítések automatikusan letiltódnak.
     </string>
-    <string name="app_lock_notifications_disabled_summary">Protect an application first</string>
-    <string name="app_lock_biometrics_allowed_title">Enable biometrics for unlocking</string>
-    <string name="app_lock_footer_text">Bubbles will be automatically dismissed after timeout</string>
-    <string name="enable_protection">Enable protection</string>
-    <string name="hide_from_launcher_title">Hide from launcher</string>
-    <string name="hide_from_launcher_summary">        Prevent this application from showing up in launcher. Requires a launcher restart for changes to take effect.
-    </string>
+    <string name="app_lock_notifications_disabled_summary">Előbb állítson be legalább egy védett alkalmazást</string>
+    <string name="app_lock_biometrics_allowed_title">Biometria-bekapcsolás a feloldáshoz</string>
+    <string name="app_lock_footer_text">A buborékok az időhatár letelte után automatikusan eltűnnek</string>
+    <string name="enable_protection">A védelem engedélyezése</string>
+    <string name="hide_from_launcher_title">Elrejtés a Launcherből</string>
+    <string name="hide_from_launcher_summary">        Megakadályozza hogy egy alkalmazás látszódjon a Launcheren. A funkcióhoz újra kell indítani a Launchert.
+            </string>
     <!-- Fingerprint Ripple Effect -->
     <string name="enable_fingerprint_ripple_effect_title">Hullámeffektus</string>
     <string name="enable_fingerprint_ripple_effect_summary">Ujjlenyomatos feloldáskor hullámzó hatás</string>
@@ -146,12 +146,12 @@
     <string name="search">Keresés</string>
     <string name="search_apps">Alkalmazáskeresés</string>
     <!-- Quick Settings quick pulldown -->
-    <string name="quick_settings_quick_pull_down_title">Quick QS pulldown</string>
-    <string name="quick_settings_quick_pull_down_summary">Pull down statusbar from right side to expand quick settings</string>
+    <string name="quick_settings_quick_pull_down_title">Gyors legördítés</string>
+    <string name="quick_settings_quick_pull_down_summary">A gyorsbeállítások megnyitásához húzza le az állapotsort jobb oldalról</string>
     <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
-    <string name="ambient_display_screen_off_udfps_title">Always on Fingerprint</string>
+    <string name="ambient_display_screen_off_udfps_title">Állandóan bekapcsolt Ujjlenyomat</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">Allows unlocking with the screen off.\nEnabling may cause accidental wake-ups.</string>
+    <string name="ambient_display_screen_off_udfps_summary">Lehetővé teszi a feloldást kikapcsolt képernyőn.\nAz engedélyezése kéretlen képernyő-ébresztést okozhat.</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
     <string name="duration_less_than_one_minute">Kevesebb mint 1 perc</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
@@ -192,8 +192,8 @@
     <string name="adaptive_playback_timeout_10_min">10 perc</string>
     <string name="adaptive_playback_timeout_10_min_summary">Be (10 perc)</string>
     <!-- Navigation bar hint -->
-    <string name="show_navbar_gesture_bar_title">Gesture bar</string>
-    <string name="show_navbar_gesture_bar_summary">Show gesture bar at the bottom of the screen</string>
+    <string name="show_navbar_gesture_bar_title">Vezérlési sáv</string>
+    <string name="show_navbar_gesture_bar_summary">Vezérlősáv megjelenítése a képernyő alján</string>
     <!-- Scramble pin -->
     <string name="unlock_scramble_pin_layout_title">Összekevert elrendezés</string>
     <string name="unlock_scramble_pin_layout_summary">Összekeveri a készülék beviteli számmezejét a feloldás előtt</string>
@@ -230,7 +230,7 @@
     <string name="face_unlock_method_title">Az arcalapú feloldás engedélyezése a záróképernyőn</string>
     <string name="face_unlock_method_default">Ha a képernyő be van kapcsolva</string>
     <string name="face_unlock_method_swipe">Ha csúsztatja a záróképernyőt</string>
-    <string name="skip_biometric_auth_confirmation_title">Skip manually confirmation</string>
+    <string name="skip_biometric_auth_confirmation_title">A manuális megerősítés kihagyása</string>
     <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Magas érintési érzékenység</string>
     <string name="high_touch_sensitivity_summary">Érintőképernyő érzékenységének növelése, így kesztyű viselése esetén is használható</string>
@@ -294,8 +294,8 @@
     <string name="adj_intensity_title">Intenzitás</string>
     <string name="adj_contrast_title">Kontraszt</string>
     <!-- Black theme -->
-    <string name="system_black_theme_title">Use Black theme</string>
-    <string name="system_black_theme_summary">Force black background colors</string>
+    <string name="system_black_theme_title">Sötét téma</string>
+    <string name="system_black_theme_summary">Erőlteti a fekete háttérszíneket</string>
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Gyorsfeloldás</string>
     <string name="unlock_quick_unlock_control_summary">Automatikus feloldás a helyes jelszó/PIN-kód megadásakor</string>
