@@ -118,13 +118,13 @@
     </plurals>
     <string name="app_lock_authentication_dialog_title">Buka</string>
     <string name="enable_debugging">Aktifkan debugging</string>
-    <string name="disable_debugging">Matikan debugging</string>
+    <string name="disable_debugging">Nonaktifkan debugging</string>
     <string name="app_lock_packages_title">Aplikasi dilindungi</string>
     <string name="app_lock_packages_summary">Pilih aplikasi yang akan dilindungi oleh biometrik atau kredensial perangkat</string>
     <string name="app_lock_timeout_title">Batas waktu penguncian otomatis</string>
     <string name="app_lock_timeout_summary">Durasi waktu setelah aplikasi yang tidak terkunci di latar belakang harus dikunci</string>
     <string name="app_lock_notifications_title">Matikan notifikasi</string>
-    <string name="app_lock_notifications_summary">Konten notifikasi akan disembunyikan dan dimatikan untuk aplikasi yang dipilih saat terkunci.
+    <string name="app_lock_notifications_summary">          Konten notifikasi akan disembunyikan dan dimatikan untuk aplikasi yang dipilih saat terkunci.
           Notifikasi mengambang akan dinonaktifkan secara otomatis.
     </string>
     <string name="app_lock_notifications_disabled_summary">Lindungi aplikasi terlebih dahulu</string>
