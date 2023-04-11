@@ -26,7 +26,7 @@
     <string name="category_name_refresh_rate_controls">Obnovovacia frekvencia</string>
     <!-- Battery saver refresh rate -->
     <string name="battery_saver_refresh_rate_title">Znížiť obnovovaciu frekvenciu</string>
-    <string name="battery_saver_refresh_rate_summary">Use 60 Hz screen refresh rate to save power when Battery Saver is on</string>
+    <string name="battery_saver_refresh_rate_summary">Použiť obnovovaciu frekvenciu 60 Hz ak je zapnutý šetrič batérie</string>
     <!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Nájdite snímač odtlačkov prstov na prednej strane tabletu.</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="device">Vyhľadajte senzor odtlačkov prsta na prednej strane vášho zariadenia.</string>
@@ -34,9 +34,9 @@
     <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Vyhľadajte senzor odtlačkov prsta na zadnej strane vášho tabletu.</string>
     <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Vyhľadajte senzor odtlačkov prsta na zadnej strane vášho zariadenia.</string>
     <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Vyhľadajte senzor odtlačkov prsta na zadnej strane vášho telefónu.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Locate the fingerprint sensor on the side of your tablet.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Locate the fingerprint sensor on the side of your device.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Locate the fingerprint sensor on the side of your phone.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Vyhľadajte snímač odtlačkov prstov na zadnej strane tabletu.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Vyhľadajte snímač odtlačkov prstov na bočnej strane zariadenia.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Vyhľadajte snímač odtlačkov prstov na bočnej strane telefónu.</string>
     <!-- Message shown when user touches the icon on the screen, instead of the real fingerprint sensor -->
     <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Dotknite sa senzora na prednej strane tabletu.</string>
     <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Dotknite sa senzora na prednej strane zariadenia.</string>
@@ -49,7 +49,7 @@
     <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Dotknite sa senzora na bočnej strane vášho telefónu.</string>
     <!-- Proximity wake / Pocket mode -->
     <string name="proximity_wake_title">Zabrániť nechcenému prebudeniu</string>
-    <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen from the double tap to wake gesture</string>
+    <string name="proximity_wake_summary">Kontrola snímača priblíženia pred prebudením obrazovky z gesta dvojitého kliknutia pre prebudenie</string>
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">Možnosti vibrácií pri hovore</string>
     <string name="incall_vibrate_connect_title">Vibrovať pri pripojení</string>
@@ -82,60 +82,59 @@
     <string name="double_tap_sleep_gesture_title">Klepnutím uspať</string>
     <string name="double_tap_sleep_gesture_summary">Uspať zariadene dvojitým poklepaním kdekoľvek na stavový riadok</string>
     <!-- Low battery light -->
-    <string name="low_battery_light_title">Low battery light</string>
-    <string name="low_battery_light_summary">Blink LED when battery is low</string>
+    <string name="low_battery_light_title">Svetlo nízkej batérie</string>
+    <string name="low_battery_light_summary">Blikať LED pri nízkej úrovni batérie</string>
     <!-- Network traffic -->
     <string name="network_traffic_title">Indikátor sieťovej prevádzky</string>
-    <string name="network_traffic_summary">Enable or disable network speed indicator in status bar</string>
-    <string name="network_traffic_state_title">Enable \"Network traffic indicator\"</string>
+    <string name="network_traffic_summary">Zapnúť alebo vypnúť monitor siete v stavovom riadku</string>
+    <string name="network_traffic_state_title">Povoliť „Indikátor sieťovej prevádzky“</string>
     <string name="network_options_title">Možnosti</string>
-    <string name="network_traffic_autohide_title">Hide network traffic indicator is inactive</string>
-    <string name="network_traffic_autohide_summary">Hide when network traffic indicator is below 1 KB/s</string>
+    <string name="network_traffic_autohide_title">Skryť indikátor sieťových operácií pri neaktivite</string>
+    <string name="network_traffic_autohide_summary">Skryť ak indikátor sieťových operácií klesne pod 1 KB/s</string>
     <!-- Display customization category -->
-    <string name="customization_category_title">Customization</string>
+    <string name="customization_category_title">Prispôsobenie</string>
     <!-- QS footer data usage -->
     <string name="qs_show_data_usage_title">Zobraziť využitie dát</string>
     <string name="qs_show_data_usage_summary">Zobrazenie dennej spotreby mobilných/Wi-Fi dát v päte RN</string>
     <!-- Status bar Icon Manager -->
-    <string name="icon_manager_title">Status bar items</string>
+    <string name="icon_manager_title">Položky stavového riadku</string>
     <string name="icon_manager_summary">Ovládať viditeľnosť ikon stavového riadku</string>
     <!-- Show clipboard overlay -->
-    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
-    <string name="show_clipboard_overlay_summary">Show an overlay in the left bottom corner of the screen when something is copied to the clipboard</string>
+    <string name="show_clipboard_overlay_title">Zobraziť dialóg schránky</string>
+    <string name="show_clipboard_overlay_summary">Po skopírovaní niečoho do schránky zobraziť v ľavom dolnom rohu obrazovky dialóg schránky</string>
     <!-- Volume rocker music control -->
     <string name="volume_button_music_control_title">Ovládanie prehrávania</string>
-    <string name="volume_button_music_control_summary">When the screen is off, long-pressing the volume keys will skip music tracks</string>
+    <string name="volume_button_music_control_summary">Keď je vypnutá obrazovka, dlhým stlačením tlačidiel pre ovládanie hlasitosti možno prepínať skladby</string>
     <!-- Backup Transport selection settings menu and activity title -->
-    <string name="backup_transport_setting_label">Change backup provider</string>
-    <string name="backup_transport_title">Select backup provider</string>
+    <string name="backup_transport_setting_label">Zmeniť poskytovateľa zálohovania</string>
+    <string name="backup_transport_title">Vybrať poskytovateľa zálohovania</string>
     <!-- Ignore window secure -->
     <string name="ignore_window_secure_title">Ignorovať príznaky zabezpečenia okien</string>
     <string name="ignore_window_secure_summary">Odstránenie obmedzení pre snímky obrazovky a záznamy obrazovky pre všetky aplikácie. V niektorých prípadoch to môže byť vhodné, ale môže to viesť k úniku súkromia.</string>
     <!-- App lock -->
-    <string name="app_lock_title">App lock</string>
+    <string name="app_lock_title">Zámok aplikácií</string>
     <plurals name="app_lock_summary">
-        <item quantity="one"><xliff:g example="1" id="Number of applications">%1$d</xliff:g> application is protected</item>
-        <item quantity="few"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> applications are protected</item>
-        <item quantity="many"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> applications are protected</item>
-        <item quantity="other"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> applications are protected</item>
+        <item quantity="one"><xliff:g example="1" id="Number of applications">%1$d</xliff:g> aplikácia je chránená</item>
+        <item quantity="few"><xliff:g example="1" id="Number of applications">%1$d</xliff:g> aplikácie sú chránené</item>
+        <item quantity="many"><xliff:g example="1" id="Number of applications">%1$d</xliff:g> aplikácií je chránených</item>
+        <item quantity="other"><xliff:g example="1" id="Number of applications">%1$d</xliff:g> aplikácií je chránených</item>
     </plurals>
     <string name="app_lock_authentication_dialog_title">Odomknúť</string>
     <string name="enable_debugging">Povoliť ladenie</string>
     <string name="disable_debugging">Zakázať ladenie</string>
     <string name="app_lock_packages_title">Chránené aplikácie</string>
-    <string name="app_lock_packages_summary">Select the apps to protect with biometrics or device credentials</string>
-    <string name="app_lock_timeout_title">Auto lock timeout</string>
-    <string name="app_lock_timeout_summary">Duration of time after which an unlocked app in background should be locked</string>
-    <string name="app_lock_notifications_title">Redact notifications</string>
-    <string name="app_lock_notifications_summary">          Notification content will be hidden and collapsed for selected apps when they are locked.
-          Heads up notifications will be automatically disabled.
-    </string>
-    <string name="app_lock_notifications_disabled_summary">Protect an application first</string>
-    <string name="app_lock_biometrics_allowed_title">Enable biometrics for unlocking</string>
-    <string name="app_lock_footer_text">Bubbles will be automatically dismissed after timeout</string>
+    <string name="app_lock_packages_summary">Vyberte aplikácie, ktoré chcete chrániť pomocou biometrických údajov alebo poverení zariadenia</string>
+    <string name="app_lock_timeout_title">Časovač aut. zámku</string>
+    <string name="app_lock_timeout_summary">Doba, po ktorej by mala byť aplikácia na pozadí uzamknutá</string>
+    <string name="app_lock_notifications_title">Skrátiť upozornenia</string>
+    <string name="app_lock_notifications_summary">Obsah upozornení bude skrytý a zbalený pre vybrané aplikácie, keď sú uzamknuté.
+Upozornenia na  budú automaticky vypnuté.    </string>
+    <string name="app_lock_notifications_disabled_summary">Najprv chráňte aplikáciu</string>
+    <string name="app_lock_biometrics_allowed_title">Povoliť biometriu na odomykanie</string>
+    <string name="app_lock_footer_text">Bubliny budú po uplynutí časového limitu automaticky zrušené</string>
     <string name="enable_protection">Zapnúť ochranu</string>
     <string name="hide_from_launcher_title">Skryť z launcheru</string>
-    <string name="hide_from_launcher_summary">        Prevent this application from showing up in launcher. Requires a launcher restart for changes to take effect.
+    <string name="hide_from_launcher_summary">Zabrániť zobrazeniu tejto aplikácie v launcheri. Aby se zmeny prejavily, je treba reštartovať launcher.
     </string>
     <!-- Fingerprint Ripple Effect -->
     <string name="enable_fingerprint_ripple_effect_title">Efekt zvlnenia</string>
@@ -149,11 +148,11 @@
     <string name="search_apps">Hľadať aplikácie</string>
     <!-- Quick Settings quick pulldown -->
     <string name="quick_settings_quick_pull_down_title">Rýchle vysunutie rýchlych nastavení</string>
-    <string name="quick_settings_quick_pull_down_summary">Pull down statusbar from right side to expand quick settings</string>
+    <string name="quick_settings_quick_pull_down_summary">Potiahnutím stavového riadka z pravej strany rozbalíte rýchle nastavenia</string>
     <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
     <string name="ambient_display_screen_off_udfps_title">Vždy zapnutý odtlačok prsta</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">Allows unlocking with the screen off.\nEnabling may cause accidental wake-ups.</string>
+    <string name="ambient_display_screen_off_udfps_summary">Umožňuje odomknutie s vypnutou obrazovkou.\nPovolenie môže spôsobiť náhodné prebudenie.</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
     <string name="duration_less_than_one_minute">Menej ako 1 minúta</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
@@ -195,7 +194,7 @@
     <string name="adaptive_playback_timeout_10_min_summary">Zapnuté (10 minút)</string>
     <!-- Navigation bar hint -->
     <string name="show_navbar_gesture_bar_title">Panel gest</string>
-    <string name="show_navbar_gesture_bar_summary">Show gesture bar at the bottom of the screen</string>
+    <string name="show_navbar_gesture_bar_summary">Zobraziť panel gest v dolnej časti obrazovky</string>
     <!-- Scramble pin -->
     <string name="unlock_scramble_pin_layout_title">Pomiešať rozloženie</string>
     <string name="unlock_scramble_pin_layout_summary">Pomiešať rozloženie kláves pre zadanie kódu PIN pri odomykaní zariadenia</string>
@@ -232,7 +231,7 @@
     <string name="face_unlock_method_title">Povoliť odomknutie tvárou na obrazovke uzamknutia</string>
     <string name="face_unlock_method_default">Keď je obrazovka zapnutá</string>
     <string name="face_unlock_method_swipe">Keď posúvate prstom na zamknutej obrazovke</string>
-    <string name="skip_biometric_auth_confirmation_title">Skip manually confirmation</string>
+    <string name="skip_biometric_auth_confirmation_title">Preskočiť ručné potvrdenie</string>
     <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Vysoká citlivosť na dotyk</string>
     <string name="high_touch_sensitivity_summary">Zvýšiť citlivosť dotykovej obrazovky, takže ju bude možné používať pri nosení rukavíc</string>
@@ -297,7 +296,7 @@
     <string name="adj_contrast_title">Kontrast</string>
     <!-- Black theme -->
     <string name="system_black_theme_title">Použiť čiernu tému</string>
-    <string name="system_black_theme_summary">Force black background colors</string>
+    <string name="system_black_theme_summary">Vynútiť čiernu farbu pozadia</string>
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Rýchle odomknutie</string>
     <string name="unlock_quick_unlock_control_summary">Odomknúť automaticky po zadaní správneho PIN kódu alebo hesla</string>
