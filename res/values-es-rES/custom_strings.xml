@@ -15,7 +15,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- String for removal of sensitive info on about, depending on tap -->
-    <string name="device_info_protected_single_press">Tap to show info</string>
+    <string name="device_info_protected_single_press">Toca para mostrar información</string>
     <!-- Max refresh rate -->
     <string name="max_refresh_rate_title">Frecuencia de refresco máxima</string>
     <!-- Min refresh rate -->
@@ -25,8 +25,8 @@
     <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
     <string name="category_name_refresh_rate_controls">Frecuencia de refresco</string>
     <!-- Battery saver refresh rate -->
-    <string name="battery_saver_refresh_rate_title">Reduce refresh rate</string>
-    <string name="battery_saver_refresh_rate_summary">Use 60 Hz screen refresh rate to save power when Battery Saver is on</string>
+    <string name="battery_saver_refresh_rate_title">Reducir la tasa de refresco</string>
+    <string name="battery_saver_refresh_rate_summary">Usar una tasa de refresco de 60 Hz para reducir el consumo de energía cuando el Ahorro de batería esté activado</string>
     <!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Localiza el sensor de huella dactilar en el frontal de tu tablet.</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="device">Localiza el sensor de huella dactilar en el frontal de tu dispositivo.</string>
@@ -34,9 +34,9 @@
     <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Localiza el sensor de huella dactilar en la parte trasera de tu tablet.</string>
     <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Localiza el sensor de huella dactilar en la parte trasera de tu dispositivo.</string>
     <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Localiza el sensor de huella dactilar en la parte trasera de tu teléfono.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Locate the fingerprint sensor on the side of your tablet.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Locate the fingerprint sensor on the side of your device.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Locate the fingerprint sensor on the side of your phone.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Localiza el sensor de huellas dactilares en la parte lateral de tu tablet.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Localiza el lector de huellas en el lateral del dispositivo.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Localiza el sensor de huella digital en el lado de tu teléfono.</string>
     <!-- Message shown when user touches the icon on the screen, instead of the real fingerprint sensor -->
     <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Toca el sensor en la parte frontal de tu tablet.</string>
     <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Toca el sensor en la parte frontal de tu dispositivo.</string>
@@ -49,7 +49,7 @@
     <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Toca el sensor en el lateral de tu teléfono.</string>
     <!-- Proximity wake / Pocket mode -->
     <string name="proximity_wake_title">Prevenir encendido accidental</string>
-    <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen from the double tap to wake gesture</string>
+    <string name="proximity_wake_summary">Comprueba el sensor de proximidad antes de encender la pantalla con el gesto de Doble toque para encender pantalla</string>
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">Opciones de vibración durante las llamadas</string>
     <string name="incall_vibrate_connect_title">Vibrar al contestar</string>
@@ -73,8 +73,8 @@
     <string name="navbar_invert_layout_title">Invertir el orden de los botones de navegación</string>
     <string name="navbar_invert_info">Intercambiar los botones \"Atrás\" y \"Recientes\" de la barra de navegación</string>
     <!-- Left volume panel -->
-    <string name="volume_panel_on_left_title">Show volume panel on left</string>
-    <string name="volume_panel_on_left_summary">Move volume panel to the left side of the screen</string>
+    <string name="volume_panel_on_left_title">Mostrar el panel de volumen en la izquierda</string>
+    <string name="volume_panel_on_left_summary">Mostrar panel de aplicaciones recientes en el borde izquierdo</string>
     <!-- Torch Power button gestures -->
     <string name="power_button_torch_title">Linterna</string>
     <string name="power_button_torch_summary">Cuando la pantalla esté apagada, mantener presionado el botón de encendido activará la linterna</string>
@@ -82,11 +82,11 @@
     <string name="double_tap_sleep_gesture_title">Doble toque para suspender</string>
     <string name="double_tap_sleep_gesture_summary">Toque dos veces en la barra de estado para apagar la pantalla del dispositivo</string>
     <!-- Low battery light -->
-    <string name="low_battery_light_title">Low battery light</string>
-    <string name="low_battery_light_summary">Blink LED when battery is low</string>
+    <string name="low_battery_light_title">Luz de batería baja</string>
+    <string name="low_battery_light_summary">Parpadeo de LED cuando el nivel de batería es bajo</string>
     <!-- Network traffic -->
-    <string name="network_traffic_title">Network traffic indicator</string>
-    <string name="network_traffic_summary">Enable or disable network speed indicator in status bar</string>
+    <string name="network_traffic_title">Indicadores de tráfico de red</string>
+    <string name="network_traffic_summary">Activar o desactivar el indicador de velocidad de red en la barra de estado</string>
     <string name="network_traffic_state_title">Enable \"Network traffic indicator\"</string>
     <string name="network_options_title">Options</string>
     <string name="network_traffic_autohide_title">Hide network traffic indicator is inactive</string>
