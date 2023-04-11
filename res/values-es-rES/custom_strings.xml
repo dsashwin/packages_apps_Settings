@@ -87,53 +87,53 @@
     <!-- Network traffic -->
     <string name="network_traffic_title">Indicadores de tráfico de red</string>
     <string name="network_traffic_summary">Activar o desactivar el indicador de velocidad de red en la barra de estado</string>
-    <string name="network_traffic_state_title">Enable \"Network traffic indicator\"</string>
-    <string name="network_options_title">Options</string>
-    <string name="network_traffic_autohide_title">Hide network traffic indicator is inactive</string>
-    <string name="network_traffic_autohide_summary">Hide when network traffic indicator is below 1 KB/s</string>
+    <string name="network_traffic_state_title">Usar indicador de tráfico de red</string>
+    <string name="network_options_title">Opciones</string>
+    <string name="network_traffic_autohide_title">Ocultar indicador de tráfico de red si está inactivo</string>
+    <string name="network_traffic_autohide_summary">Ocultar cuando el tráfico de red es menor de 1 Kb/s</string>
     <!-- Display customization category -->
-    <string name="customization_category_title">Customization</string>
+    <string name="customization_category_title">Personalización</string>
     <!-- QS footer data usage -->
     <string name="qs_show_data_usage_title">Mostrar uso de datos</string>
     <string name="qs_show_data_usage_summary">Mostrar el uso diario de datos móviles/Wi-Fi en el pie de los ajustes rápidos</string>
     <!-- Status bar Icon Manager -->
-    <string name="icon_manager_title">Status bar items</string>
+    <string name="icon_manager_title">Elementos de la barra de estado</string>
     <string name="icon_manager_summary">Control de visibilidad de los iconos de la barra de estado</string>
     <!-- Show clipboard overlay -->
-    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
-    <string name="show_clipboard_overlay_summary">Show an overlay in the left bottom corner of the screen when something is copied to the clipboard</string>
+    <string name="show_clipboard_overlay_title">Mostrar icono del portapapeles</string>
+    <string name="show_clipboard_overlay_summary">Muestra un icono en la esquina inferior izquierda de la pantalla cuando se copie algo al portapapeles</string>
     <!-- Volume rocker music control -->
     <string name="volume_button_music_control_title">Control de reproducción</string>
-    <string name="volume_button_music_control_summary">When the screen is off, long-pressing the volume keys will skip music tracks</string>
+    <string name="volume_button_music_control_summary">Cuando la pantalla esté apagada, una pulsación larga de los controles de volumen, avanzará o retrocederá las canciones</string>
     <!-- Backup Transport selection settings menu and activity title -->
-    <string name="backup_transport_setting_label">Change backup provider</string>
-    <string name="backup_transport_title">Select backup provider</string>
+    <string name="backup_transport_setting_label">Cambiar proveedor de la copia de seguridad</string>
+    <string name="backup_transport_title">Seleccionar proveedor de la copia de seguridad</string>
     <!-- Ignore window secure -->
     <string name="ignore_window_secure_title">Ignorar la restricción de captura de pantalla</string>
     <string name="ignore_window_secure_summary">Eliminar los límites de captura de pantalla y grabación de pantalla para todas las aplicaciones. Esto puede ser conveniente en algunos casos, pero puede llevar a fugas de privacidad.</string>
     <!-- App lock -->
-    <string name="app_lock_title">App lock</string>
+    <string name="app_lock_title">Bloqueo de aplicaciones</string>
     <plurals name="app_lock_summary">
-        <item quantity="one"><xliff:g example="1" id="Number of applications">%1$d</xliff:g> application is protected</item>
-        <item quantity="other"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> applications are protected</item>
+        <item quantity="one"><xliff:g example="1" id="Number of applications">%1$d</xliff:g> aplicación está protegida</item>
+        <item quantity="other"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> aplicaciones están protegidas</item>
     </plurals>
-    <string name="app_lock_authentication_dialog_title">Unlock</string>
-    <string name="enable_debugging">Enable debugging</string>
-    <string name="disable_debugging">Disable debugging</string>
-    <string name="app_lock_packages_title">Protected apps</string>
-    <string name="app_lock_packages_summary">Select the apps to protect with biometrics or device credentials</string>
-    <string name="app_lock_timeout_title">Auto lock timeout</string>
-    <string name="app_lock_timeout_summary">Duration of time after which an unlocked app in background should be locked</string>
-    <string name="app_lock_notifications_title">Redact notifications</string>
-    <string name="app_lock_notifications_summary">          Notification content will be hidden and collapsed for selected apps when they are locked.
-          Heads up notifications will be automatically disabled.
+    <string name="app_lock_authentication_dialog_title">Desbloquear</string>
+    <string name="enable_debugging">Activar depuración</string>
+    <string name="disable_debugging">Desactivar depuración</string>
+    <string name="app_lock_packages_title">Aplicaciones protegidas</string>
+    <string name="app_lock_packages_summary">Seleccionar aplicaciones para proteger con datos biométricos o credenciales del dispositivo</string>
+    <string name="app_lock_timeout_title">Tiempo de bloqueo automático</string>
+    <string name="app_lock_timeout_summary">Duración del tiempo tras el cual una aplicación desbloqueada en segundo plano debe ser bloqueada</string>
+    <string name="app_lock_notifications_title">Contraer notificaciones</string>
+    <string name="app_lock_notifications_summary">          El contenido de las notificaciones se ocultará y contraerá para las aplicaciones seleccionadas cuando estén bloqueadas.
+          Las notificaciones emergentes se desactivarán automáticamente.
     </string>
-    <string name="app_lock_notifications_disabled_summary">Protect an application first</string>
-    <string name="app_lock_biometrics_allowed_title">Enable biometrics for unlocking</string>
-    <string name="app_lock_footer_text">Bubbles will be automatically dismissed after timeout</string>
-    <string name="enable_protection">Enable protection</string>
-    <string name="hide_from_launcher_title">Hide from launcher</string>
-    <string name="hide_from_launcher_summary">        Prevent this application from showing up in launcher. Requires a launcher restart for changes to take effect.
+    <string name="app_lock_notifications_disabled_summary">Proteger primero una aplicación</string>
+    <string name="app_lock_biometrics_allowed_title">Habilitar biometría para desbloquear</string>
+    <string name="app_lock_footer_text">Las burbujas se descartarán automáticamente después del tiempo de espera</string>
+    <string name="enable_protection">Activar protección</string>
+    <string name="hide_from_launcher_title">Ocultar del lanzador</string>
+    <string name="hide_from_launcher_summary">        Evitar que esta aplicación aparezca en el lanzador. Requiere reiniciar el lanzador para que los cambios surtan efecto.
     </string>
     <!-- Fingerprint Ripple Effect -->
     <string name="enable_fingerprint_ripple_effect_title">Animación al desbloquear</string>
@@ -146,12 +146,12 @@
     <string name="search">Buscar</string>
     <string name="search_apps">Buscar aplicaciones</string>
     <!-- Quick Settings quick pulldown -->
-    <string name="quick_settings_quick_pull_down_title">Quick QS pulldown</string>
-    <string name="quick_settings_quick_pull_down_summary">Pull down statusbar from right side to expand quick settings</string>
+    <string name="quick_settings_quick_pull_down_title">Despliegue rápido del panel de ajustes rapidos</string>
+    <string name="quick_settings_quick_pull_down_summary">Desplegar desde la derecha para expandir ajustes rápidos</string>
     <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
-    <string name="ambient_display_screen_off_udfps_title">Always on Fingerprint</string>
+    <string name="ambient_display_screen_off_udfps_title">Huella en AOD</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">Allows unlocking with the screen off.\nEnabling may cause accidental wake-ups.</string>
+    <string name="ambient_display_screen_off_udfps_summary">Permite desbloquear con la pantalla apagada.\nActivarlo puede causar encendidos accidentales.</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
     <string name="duration_less_than_one_minute">Menos de 1 minuto</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
@@ -192,8 +192,8 @@
     <string name="adaptive_playback_timeout_10_min">10 minutos</string>
     <string name="adaptive_playback_timeout_10_min_summary">Activado (10 minutos)</string>
     <!-- Navigation bar hint -->
-    <string name="show_navbar_gesture_bar_title">Gesture bar</string>
-    <string name="show_navbar_gesture_bar_summary">Show gesture bar at the bottom of the screen</string>
+    <string name="show_navbar_gesture_bar_title">Barra de gestos</string>
+    <string name="show_navbar_gesture_bar_summary">Muestra la barra de gestos en la parte inferior de la pantalla</string>
     <!-- Scramble pin -->
     <string name="unlock_scramble_pin_layout_title">Disposición aleatoria</string>
     <string name="unlock_scramble_pin_layout_summary">Disposición aleatoria del PIN al desbloquear el dispositivo</string>
@@ -230,7 +230,7 @@
     <string name="face_unlock_method_title">Permitir desbloqueo facial en la pantalla de bloqueo</string>
     <string name="face_unlock_method_default">Cuando la pantalla está encendida</string>
     <string name="face_unlock_method_swipe">Al deslizar en la pantalla de bloqueo</string>
-    <string name="skip_biometric_auth_confirmation_title">Skip manually confirmation</string>
+    <string name="skip_biometric_auth_confirmation_title">Salta la confirmación manual</string>
     <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Alta sensibilidad táctil</string>
     <string name="high_touch_sensitivity_summary">Aumentar la sensibilidad táctil para usar el dispositivo con guantes</string>
@@ -294,8 +294,8 @@
     <string name="adj_intensity_title">Intensidad</string>
     <string name="adj_contrast_title">Contraste</string>
     <!-- Black theme -->
-    <string name="system_black_theme_title">Use Black theme</string>
-    <string name="system_black_theme_summary">Force black background colors</string>
+    <string name="system_black_theme_title">Utilizar el tema negro</string>
+    <string name="system_black_theme_summary">Forzar colores de fondo negros</string>
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Desbloqueo rápido</string>
     <string name="unlock_quick_unlock_control_summary">Desbloquear automáticamente cuando se introduce el PIN o la contraseña correcta</string>
