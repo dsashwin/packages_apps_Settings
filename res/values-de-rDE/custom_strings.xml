@@ -106,34 +106,34 @@
     <string name="volume_button_music_control_title">Wiedergabesteuerung</string>
     <string name="volume_button_music_control_summary">Bei ausgeschaltetem Bildschirm wird durch langes drücken der Lautstärketaste der Musiktitel gewechselt</string>
     <!-- Backup Transport selection settings menu and activity title -->
-    <string name="backup_transport_setting_label">Change backup provider</string>
-    <string name="backup_transport_title">Select backup provider</string>
+    <string name="backup_transport_setting_label">Backup-Anbieter ändern</string>
+    <string name="backup_transport_title">Backup-Anbieter auswählen</string>
     <!-- Ignore window secure -->
     <string name="ignore_window_secure_title">App-Sicherheitsmerkmale ignorieren</string>
     <string name="ignore_window_secure_summary">Beschränkungen für Screenshots und Bildschirmaufzeichnungen für alle Anwendungen entfernen. Dies kann manchmal praktisch sein, kann aber Ihre Privatsphäre verletzen.</string>
     <!-- App lock -->
-    <string name="app_lock_title">App lock</string>
+    <string name="app_lock_title">App-Sperre</string>
     <plurals name="app_lock_summary">
-        <item quantity="one"><xliff:g example="1" id="Number of applications">%1$d</xliff:g> application is protected</item>
-        <item quantity="other"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> applications are protected</item>
+        <item quantity="one"><xliff:g example="1" id="Number of applications">%1$d</xliff:g> App ist geschützt</item>
+        <item quantity="other"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> Apps sind geschützt</item>
     </plurals>
-    <string name="app_lock_authentication_dialog_title">Unlock</string>
-    <string name="enable_debugging">Enable debugging</string>
-    <string name="disable_debugging">Disable debugging</string>
-    <string name="app_lock_packages_title">Protected apps</string>
-    <string name="app_lock_packages_summary">Select the apps to protect with biometrics or device credentials</string>
-    <string name="app_lock_timeout_title">Auto lock timeout</string>
-    <string name="app_lock_timeout_summary">Duration of time after which an unlocked app in background should be locked</string>
-    <string name="app_lock_notifications_title">Redact notifications</string>
-    <string name="app_lock_notifications_summary">          Notification content will be hidden and collapsed for selected apps when they are locked.
-          Heads up notifications will be automatically disabled.
+    <string name="app_lock_authentication_dialog_title">Entsperren</string>
+    <string name="enable_debugging">Debugging aktivieren</string>
+    <string name="disable_debugging">Debugging deaktivieren</string>
+    <string name="app_lock_packages_title">Geschützte Apps</string>
+    <string name="app_lock_packages_summary">Apps auswählen, die mittels biometrischer Authentifizierung oder Geräteanmeldedaten geschützt werden sollen</string>
+    <string name="app_lock_timeout_title">Apps automatisch sperren nach</string>
+    <string name="app_lock_timeout_summary">Zeitdauer, nach der eine entsperrte App im Hintergrund gesperrt werden soll</string>
+    <string name="app_lock_notifications_title">Benachrichtigungen zensieren</string>
+    <string name="app_lock_notifications_summary">          Der Benachrichtigungsinhalt wird für ausgewählte Apps ausgeblendet und eingeklappt, wenn sie gesperrt sind.
+          Pop-up-Benachrichtigungen werden automatisch deaktiviert.
     </string>
-    <string name="app_lock_notifications_disabled_summary">Protect an application first</string>
-    <string name="app_lock_biometrics_allowed_title">Enable biometrics for unlocking</string>
-    <string name="app_lock_footer_text">Bubbles will be automatically dismissed after timeout</string>
-    <string name="enable_protection">Enable protection</string>
-    <string name="hide_from_launcher_title">Hide from launcher</string>
-    <string name="hide_from_launcher_summary">        Prevent this application from showing up in launcher. Requires a launcher restart for changes to take effect.
+    <string name="app_lock_notifications_disabled_summary">Schütze zuerst eine App</string>
+    <string name="app_lock_biometrics_allowed_title">Biometrische Authentifizierung aktivieren</string>
+    <string name="app_lock_footer_text">Bubbles werden nach Ablauf der Zeit automatisch gelöscht</string>
+    <string name="enable_protection">Schutz aktivieren</string>
+    <string name="hide_from_launcher_title">Im Launcher ausblenden</string>
+    <string name="hide_from_launcher_summary">        Verhindern, dass diese App im Launcher angezeigt wird. Erfordert einen Neustart des Launchers, damit die Änderungen wirksam werden.
     </string>
     <!-- Fingerprint Ripple Effect -->
     <string name="enable_fingerprint_ripple_effect_title">Welleneffekt</string>
@@ -146,20 +146,20 @@
     <string name="search">Suche</string>
     <string name="search_apps">Apps suchen</string>
     <!-- Quick Settings quick pulldown -->
-    <string name="quick_settings_quick_pull_down_title">Quick QS pulldown</string>
-    <string name="quick_settings_quick_pull_down_summary">Pull down statusbar from right side to expand quick settings</string>
+    <string name="quick_settings_quick_pull_down_title">Schnelles Herunterziehen der Schnelleinstellungen</string>
+    <string name="quick_settings_quick_pull_down_summary">Die Statusleiste von der rechten Seite nach unten ziehen, um die Schnelleinstellungen anzuzeigen</string>
     <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
-    <string name="ambient_display_screen_off_udfps_title">Always on Fingerprint</string>
+    <string name="ambient_display_screen_off_udfps_title">Always-On Fingerabdruck</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">Allows unlocking with the screen off.\nEnabling may cause accidental wake-ups.</string>
+    <string name="ambient_display_screen_off_udfps_summary">Ermöglicht das Entsperren bei ausgeschaltetem Bildschirm.\nDie Aktivierung kann zu einem unbeabsichtigten Aufwecken führen.</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
     <string name="duration_less_than_one_minute">Weniger als 1 Minute</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
     <string name="screen_time_summary_usage_today">%1$s heute</string>
     <!-- Per-app volume control -->
     <string name="app_volume">App Lautstärke</string>
-    <string name="app_volume_title">Lautstärkeregler für Apps</string>
-    <string name="app_volume_summary">Unterschiedliche Lautstärken für jede Anwendung erlauben</string>
+    <string name="app_volume_title">Lautstärkeregelung auf App-Basis</string>
+    <string name="app_volume_summary">Erlaubt die Einstellung der Lautstärke auf App-Basis</string>
     <!-- Notification sound timeout -->
     <string name="app_notification_sound_timeout_title">Minimale Zeit zwischen Benachrichtigungstönen</string>
     <string name="app_notification_sound_timeout_summary_template">Töne und Vibrationen nur alle <xliff:g id="duration">%1$s</xliff:g> zulassen</string>
@@ -177,7 +177,7 @@
     <string name="adaptive_playback_screen_title">Adaptive Medienwiedergabe</string>
     <string name="adaptive_playback_enabled">Adaptive Medienwiedergabe verwenden</string>
     <string name="adaptive_playback_disabled_summary">Aus</string>
-    <string name="adaptive_playback_intro_text">Hält Medien automatisch an, wenn die Lautstärke stummgeschaltet wird, und wird automatisch fortgesetzt, wenn die Lautstärke innerhalb der festgelegten Zeit wiederhergestellt wird.</string>
+    <string name="adaptive_playback_intro_text">Hält Medien automatisch an, wenn die Lautstärke stumm geschaltet wird, und wird automatisch fortgesetzt, wenn die Lautstärke innerhalb der festgelegten Zeit wiederhergestellt wird.</string>
     <string name="adaptive_playback_timeout_title">Verwende folgendes Timeout</string>
     <string name="adaptive_playback_timeout_none">Kein Timeout</string>
     <string name="adaptive_playback_timeout_none_summary">An (kein Timeout)</string>
@@ -192,8 +192,8 @@
     <string name="adaptive_playback_timeout_10_min">10 Minuten</string>
     <string name="adaptive_playback_timeout_10_min_summary">An (10 Minuten)</string>
     <!-- Navigation bar hint -->
-    <string name="show_navbar_gesture_bar_title">Gesture bar</string>
-    <string name="show_navbar_gesture_bar_summary">Show gesture bar at the bottom of the screen</string>
+    <string name="show_navbar_gesture_bar_title">Navigationsleiste</string>
+    <string name="show_navbar_gesture_bar_summary">Navigationsleiste am unteren Bildschirmrand anzeigen</string>
     <!-- Scramble pin -->
     <string name="unlock_scramble_pin_layout_title">Zufällige Anordnung</string>
     <string name="unlock_scramble_pin_layout_summary">PIN-Layout zufällig neu anordnen, wenn das Gerät entsperrt wird</string>
@@ -230,7 +230,7 @@
     <string name="face_unlock_method_title">Gesichtsentsperrung auf Sperrbildschirm zulassen</string>
     <string name="face_unlock_method_default">Wenn der Bildschirm eingeschaltet ist</string>
     <string name="face_unlock_method_swipe">Beim Wischen auf dem Sperrbildschirm</string>
-    <string name="skip_biometric_auth_confirmation_title">Skip manually confirmation</string>
+    <string name="skip_biometric_auth_confirmation_title">Manuelle Bestätigung überspringen</string>
     <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Hohe Berührungsempfindlichkeit</string>
     <string name="high_touch_sensitivity_summary">Berührungsempfindlichkeit erhöhen, um den Touchscreen auch mit Handschuhen bedienen zu können</string>
@@ -294,8 +294,8 @@
     <string name="adj_intensity_title">Intensität</string>
     <string name="adj_contrast_title">Kontrast</string>
     <!-- Black theme -->
-    <string name="system_black_theme_title">Use Black theme</string>
-    <string name="system_black_theme_summary">Force black background colors</string>
+    <string name="system_black_theme_title">Schwarzes Design verwenden</string>
+    <string name="system_black_theme_summary">Schwarze Hintergrundfarben erzwingen</string>
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Schnelles entsperren</string>
     <string name="unlock_quick_unlock_control_summary">Automatisch entsperren, wenn PIN/Passwort korrekt eingegeben wurde</string>
