@@ -26,7 +26,7 @@
     <string name="category_name_refresh_rate_controls">Частота обновления</string>
     <!-- Battery saver refresh rate -->
     <string name="battery_saver_refresh_rate_title">Уменьшить частоту обновления экрана</string>
-    <string name="battery_saver_refresh_rate_summary">Use 60 Hz screen refresh rate to save power when Battery Saver is on</string>
+    <string name="battery_saver_refresh_rate_summary">Использовать частоту обновления экрана 60 Гц для экономии заряда батареи</string>
     <!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Найдите сканер отпечатков пальцев на лицевой поверхности вашего планшета.</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="device">Найдите сканер отпечатков пальцев на задней поверхности телефона.</string>
@@ -34,9 +34,9 @@
     <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Найдите датчик отпечатков пальцев на задней панели планшета.</string>
     <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Найдите сканер отпечатков пальцев на задней панели вашего устройства.</string>
     <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Найдите сканер отпечатков на задней поверхности телефона.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Locate the fingerprint sensor on the side of your tablet.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Locate the fingerprint sensor on the side of your device.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Locate the fingerprint sensor on the side of your phone.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Найдите сканер отпечатков пальцев на вашем планшете.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Найдите сканер отпечатков пальцев на вашем устройстве.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Найдите сканер отпечатков пальцев на вашем телефоне.</string>
     <!-- Message shown when user touches the icon on the screen, instead of the real fingerprint sensor -->
     <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Коснитесь сенсора на вашем планшете.</string>
     <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Коснитесь сканера отпечатков пальцев на передней стороне вашего устройства.</string>
@@ -49,7 +49,7 @@
     <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Найдите сканер отпечатков пальцев на боковой части вашего телефона.</string>
     <!-- Proximity wake / Pocket mode -->
     <string name="proximity_wake_title">Предотвращать случайное включение</string>
-    <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen from the double tap to wake gesture</string>
+    <string name="proximity_wake_summary">Проверить датчик приближения перед включением экрана двойным нажатием</string>
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">Параметры вибрации при вызове</string>
     <string name="incall_vibrate_connect_title">Вибрировать при соединении</string>
@@ -73,8 +73,8 @@
     <string name="navbar_invert_layout_title">Инвертировать раскладку панели навигации</string>
     <string name="navbar_invert_info">Поменять местами кнопки \"Назад\" и \"Недавние\" на панели навигации</string>
     <!-- Left volume panel -->
-    <string name="volume_panel_on_left_title">Show volume panel on left</string>
-    <string name="volume_panel_on_left_summary">Move volume panel to the left side of the screen</string>
+    <string name="volume_panel_on_left_title">Панель громкости слева</string>
+    <string name="volume_panel_on_left_summary">Переместить панель громкости в левую часть экрана</string>
     <!-- Torch Power button gestures -->
     <string name="power_button_torch_title">Быстрый фонарик</string>
     <string name="power_button_torch_summary">Когда экран выключен, долгое нажатие на кнопку питания активирует фонарик</string>
@@ -82,15 +82,15 @@
     <string name="double_tap_sleep_gesture_title">Двойное касание для сна</string>
     <string name="double_tap_sleep_gesture_summary">Дважды коснитесь в любом месте строки состояния, чтобы перевести устройство в спящий режим</string>
     <!-- Low battery light -->
-    <string name="low_battery_light_title">Low battery light</string>
+    <string name="low_battery_light_title">Индикация разряженной батареи</string>
     <string name="low_battery_light_summary">Мигать LED при низком заряде батареи</string>
     <!-- Network traffic -->
     <string name="network_traffic_title">Индикатор сетевого трафика</string>
-    <string name="network_traffic_summary">Enable or disable network speed indicator in status bar</string>
-    <string name="network_traffic_state_title">Enable \"Network traffic indicator\"</string>
+    <string name="network_traffic_summary">Включить или отключить индикатор скорости сети в строке состояния</string>
+    <string name="network_traffic_state_title">Включить \"Индикатор сетевого трафика\"</string>
     <string name="network_options_title">Настройки</string>
-    <string name="network_traffic_autohide_title">Hide network traffic indicator is inactive</string>
-    <string name="network_traffic_autohide_summary">Hide when network traffic indicator is below 1 KB/s</string>
+    <string name="network_traffic_autohide_title">Скрыть индикатор сетевого трафика, если он неактивен</string>
+    <string name="network_traffic_autohide_summary">Скрывать, когда индикатор сетевого трафика ниже 1 КБ/с</string>
     <!-- Display customization category -->
     <string name="customization_category_title">Персонализация</string>
     <!-- QS footer data usage -->
@@ -106,8 +106,8 @@
     <string name="volume_button_music_control_title">Управление воспроизведением</string>
     <string name="volume_button_music_control_summary">Переключать треки долгим нажатием кнопок громкости при выключенном экране</string>
     <!-- Backup Transport selection settings menu and activity title -->
-    <string name="backup_transport_setting_label">Change backup provider</string>
-    <string name="backup_transport_title">Select backup provider</string>
+    <string name="backup_transport_setting_label">Изменить поставщика резервных копий</string>
+    <string name="backup_transport_title">Выберите поставщика резервных копий</string>
     <!-- Ignore window secure -->
     <string name="ignore_window_secure_title">Игнорировать флаги безопасности</string>
     <string name="ignore_window_secure_summary">Снимите ограничения на скриншоты и записи экрана для всех приложений. В некоторых случаях это может быть удобно, но может привести к утечке конфиденциальной информации.</string>
@@ -123,19 +123,19 @@
     <string name="enable_debugging">Включить отладку</string>
     <string name="disable_debugging">Отключить отладку</string>
     <string name="app_lock_packages_title">Защищённые приложения</string>
-    <string name="app_lock_packages_summary">Select the apps to protect with biometrics or device credentials</string>
+    <string name="app_lock_packages_summary">Выберите приложения для защиты с помощью биометрии или пароля</string>
     <string name="app_lock_timeout_title">Время автоблокировки</string>
-    <string name="app_lock_timeout_summary">Duration of time after which an unlocked app in background should be locked</string>
-    <string name="app_lock_notifications_title">Redact notifications</string>
-    <string name="app_lock_notifications_summary">          Notification content will be hidden and collapsed for selected apps when they are locked.
-          Heads up notifications will be automatically disabled.
+    <string name="app_lock_timeout_summary">Длительность времени, после которого приложение в фоне должно быть заблокировано</string>
+    <string name="app_lock_notifications_title">Скрывать уведомления</string>
+    <string name="app_lock_notifications_summary">          Содержимое уведомлений будет скрыто для выбранных приложений.
+          Всплывающие уведомления будут автоматически отключены.
     </string>
-    <string name="app_lock_notifications_disabled_summary">Protect an application first</string>
+    <string name="app_lock_notifications_disabled_summary">Защитите приложение</string>
     <string name="app_lock_biometrics_allowed_title">Включить биометрию для разблокировки</string>
-    <string name="app_lock_footer_text">Bubbles will be automatically dismissed after timeout</string>
+    <string name="app_lock_footer_text">Всплывающие уведомления будут автоматически удалены через время</string>
     <string name="enable_protection">Включить защиту</string>
     <string name="hide_from_launcher_title">Скрыть из лаунчера</string>
-    <string name="hide_from_launcher_summary">        Prevent this application from showing up in launcher. Requires a launcher restart for changes to take effect.
+    <string name="hide_from_launcher_summary">        Запретить отображение этого приложения в лаунчере. Требуется перезапуск лаунчера, чтобы изменения вступили в силу.
     </string>
     <!-- Fingerprint Ripple Effect -->
     <string name="enable_fingerprint_ripple_effect_title">Эффект пульсации</string>
@@ -148,12 +148,12 @@
     <string name="search">Поиск</string>
     <string name="search_apps">Поиск приложений</string>
     <!-- Quick Settings quick pulldown -->
-    <string name="quick_settings_quick_pull_down_title">Quick QS pulldown</string>
-    <string name="quick_settings_quick_pull_down_summary">Pull down statusbar from right side to expand quick settings</string>
+    <string name="quick_settings_quick_pull_down_title">Быстрое раскрытие настроек</string>
+    <string name="quick_settings_quick_pull_down_summary">Потяните вниз строку состояния с правой стороны, чтобы развернуть быстрые настройки</string>
     <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
-    <string name="ambient_display_screen_off_udfps_title">Always on Fingerprint</string>
+    <string name="ambient_display_screen_off_udfps_title">Отпечаток пальца всегда включен</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">Allows unlocking with the screen off.\nEnabling may cause accidental wake-ups.</string>
+    <string name="ambient_display_screen_off_udfps_summary">Разрешает разблокировку при выключении экрана.\nВключение может вызвать случайные пробуждения.</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
     <string name="duration_less_than_one_minute">Менее минуты</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
@@ -194,8 +194,8 @@
     <string name="adaptive_playback_timeout_10_min">10 минут</string>
     <string name="adaptive_playback_timeout_10_min_summary">Включено (10 минут)</string>
     <!-- Navigation bar hint -->
-    <string name="show_navbar_gesture_bar_title">Gesture bar</string>
-    <string name="show_navbar_gesture_bar_summary">Show gesture bar at the bottom of the screen</string>
+    <string name="show_navbar_gesture_bar_title">Панель жестов</string>
+    <string name="show_navbar_gesture_bar_summary">Показывать панель жестов в нижней части экрана</string>
     <!-- Scramble pin -->
     <string name="unlock_scramble_pin_layout_title">Перемешать раскладку</string>
     <string name="unlock_scramble_pin_layout_summary">Перемешать схему PIN-кода при разблокировке устройства</string>
@@ -232,7 +232,7 @@
     <string name="face_unlock_method_title">Разрешить разблокировку лицом на экране блокировки</string>
     <string name="face_unlock_method_default">Когда экран включен</string>
     <string name="face_unlock_method_swipe">При проведении пальцем на экране блокировки</string>
-    <string name="skip_biometric_auth_confirmation_title">Skip manually confirmation</string>
+    <string name="skip_biometric_auth_confirmation_title">Пропустить ручное подтверждение</string>
     <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Высокая чувствительность касаний</string>
     <string name="high_touch_sensitivity_summary">Увеличивает чувствительность экрана для возможности работы в перчатках</string>
@@ -297,7 +297,7 @@
     <string name="adj_contrast_title">Контрастность</string>
     <!-- Black theme -->
     <string name="system_black_theme_title">Использовать чёрную тему</string>
-    <string name="system_black_theme_summary">Force black background colors</string>
+    <string name="system_black_theme_summary">Принудительный чёрный цвет фона</string>
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Быстрая разблокировка</string>
     <string name="unlock_quick_unlock_control_summary">Автоматическая разблокировка при вводе правильного пароля или PIN-кода</string>
