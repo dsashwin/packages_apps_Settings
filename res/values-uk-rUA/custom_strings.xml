@@ -15,7 +15,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- String for removal of sensitive info on about, depending on tap -->
-    <string name="device_info_protected_single_press">Tap to show info</string>
+    <string name="device_info_protected_single_press">Торкніться, щоб показати інформацію</string>
     <!-- Max refresh rate -->
     <string name="max_refresh_rate_title">Максимальна частота оновлення</string>
     <!-- Min refresh rate -->
@@ -25,8 +25,8 @@
     <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
     <string name="category_name_refresh_rate_controls">Частота оновлення</string>
     <!-- Battery saver refresh rate -->
-    <string name="battery_saver_refresh_rate_title">Reduce refresh rate</string>
-    <string name="battery_saver_refresh_rate_summary">Use 60 Hz screen refresh rate to save power when Battery Saver is on</string>
+    <string name="battery_saver_refresh_rate_title">Зменшити частоту оновлення</string>
+    <string name="battery_saver_refresh_rate_summary">Використовувати частоту оновлення екрану 60 Гц для економії заряду, коли ввімкнено режим енергозбереження</string>
     <!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Знайдіть сканер відбитків пальців на передній панелі вашого планшета.</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="device">Знайдіть сканер пальців на передній панелі вашого пристрою.</string>
@@ -34,9 +34,9 @@
     <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Знайдіть сканер відбитків пальців на задній панелі вашого планшета.</string>
     <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Знайдіть сканер відбитків пальців на задній панелі вашого пристрою.</string>
     <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Знайдіть сканер відбитків пальців на задній панелі вашого смартфону.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Locate the fingerprint sensor on the side of your tablet.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Locate the fingerprint sensor on the side of your device.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Locate the fingerprint sensor on the side of your phone.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Знайдіть сканер відбитків пальців збоку планшета.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Знайдіть сканер відбитків пальців збоку пристрою.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Знайдіть сканер відбитків пальців збоку телефона.</string>
     <!-- Message shown when user touches the icon on the screen, instead of the real fingerprint sensor -->
     <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Торкніться сканера на передній панелі вашого планшета.</string>
     <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Торкніться сканера на передній панелі вашого пристрою.</string>
@@ -49,7 +49,7 @@
     <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Торкніться сканера на бічній грані вашого смартфона.</string>
     <!-- Proximity wake / Pocket mode -->
     <string name="proximity_wake_title">Запобігти випадковому вмиканню екрану</string>
-    <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen from the double tap to wake gesture</string>
+    <string name="proximity_wake_summary">Перевірити датчик наближення до пробудження екрану з подвійного натискання для пробудження</string>
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">Налаштування вібрації під час дзвінка</string>
     <string name="incall_vibrate_connect_title">Вібрація при з\'єднанні</string>
@@ -73,8 +73,8 @@
     <string name="navbar_invert_layout_title">Інвертувати відображення панелі навігації</string>
     <string name="navbar_invert_info">Поміняти місцями кнопки \"Назад\" та \"Нещодавні\" на панелі навігації</string>
     <!-- Left volume panel -->
-    <string name="volume_panel_on_left_title">Show volume panel on left</string>
-    <string name="volume_panel_on_left_summary">Move volume panel to the left side of the screen</string>
+    <string name="volume_panel_on_left_title">Показувати панель гучності зліва</string>
+    <string name="volume_panel_on_left_summary">Перемістити панель гучності в ліву частину екрана</string>
     <!-- Torch Power button gestures -->
     <string name="power_button_torch_title">Швидкий ліхтарик</string>
     <string name="power_button_torch_summary">Коли екран вимкнений, тривале натискання кнопки живлення увімкне ліхтарик</string>
@@ -82,60 +82,60 @@
     <string name="double_tap_sleep_gesture_title">Торкніться для сну</string>
     <string name="double_tap_sleep_gesture_summary">Двічі торкніться рядка стану, щоб перевести пристрій у сплячий режим</string>
     <!-- Low battery light -->
-    <string name="low_battery_light_title">Low battery light</string>
-    <string name="low_battery_light_summary">Blink LED when battery is low</string>
+    <string name="low_battery_light_title">Низький заряд батареї</string>
+    <string name="low_battery_light_summary">Блимати світлодіодом при низькому рівні заряду</string>
     <!-- Network traffic -->
-    <string name="network_traffic_title">Network traffic indicator</string>
-    <string name="network_traffic_summary">Enable or disable network speed indicator in status bar</string>
-    <string name="network_traffic_state_title">Enable \"Network traffic indicator\"</string>
-    <string name="network_options_title">Options</string>
-    <string name="network_traffic_autohide_title">Hide network traffic indicator is inactive</string>
-    <string name="network_traffic_autohide_summary">Hide when network traffic indicator is below 1 KB/s</string>
+    <string name="network_traffic_title">Індикатор швидкості мережі</string>
+    <string name="network_traffic_summary">Увімкнути або вимкнути індикатор швидкості мережі в рядку стану</string>
+    <string name="network_traffic_state_title">Індикатор швидкості мережі</string>
+    <string name="network_options_title">Параметри</string>
+    <string name="network_traffic_autohide_title">Приховати, якщо мережа неактивна</string>
+    <string name="network_traffic_autohide_summary">Приховати, якщо швидкість мережі менше 1 КБ/с</string>
     <!-- Display customization category -->
-    <string name="customization_category_title">Customization</string>
+    <string name="customization_category_title">Персоналізація</string>
     <!-- QS footer data usage -->
     <string name="qs_show_data_usage_title">Показувати використання даних</string>
     <string name="qs_show_data_usage_summary">Показувати щоденне використання стільникових/Wi-Fi даних у нижньому колонтитулі QS</string>
     <!-- Status bar Icon Manager -->
-    <string name="icon_manager_title">Status bar items</string>
+    <string name="icon_manager_title">Елементи рядку стану</string>
     <string name="icon_manager_summary">Налаштування видимості значків рядка стану</string>
     <!-- Show clipboard overlay -->
-    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
-    <string name="show_clipboard_overlay_summary">Show an overlay in the left bottom corner of the screen when something is copied to the clipboard</string>
+    <string name="show_clipboard_overlay_title">Показати накладення буфера обміну</string>
+    <string name="show_clipboard_overlay_summary">Показувати накладання в лівому нижньому куті екрана, коли щось копіюється в буфер обміну</string>
     <!-- Volume rocker music control -->
     <string name="volume_button_music_control_title">Керування відтворенням медіа</string>
-    <string name="volume_button_music_control_summary">When the screen is off, long-pressing the volume keys will skip music tracks</string>
+    <string name="volume_button_music_control_summary">Коли екран вимкнений, тривале натискання клавіш регулювання гучності буде перемикати музичні композиції</string>
     <!-- Backup Transport selection settings menu and activity title -->
-    <string name="backup_transport_setting_label">Change backup provider</string>
-    <string name="backup_transport_title">Select backup provider</string>
+    <string name="backup_transport_setting_label">Змінити провайдера резервного копіювання</string>
+    <string name="backup_transport_title">Виберіть провайдера резервного копіювання</string>
     <!-- Ignore window secure -->
     <string name="ignore_window_secure_title">Ігнорувати позначки безпеки вікон додатків</string>
     <string name="ignore_window_secure_summary">Видаляйте обмеження знімків екрану та запису екрану для всіх додатків. Це може бути зручно в деяких випадках, але може призвести до пошкодження конфіденційності.</string>
     <!-- App lock -->
-    <string name="app_lock_title">App lock</string>
+    <string name="app_lock_title">Блокування додатка</string>
     <plurals name="app_lock_summary">
-        <item quantity="one"><xliff:g example="1" id="Number of applications">%1$d</xliff:g> application is protected</item>
-        <item quantity="few"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> applications are protected</item>
-        <item quantity="many"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> applications are protected</item>
-        <item quantity="other"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> applications are protected</item>
+        <item quantity="one"><xliff:g example="1" id="Number of applications">%1$d</xliff:g> Додаток захищено</item>
+        <item quantity="few"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> додатків захищено</item>
+        <item quantity="many"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> додатків захищено</item>
+        <item quantity="other"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> додатків захищено</item>
     </plurals>
-    <string name="app_lock_authentication_dialog_title">Unlock</string>
-    <string name="enable_debugging">Enable debugging</string>
-    <string name="disable_debugging">Disable debugging</string>
-    <string name="app_lock_packages_title">Protected apps</string>
-    <string name="app_lock_packages_summary">Select the apps to protect with biometrics or device credentials</string>
-    <string name="app_lock_timeout_title">Auto lock timeout</string>
-    <string name="app_lock_timeout_summary">Duration of time after which an unlocked app in background should be locked</string>
-    <string name="app_lock_notifications_title">Redact notifications</string>
-    <string name="app_lock_notifications_summary">          Notification content will be hidden and collapsed for selected apps when they are locked.
-          Heads up notifications will be automatically disabled.
+    <string name="app_lock_authentication_dialog_title">Розблокувати</string>
+    <string name="enable_debugging">Увімкнути налагодження</string>
+    <string name="disable_debugging">Вимкнути відлагодження</string>
+    <string name="app_lock_packages_title">Заблоковані програми</string>
+    <string name="app_lock_packages_summary">Виберіть програми для захисту за допомогою біометричних даних або облікових даних пристрою</string>
+    <string name="app_lock_timeout_title">Час автоблокування</string>
+    <string name="app_lock_timeout_summary">Тривалість часу, після якого розблокована програма у фоновому режимі має бути заблокована</string>
+    <string name="app_lock_notifications_title">Згорнути сповіщення</string>
+    <string name="app_lock_notifications_summary">Зміст сповіщень буде приховано і згорнуто для вибраних програм, коли вони будуть заблоковані.
+          Сповіщення про спливаючі сповіщення будуть автоматично вимкнені.
     </string>
-    <string name="app_lock_notifications_disabled_summary">Protect an application first</string>
-    <string name="app_lock_biometrics_allowed_title">Enable biometrics for unlocking</string>
-    <string name="app_lock_footer_text">Bubbles will be automatically dismissed after timeout</string>
-    <string name="enable_protection">Enable protection</string>
-    <string name="hide_from_launcher_title">Hide from launcher</string>
-    <string name="hide_from_launcher_summary">        Prevent this application from showing up in launcher. Requires a launcher restart for changes to take effect.
+    <string name="app_lock_notifications_disabled_summary">Спершу захистіть програму</string>
+    <string name="app_lock_biometrics_allowed_title">Увімкніть біометричні дані для розблокування</string>
+    <string name="app_lock_footer_text">Бульбашки будуть автоматично відхилені після тайм-ауту</string>
+    <string name="enable_protection">Увімкнути захист</string>
+    <string name="hide_from_launcher_title">Сховати значок з меню програм</string>
+    <string name="hide_from_launcher_summary">Заборонити показ цієї програми в лаунчер. Необхідний перезапуск лаунчера, щоб зміни набрали чинності.
     </string>
     <!-- Fingerprint Ripple Effect -->
     <string name="enable_fingerprint_ripple_effect_title">Ефект пульсації</string>
@@ -148,12 +148,12 @@
     <string name="search">Пошук</string>
     <string name="search_apps">Пошук додатків</string>
     <!-- Quick Settings quick pulldown -->
-    <string name="quick_settings_quick_pull_down_title">Quick QS pulldown</string>
-    <string name="quick_settings_quick_pull_down_summary">Pull down statusbar from right side to expand quick settings</string>
+    <string name="quick_settings_quick_pull_down_title">Швидке розгортання швидких налаштувань</string>
+    <string name="quick_settings_quick_pull_down_summary">Потягніть вниз у рядку стану з правого боку для розширення швидких налаштувань</string>
     <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
-    <string name="ambient_display_screen_off_udfps_title">Always on Fingerprint</string>
+    <string name="ambient_display_screen_off_udfps_title">Завжди увімкнений відбиток пальця</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">Allows unlocking with the screen off.\nEnabling may cause accidental wake-ups.</string>
+    <string name="ambient_display_screen_off_udfps_summary">Дозволяє розблокування екрану вимкнений.\nУвімкнення може викликати випадкові пробудження.</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
     <string name="duration_less_than_one_minute">Менше за 1 хвилину</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
@@ -194,8 +194,8 @@
     <string name="adaptive_playback_timeout_10_min">10 хвилин</string>
     <string name="adaptive_playback_timeout_10_min_summary">Увімкнено (10 хвилин)</string>
     <!-- Navigation bar hint -->
-    <string name="show_navbar_gesture_bar_title">Gesture bar</string>
-    <string name="show_navbar_gesture_bar_summary">Show gesture bar at the bottom of the screen</string>
+    <string name="show_navbar_gesture_bar_title">Панель жестів</string>
+    <string name="show_navbar_gesture_bar_summary">Показувати панель жестів внизу екрану</string>
     <!-- Scramble pin -->
     <string name="unlock_scramble_pin_layout_title">Перемішати кнопки</string>
     <string name="unlock_scramble_pin_layout_summary">Перемішати кнопки вводу PIN-коду при розблокуванні</string>
@@ -232,7 +232,7 @@
     <string name="face_unlock_method_title">Дозволити розблокування обличчям на екрані блокування</string>
     <string name="face_unlock_method_default">Коли екран увімкнено</string>
     <string name="face_unlock_method_swipe">При проведенні пальцем на екрані блокування</string>
-    <string name="skip_biometric_auth_confirmation_title">Skip manually confirmation</string>
+    <string name="skip_biometric_auth_confirmation_title">Пропустити ручне підтвердження</string>
     <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Висока чутливість дотику</string>
     <string name="high_touch_sensitivity_summary">Підвищити чутливість екрану для можливості роботи в рукавичках</string>
@@ -296,8 +296,8 @@
     <string name="adj_intensity_title">Інтенсивність</string>
     <string name="adj_contrast_title">Контрастність</string>
     <!-- Black theme -->
-    <string name="system_black_theme_title">Use Black theme</string>
-    <string name="system_black_theme_summary">Force black background colors</string>
+    <string name="system_black_theme_title">Використовувати чорну тему</string>
+    <string name="system_black_theme_summary">Примусово використовувати чорні кольори фону</string>
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Швидке розблокування</string>
     <string name="unlock_quick_unlock_control_summary">Автоматичне розблокування при введенні правильного паролю чи PIN-коду</string>
