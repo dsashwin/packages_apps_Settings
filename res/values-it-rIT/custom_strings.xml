@@ -15,7 +15,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- String for removal of sensitive info on about, depending on tap -->
-    <string name="device_info_protected_single_press">Tap to show info</string>
+    <string name="device_info_protected_single_press">Tocca per mostrare le informazioni</string>
     <!-- Max refresh rate -->
     <string name="max_refresh_rate_title">Frequenza massima di aggiornamento</string>
     <!-- Min refresh rate -->
@@ -25,8 +25,8 @@
     <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
     <string name="category_name_refresh_rate_controls">Frequenza Aggiornamento</string>
     <!-- Battery saver refresh rate -->
-    <string name="battery_saver_refresh_rate_title">Reduce refresh rate</string>
-    <string name="battery_saver_refresh_rate_summary">Use 60 Hz screen refresh rate to save power when Battery Saver is on</string>
+    <string name="battery_saver_refresh_rate_title">Riduci la frequenza di aggiornamento</string>
+    <string name="battery_saver_refresh_rate_summary">Usa la frequenza d\'aggiornamento dello schermo a 60 Hz per risparmiare energia quando il Risparmio Energetico è attivo</string>
     <!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Individua il sensore d\'impronte digitali sulla parte anteriore del tuo tablet.</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="device">Individua il sensore d\'impronte digitali sulla parte anteriore del dispositivo.</string>
@@ -34,9 +34,9 @@
     <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Individua il sensore d\'impronte digitali sulla parte posteriore del tuo tablet.</string>
     <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Individua il sensore d\'impronte digitali sulla parte posteriore del tuo dispositivo.</string>
     <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Individua il lettore d\'impronte sul retro del tuo telefono.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Locate the fingerprint sensor on the side of your tablet.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Locate the fingerprint sensor on the side of your device.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Locate the fingerprint sensor on the side of your phone.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Individua il sensore d\'impronte digitali sulla parte laterale del tuo tablet.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Individua il sensore d\'impronte digitali sul lato del tuo dispositivo.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Individua il lettore d\'impronte sul lato del tuo telefono.</string>
     <!-- Message shown when user touches the icon on the screen, instead of the real fingerprint sensor -->
     <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Tocca il sensore sulla parte anteriore del tuo tablet.</string>
     <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Tocca il sensore sulla parte anteriore del tuo dispositivo.</string>
@@ -49,7 +49,7 @@
     <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Tocca il sensore sul lato del tuo telefono.</string>
     <!-- Proximity wake / Pocket mode -->
     <string name="proximity_wake_title">Previeni risvegli accidentali</string>
-    <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen from the double tap to wake gesture</string>
+    <string name="proximity_wake_summary">Controlla il sensore di prossimità prima di risvegliare lo schermo dal gesto doppio tocco per riattivare</string>
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">Opzioni per la vibrazione in chiamata</string>
     <string name="incall_vibrate_connect_title">Vibra alla risposta</string>
@@ -73,8 +73,8 @@
     <string name="navbar_invert_layout_title">Inverte la disposizione della barra di navigazione</string>
     <string name="navbar_invert_info">Scambio dei pulsanti \"Indietro\" e \"Recenti\" sulla barra di navigazione</string>
     <!-- Left volume panel -->
-    <string name="volume_panel_on_left_title">Show volume panel on left</string>
-    <string name="volume_panel_on_left_summary">Move volume panel to the left side of the screen</string>
+    <string name="volume_panel_on_left_title">Mostra il pannello del volume a sinistra</string>
+    <string name="volume_panel_on_left_summary">Visualizza il pannello del volume sul lato sinistro dello schermo</string>
     <!-- Torch Power button gestures -->
     <string name="power_button_torch_title">Torcia veloce</string>
     <string name="power_button_torch_summary">Quando lo schermo è spento, la pressione prolungata del pulsante d\'accensione attiverà la torcia</string>
@@ -82,72 +82,72 @@
     <string name="double_tap_sleep_gesture_title">Premi per spegnere</string>
     <string name="double_tap_sleep_gesture_summary">Doppio tocco ovunque sulla barra di stato per sospendere il dispositivo</string>
     <!-- Low battery light -->
-    <string name="low_battery_light_title">Low battery light</string>
-    <string name="low_battery_light_summary">Blink LED when battery is low</string>
+    <string name="low_battery_light_title">Luce batteria scarica</string>
+    <string name="low_battery_light_summary">Lampeggia il LED quando la batteria è quasi scarica</string>
     <!-- Network traffic -->
-    <string name="network_traffic_title">Network traffic indicator</string>
-    <string name="network_traffic_summary">Enable or disable network speed indicator in status bar</string>
-    <string name="network_traffic_state_title">Enable \"Network traffic indicator\"</string>
-    <string name="network_options_title">Options</string>
-    <string name="network_traffic_autohide_title">Hide network traffic indicator is inactive</string>
-    <string name="network_traffic_autohide_summary">Hide when network traffic indicator is below 1 KB/s</string>
+    <string name="network_traffic_title">Indicatore di traffico di rete</string>
+    <string name="network_traffic_summary">Abilita o disabilita l\'indicatore di velocità di rete nella barra di stato</string>
+    <string name="network_traffic_state_title">Attiva \"Indicatore traffico di rete\"</string>
+    <string name="network_options_title">Opzioni</string>
+    <string name="network_traffic_autohide_title">Nascondi l\'indicatore di traffico è disattivato</string>
+    <string name="network_traffic_autohide_summary">Nascondi l\'indicatore quando il traffico di rete è al di sotto di 1KB/s</string>
     <!-- Display customization category -->
-    <string name="customization_category_title">Customization</string>
+    <string name="customization_category_title">Personalizzazione</string>
     <!-- QS footer data usage -->
     <string name="qs_show_data_usage_title">Mostra utilizzo dati</string>
     <string name="qs_show_data_usage_summary">Mostra l\'utilizzo giornaliero di dati cellulari/Wi-Fi nel piè di pagina delle impostazioni rapide</string>
     <!-- Status bar Icon Manager -->
-    <string name="icon_manager_title">Status bar items</string>
+    <string name="icon_manager_title">Elementi della barra di stato</string>
     <string name="icon_manager_summary">Controlla la visibilità delle icone sulla barra di stato</string>
     <!-- Show clipboard overlay -->
-    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
-    <string name="show_clipboard_overlay_summary">Show an overlay in the left bottom corner of the screen when something is copied to the clipboard</string>
+    <string name="show_clipboard_overlay_title">Mostra l\'overlay degli appunti</string>
+    <string name="show_clipboard_overlay_summary">Mostra un overlay nell\'angolo inferiore sinistro dello schermo quando copi qualcosa negli appunti</string>
     <!-- Volume rocker music control -->
-    <string name="volume_button_music_control_title">Playback control</string>
-    <string name="volume_button_music_control_summary">When the screen is off, long-pressing the volume keys will skip music tracks</string>
+    <string name="volume_button_music_control_title">Controlli per la riproduzione</string>
+    <string name="volume_button_music_control_summary">Quando lo schermo è spento, premi a lungo i tasti del volume per saltare le tracce musicali</string>
     <!-- Backup Transport selection settings menu and activity title -->
-    <string name="backup_transport_setting_label">Change backup provider</string>
-    <string name="backup_transport_title">Select backup provider</string>
+    <string name="backup_transport_setting_label">Cambia gestore di backup</string>
+    <string name="backup_transport_title">Seleziona un gestore di backup</string>
     <!-- Ignore window secure -->
     <string name="ignore_window_secure_title">Ignora flag di sicurezza della finestra</string>
     <string name="ignore_window_secure_summary">Rimuovi i limiti agli screenshot e alle registrazioni schermo per tutte le app. Può essere utile in alcuni casi ma può compromettere la privacy.</string>
     <!-- App lock -->
-    <string name="app_lock_title">App lock</string>
+    <string name="app_lock_title">Blocco app</string>
     <plurals name="app_lock_summary">
-        <item quantity="one"><xliff:g example="1" id="Number of applications">%1$d</xliff:g> application is protected</item>
-        <item quantity="other"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> applications are protected</item>
+        <item quantity="one"><xliff:g example="1" id="Number of applications">%1$d</xliff:g> applicazione è protetta</item>
+        <item quantity="other"><xliff:g example="10" id="Number of applications">%1$d</xliff:g> applicazioni sono protette</item>
     </plurals>
-    <string name="app_lock_authentication_dialog_title">Unlock</string>
-    <string name="enable_debugging">Enable debugging</string>
-    <string name="disable_debugging">Disable debugging</string>
-    <string name="app_lock_packages_title">Protected apps</string>
-    <string name="app_lock_packages_summary">Select the apps to protect with biometrics or device credentials</string>
-    <string name="app_lock_timeout_title">Auto lock timeout</string>
-    <string name="app_lock_timeout_summary">Duration of time after which an unlocked app in background should be locked</string>
-    <string name="app_lock_notifications_title">Redact notifications</string>
-    <string name="app_lock_notifications_summary">          Notification content will be hidden and collapsed for selected apps when they are locked.
-          Heads up notifications will be automatically disabled.
+    <string name="app_lock_authentication_dialog_title">Sblocca</string>
+    <string name="enable_debugging">Abilita debug</string>
+    <string name="disable_debugging">Disabilita debugging</string>
+    <string name="app_lock_packages_title">Applicazioni protette</string>
+    <string name="app_lock_packages_summary">Seleziona le applicazioni da proteggere con la biometria o le credenziali del dispositivo</string>
+    <string name="app_lock_timeout_title">Timeout blocco automatico</string>
+    <string name="app_lock_timeout_summary">Durata di tempo dopo il quale una applicazione sbloccata in background debba essere bloccata</string>
+    <string name="app_lock_notifications_title">Nascondi notifiche</string>
+    <string name="app_lock_notifications_summary">          Il contenuto delle notifiche sarà nascosto e compresso per le app selezionate quando sono bloccate.
+          Le Notifiche Fluttuanti saranno disabilitate automaticamente.
     </string>
-    <string name="app_lock_notifications_disabled_summary">Protect an application first</string>
-    <string name="app_lock_biometrics_allowed_title">Enable biometrics for unlocking</string>
-    <string name="app_lock_footer_text">Bubbles will be automatically dismissed after timeout</string>
-    <string name="enable_protection">Enable protection</string>
-    <string name="hide_from_launcher_title">Hide from launcher</string>
-    <string name="hide_from_launcher_summary">        Prevent this application from showing up in launcher. Requires a launcher restart for changes to take effect.
+    <string name="app_lock_notifications_disabled_summary">Proteggi prima un\'applicazione</string>
+    <string name="app_lock_biometrics_allowed_title">Abilita la biometria per lo sblocco</string>
+    <string name="app_lock_footer_text">Le bolle saranno eliminate automaticamente dopo il timeout</string>
+    <string name="enable_protection">Abilita protezione</string>
+    <string name="hide_from_launcher_title">Nascondi dal launcher</string>
+    <string name="hide_from_launcher_summary">        Impedisce che questa applicazione venga mostrata nel launcher. Richiede un riavvio del launcher affinché le modifiche abbiano effetto.
     </string>
     <!-- Fingerprint Ripple Effect -->
     <string name="enable_fingerprint_ripple_effect_title">Effetto ondulazione</string>
     <string name="enable_fingerprint_ripple_effect_summary">Mostra l\'effetto increspatura allo sblocco con impronta digitale</string>
     <!-- Screenshot shutter -->
-    <string name="screenshot_shutter_sound_title">Screenshot sound</string>
+    <string name="screenshot_shutter_sound_title">Suono screenshot</string>
     <!-- Notch: Full screen apps -->
     <string name="display_cutout_force_fullscreen_title">App a scchermo intero</string>
     <string name="display_cutout_force_fullscreen_summary">Forza le app a ignorare lo spazio del notch</string>
     <string name="search">Cerca</string>
     <string name="search_apps">Cerca applicazioni</string>
     <!-- Quick Settings quick pulldown -->
-    <string name="quick_settings_quick_pull_down_title">Quick QS pulldown</string>
-    <string name="quick_settings_quick_pull_down_summary">Pull down statusbar from right side to expand quick settings</string>
+    <string name="quick_settings_quick_pull_down_title">Apertura veloce impostazioni rapide</string>
+    <string name="quick_settings_quick_pull_down_summary">Abbassa velocemente la tendina delle notifiche dalla parte destra per espandere subito le impostazioni rapide</string>
     <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
     <string name="ambient_display_screen_off_udfps_title">Always on Fingerprint</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
@@ -216,12 +216,12 @@
     <string name="wifi_hotspot_unblock_client_dialog_text">The device \"<xliff:g id="device_name">%1$s</xliff:g>\" will be able to connect to this hotspot</string>
     <string name="wifi_hotspot_client_manager_footer_text">No clients are currently available. Connected and blocked devices will be listed here when available.</string>
     <string name="wifi_hotspot_timeout_summary_never">Never</string>
-    <string name="wifi_hotspot_timeout_summary_30secs">30 seconds</string>
-    <string name="wifi_hotspot_timeout_summary_1min">1 minute</string>
-    <string name="wifi_hotspot_timeout_summary_5mins">5 minutes</string>
-    <string name="wifi_hotspot_timeout_summary_10mins">10 minutes</string>
-    <string name="wifi_hotspot_timeout_summary_30mins">30 minutes</string>
-    <string name="wifi_hotspot_timeout_summary_1hour">1 hour</string>
+    <string name="wifi_hotspot_timeout_summary_30secs">30 secondi</string>
+    <string name="wifi_hotspot_timeout_summary_1min">1 minuto</string>
+    <string name="wifi_hotspot_timeout_summary_5mins">5 minuti</string>
+    <string name="wifi_hotspot_timeout_summary_10mins">10 minuti</string>
+    <string name="wifi_hotspot_timeout_summary_30mins">30 minuti</string>
+    <string name="wifi_hotspot_timeout_summary_1hour">1 ora</string>
     <!-- Face Unlock -->
     <string name="security_settings_face_unlock_redo_face_scan_summary">Rimuovi la scansione del volto e crea una nuova scansione</string>
     <string name="security_settings_face_unlock_redo_face_scan_title">Ripeti scansione del volto</string>
@@ -230,7 +230,7 @@
     <string name="face_unlock_method_title">Consenti sblocco del volto sulla schermata di blocco</string>
     <string name="face_unlock_method_default">Quando lo schermo è acceso</string>
     <string name="face_unlock_method_swipe">Quando scorri sulla schermata di blocco</string>
-    <string name="skip_biometric_auth_confirmation_title">Skip manually confirmation</string>
+    <string name="skip_biometric_auth_confirmation_title">Salta la conferma manuale</string>
     <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Elevata sensibilità al tocco</string>
     <string name="high_touch_sensitivity_summary">Aumenta la sensibilità del touchscreen per poterlo usare anche con i guanti</string>
@@ -294,8 +294,8 @@
     <string name="adj_intensity_title">Intensità</string>
     <string name="adj_contrast_title">Contrasto</string>
     <!-- Black theme -->
-    <string name="system_black_theme_title">Use Black theme</string>
-    <string name="system_black_theme_summary">Force black background colors</string>
+    <string name="system_black_theme_title">Usa tema nero</string>
+    <string name="system_black_theme_summary">Forza colori di sfondo neri</string>
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">Sblocco rapido</string>
     <string name="unlock_quick_unlock_control_summary">Sblocca automaticamente quando sono inseriti PIN o password corretti</string>
