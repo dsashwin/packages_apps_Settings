@@ -130,7 +130,7 @@
     <string name="app_lock_notifications_title">Ocultar notificações</string>
     <string name="app_lock_notifications_summary">          O conteúdo das notificações será oculto e recolhido quando o aplicativo é bloqueado.
           As notificações existentes, assim como as novas notificações serão revertidas.
-          Notificações pop-up serão desativadas automaticamente.
+          Notificações flutuantes serão desativadas automaticamente.
     </string>
     <string name="app_lock_notifications_disabled_summary">Primeiro proteja um aplicativo</string>
     <string name="app_lock_biometrics_allowed_title">Habilitar biometria para desbloquear</string>
@@ -326,11 +326,11 @@
     <!-- Advanced sound settings -->
     <string name="sound_settings_advanced_title">Configurações adicionais</string>
     <!-- Ambient wake toggles -->
-    <string name="doze_gesture_ambient_title">Mostrar ambiente</string>
-    <string name="doze_gesture_ambient_summary">Mostrar Tela Ambiente em vez de acordar completamente a tela</string>
-    <string name="gesture_wake_ambient">Mostrar ambiente</string>
+    <string name="doze_gesture_ambient_title">Mostrar tela ambiente</string>
+    <string name="doze_gesture_ambient_summary">Mostrar a tela ambiente em vez da tela padrão de bloqueio</string>
+    <string name="gesture_wake_ambient">Mostrar tela ambiente</string>
     <string name="gesture_wake">Acordar totalmente</string>
     <!-- Doze enablement -->
-    <string name="doze_enabled_title">Tela Ambiente</string>
+    <string name="doze_enabled_title">Tela ambiente</string>
     <string name="doze_enabled_summary">Se deve habilitar a função doze</string>
 </resources>
