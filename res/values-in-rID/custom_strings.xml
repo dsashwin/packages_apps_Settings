@@ -120,17 +120,17 @@
     <string name="app_lock_packages_summary">Pilih aplikasi yang akan dilindungi oleh biometrik atau kredensial perangkat</string>
     <string name="app_lock_timeout_title">Batas waktu penguncian otomatis</string>
     <string name="app_lock_timeout_summary">Durasi waktu setelah aplikasi yang tidak terkunci di latar belakang harus dikunci</string>
-    <string name="app_lock_timeout_5secs">5 seconds</string>
-    <string name="app_lock_timeout_10secs">10 seconds</string>
-    <string name="app_lock_timeout_30secs">30 seconds</string>
-    <string name="app_lock_timeout_1min">1 minute</string>
-    <string name="app_lock_timeout_5mins">5 minutes</string>
-    <string name="app_lock_timeout_10mins">10 minutes</string>
-    <string name="app_lock_timeout_30mins">30 minutes</string>
+    <string name="app_lock_timeout_5secs">5 detik</string>
+    <string name="app_lock_timeout_10secs">10 detik</string>
+    <string name="app_lock_timeout_30secs">30 detik</string>
+    <string name="app_lock_timeout_1min">1 menit</string>
+    <string name="app_lock_timeout_5mins">5 menit</string>
+    <string name="app_lock_timeout_10mins">10 menit</string>
+    <string name="app_lock_timeout_30mins">30 menit</string>
     <string name="app_lock_notifications_title">Matikan notifikasi</string>
-    <string name="app_lock_notifications_summary">          Notification content will be hidden and collapsed when app is locked out.
-          Existing notifications as well as new notifications will be redacted.
-          Heads up notifications will be automatically disabled.
+    <string name="app_lock_notifications_summary">Konten notifikasi akan disembunyikan dan diciutkan saat aplikasi terkunci.
+          Notifikasi yang ada serta notifikasi baru akan diedit.
+          Notifikasi mengambang akan dinonaktifkan secara otomatis.
     </string>
     <string name="app_lock_notifications_disabled_summary">Lindungi aplikasi terlebih dahulu</string>
     <string name="app_lock_biometrics_allowed_title">Aktifkan biometrik untuk membuka kunci</string>
@@ -309,29 +309,29 @@ Malam: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="doze_double_tap_title">Ketuk dua kali untuk memeriksa telepon</string>
     <string name="doze_double_tap_summary">Tampilkan notifikasi dengan ketukan ganda</string>
     <!-- Display : Rotation -->
-    <string name="display_rotation_title">Rotation settings</string>
-    <string name="display_rotation_enabled">Auto-rotation is enabled</string>
-    <string name="display_rotation_disabled">Auto-rotation is disabled</string>
-    <string name="display_rotation_unit">degrees</string>
-    <string name="display_rotation_category_title">Rotation modes</string>
-    <string name="display_rotation_0_title">0 degrees</string>
-    <string name="display_rotation_90_title">90 degrees</string>
-    <string name="display_rotation_180_title">180 degrees</string>
-    <string name="display_rotation_270_title">270 degrees</string>
+    <string name="display_rotation_title">Setelan rotasi</string>
+    <string name="display_rotation_enabled">Rotasi otomatis diaktifkan</string>
+    <string name="display_rotation_disabled">Rotasi otomatis dinonaktifkan</string>
+    <string name="display_rotation_unit">derajat</string>
+    <string name="display_rotation_category_title">Mode rotasi</string>
+    <string name="display_rotation_0_title">0 derajat</string>
+    <string name="display_rotation_90_title">90 derajat</string>
+    <string name="display_rotation_180_title">180 derajat</string>
+    <string name="display_rotation_270_title">270 derajat</string>
     <!-- Power menu on lockscreen -->
-    <string name="power_menu_hide_on_secure_title">Hide on lock screen</string>
-    <string name="power_menu_hide_on_secure_summary">Hide the power menu while on a secure lock screen</string>
+    <string name="power_menu_hide_on_secure_title">Sembunyikan pada layar kunci</string>
+    <string name="power_menu_hide_on_secure_summary">Sembunyikan menu daya saat berada di layar kunci</string>
     <!-- Haptic feedback -->
-    <string name="back_gesture_haptic_title">Haptic feedback</string>
-    <string name="back_gesture_haptic_summary">Enable haptic tick effect on back gesture</string>
+    <string name="back_gesture_haptic_title">Umpan balik haptik</string>
+    <string name="back_gesture_haptic_summary">Aktifkan efek getaran pada tombol gestur kembali</string>
     <!-- Advanced sound settings -->
-    <string name="sound_settings_advanced_title">Additional settings</string>
+    <string name="sound_settings_advanced_title">Pengaturan tambahan</string>
     <!-- Ambient wake toggles -->
-    <string name="doze_gesture_ambient_title">Show Ambient</string>
-    <string name="doze_gesture_ambient_summary">Show Ambient Display instead of fully waking the screen up</string>
-    <string name="gesture_wake_ambient">Show Ambient</string>
-    <string name="gesture_wake">Fully wake</string>
+    <string name="doze_gesture_ambient_title">Tampilkan ambient</string>
+    <string name="doze_gesture_ambient_summary">Tampilkan Ambient Display alih-alih sepenuhnya membangunkan layar</string>
+    <string name="gesture_wake_ambient">Tampilkan ambient</string>
+    <string name="gesture_wake">Bangun sepenuhnya</string>
     <!-- Doze enablement -->
-    <string name="doze_enabled_title">Ambient display</string>
-    <string name="doze_enabled_summary">Whether to enable the doze package functionality</string>
+    <string name="doze_enabled_title">Tampilan ambien</string>
+    <string name="doze_enabled_summary">Apakah akan mengaktifkan fungsi paket doze</string>
 </resources>
