@@ -331,5 +331,5 @@
     <string name="gesture_wake">Fully wake</string>
     <!-- Doze enablement -->
     <string name="doze_enabled_title">环境显示</string>
-    <string name="doze_enabled_summary">Whether to enable the doze package functionality</string>
+    <string name="doze_enabled_summary">自定义何时开启环境显示</string>
 </resources>
