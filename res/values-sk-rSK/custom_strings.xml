@@ -120,13 +120,13 @@
     <string name="app_lock_packages_summary">Vyberte aplikácie, ktoré chcete chrániť pomocou biometrických údajov alebo poverení zariadenia</string>
     <string name="app_lock_timeout_title">Časovač aut. zámku</string>
     <string name="app_lock_timeout_summary">Doba, po ktorej by mala byť aplikácia na pozadí uzamknutá</string>
-    <string name="app_lock_timeout_5secs">5 seconds</string>
-    <string name="app_lock_timeout_10secs">10 seconds</string>
-    <string name="app_lock_timeout_30secs">30 seconds</string>
-    <string name="app_lock_timeout_1min">1 minute</string>
-    <string name="app_lock_timeout_5mins">5 minutes</string>
-    <string name="app_lock_timeout_10mins">10 minutes</string>
-    <string name="app_lock_timeout_30mins">30 minutes</string>
+    <string name="app_lock_timeout_5secs">5 sekúnd</string>
+    <string name="app_lock_timeout_10secs">10 sekúnd</string>
+    <string name="app_lock_timeout_30secs">30 sekúnd</string>
+    <string name="app_lock_timeout_1min">1 minúta</string>
+    <string name="app_lock_timeout_5mins">5 minút</string>
+    <string name="app_lock_timeout_10mins">10 minút</string>
+    <string name="app_lock_timeout_30mins">30 minút</string>
     <string name="app_lock_notifications_title">Skrátiť upozornenia</string>
     <string name="app_lock_notifications_summary">          Notification content will be hidden and collapsed when app is locked out.
           Existing notifications as well as new notifications will be redacted.
@@ -308,23 +308,23 @@
     <string name="doze_double_tap_title">Kontrola telefónu dvojitým klepnutím</string>
     <string name="doze_double_tap_summary">Pulzovať upozornenia dvojitým klepnutím</string>
     <!-- Display : Rotation -->
-    <string name="display_rotation_title">Rotation settings</string>
-    <string name="display_rotation_enabled">Auto-rotation is enabled</string>
-    <string name="display_rotation_disabled">Auto-rotation is disabled</string>
-    <string name="display_rotation_unit">degrees</string>
-    <string name="display_rotation_category_title">Rotation modes</string>
-    <string name="display_rotation_0_title">0 degrees</string>
-    <string name="display_rotation_90_title">90 degrees</string>
-    <string name="display_rotation_180_title">180 degrees</string>
-    <string name="display_rotation_270_title">270 degrees</string>
+    <string name="display_rotation_title">Nastavenia otáčania</string>
+    <string name="display_rotation_enabled">Automatické otáčanie je povolené</string>
+    <string name="display_rotation_disabled">Automatické otáčanie je zakázané</string>
+    <string name="display_rotation_unit">stupne</string>
+    <string name="display_rotation_category_title">Režimy otáčania</string>
+    <string name="display_rotation_0_title">0 stupňov</string>
+    <string name="display_rotation_90_title">90 stupňov</string>
+    <string name="display_rotation_180_title">180 stupňov</string>
+    <string name="display_rotation_270_title">270 stupňov</string>
     <!-- Power menu on lockscreen -->
-    <string name="power_menu_hide_on_secure_title">Hide on lock screen</string>
-    <string name="power_menu_hide_on_secure_summary">Hide the power menu while on a secure lock screen</string>
+    <string name="power_menu_hide_on_secure_title">Skryť na obrazovke uzamknutia</string>
+    <string name="power_menu_hide_on_secure_summary">Skryť ponuku napájania na zabezpečenej uzamknutej obrazovke</string>
     <!-- Haptic feedback -->
-    <string name="back_gesture_haptic_title">Haptic feedback</string>
-    <string name="back_gesture_haptic_summary">Enable haptic tick effect on back gesture</string>
+    <string name="back_gesture_haptic_title">Hmatová odozva</string>
+    <string name="back_gesture_haptic_summary">Povoliť efekt krátkeho zavibrovania pri použití gesta \"Späť\"</string>
     <!-- Advanced sound settings -->
-    <string name="sound_settings_advanced_title">Additional settings</string>
+    <string name="sound_settings_advanced_title">Ďalšie nastavenia</string>
     <!-- Ambient wake toggles -->
     <string name="doze_gesture_ambient_title">Show Ambient</string>
     <string name="doze_gesture_ambient_summary">Show Ambient Display instead of fully waking the screen up</string>
