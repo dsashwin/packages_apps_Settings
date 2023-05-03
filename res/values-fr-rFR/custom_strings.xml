@@ -120,17 +120,17 @@
     <string name="app_lock_packages_summary">Sélectionnez les applications à protéger avec les données biométriques ou les identifiants de l\'appareil</string>
     <string name="app_lock_timeout_title">Délai avant verrouillage automatique</string>
     <string name="app_lock_timeout_summary">Durée après laquelle une application déverrouillée en arrière-plan doit être verrouillée</string>
-    <string name="app_lock_timeout_5secs">5 seconds</string>
-    <string name="app_lock_timeout_10secs">10 seconds</string>
-    <string name="app_lock_timeout_30secs">30 seconds</string>
+    <string name="app_lock_timeout_5secs">5 secondes</string>
+    <string name="app_lock_timeout_10secs">10 secondes</string>
+    <string name="app_lock_timeout_30secs">30 secondes</string>
     <string name="app_lock_timeout_1min">1 minute</string>
     <string name="app_lock_timeout_5mins">5 minutes</string>
     <string name="app_lock_timeout_10mins">10 minutes</string>
     <string name="app_lock_timeout_30mins">30 minutes</string>
     <string name="app_lock_notifications_title">Redéfinir les notifications</string>
-    <string name="app_lock_notifications_summary">          Notification content will be hidden and collapsed when app is locked out.
-          Existing notifications as well as new notifications will be redacted.
-          Heads up notifications will be automatically disabled.
+    <string name="app_lock_notifications_summary">          Le contenu des notifications sera masqué et réduit lorsque l\'application est bloquée.
+          Les notifications existantes ainsi que les nouvelles notifications seront supprimées.
+          Les notifications flottantes seront automatiquement désactivées.
     </string>
     <string name="app_lock_notifications_disabled_summary">Protéger d\'abord une application</string>
     <string name="app_lock_biometrics_allowed_title">Activer le déverrouillage biométrique</string>
@@ -308,29 +308,29 @@
     <string name="doze_double_tap_title">Appuyez deux fois pour vérifier le téléphone</string>
     <string name="doze_double_tap_summary">Notification par impulsion lumineuse lors d\'un appui double</string>
     <!-- Display : Rotation -->
-    <string name="display_rotation_title">Rotation settings</string>
-    <string name="display_rotation_enabled">Auto-rotation is enabled</string>
-    <string name="display_rotation_disabled">Auto-rotation is disabled</string>
-    <string name="display_rotation_unit">degrees</string>
-    <string name="display_rotation_category_title">Rotation modes</string>
-    <string name="display_rotation_0_title">0 degrees</string>
-    <string name="display_rotation_90_title">90 degrees</string>
-    <string name="display_rotation_180_title">180 degrees</string>
-    <string name="display_rotation_270_title">270 degrees</string>
+    <string name="display_rotation_title">Paramètres de rotation</string>
+    <string name="display_rotation_enabled">Rotation automatique activée</string>
+    <string name="display_rotation_disabled">Rotation automatique désactivée</string>
+    <string name="display_rotation_unit">degrés</string>
+    <string name="display_rotation_category_title">Modes de rotation</string>
+    <string name="display_rotation_0_title">0 degrés</string>
+    <string name="display_rotation_90_title">90 degrés</string>
+    <string name="display_rotation_180_title">180 degrés</string>
+    <string name="display_rotation_270_title">270 degrés</string>
     <!-- Power menu on lockscreen -->
-    <string name="power_menu_hide_on_secure_title">Hide on lock screen</string>
-    <string name="power_menu_hide_on_secure_summary">Hide the power menu while on a secure lock screen</string>
+    <string name="power_menu_hide_on_secure_title">Masquer sur l’écran de verrouillage</string>
+    <string name="power_menu_hide_on_secure_summary">Masquer le menu d\'alimentation sur l\'écran de verrouillage sécurisé</string>
     <!-- Haptic feedback -->
-    <string name="back_gesture_haptic_title">Haptic feedback</string>
-    <string name="back_gesture_haptic_summary">Enable haptic tick effect on back gesture</string>
+    <string name="back_gesture_haptic_title">Retour tactile</string>
+    <string name="back_gesture_haptic_summary">Activer le retour tactile lors d\'un geste de retour</string>
     <!-- Advanced sound settings -->
-    <string name="sound_settings_advanced_title">Additional settings</string>
+    <string name="sound_settings_advanced_title">Paramètres supplémentaires</string>
     <!-- Ambient wake toggles -->
-    <string name="doze_gesture_ambient_title">Show Ambient</string>
-    <string name="doze_gesture_ambient_summary">Show Ambient Display instead of fully waking the screen up</string>
-    <string name="gesture_wake_ambient">Show Ambient</string>
-    <string name="gesture_wake">Fully wake</string>
+    <string name="doze_gesture_ambient_title">Afficher en mode veille</string>
+    <string name="doze_gesture_ambient_summary">Afficher l\'affichage en mode Veille au lieu de réveiller l\'écran</string>
+    <string name="gesture_wake_ambient">Afficher en mode veille</string>
+    <string name="gesture_wake">Réveiller complètement</string>
     <!-- Doze enablement -->
-    <string name="doze_enabled_title">Ambient display</string>
-    <string name="doze_enabled_summary">Whether to enable the doze package functionality</string>
+    <string name="doze_enabled_title">Affichage en mode veille</string>
+    <string name="doze_enabled_summary">Activer la fonctionnalité doze</string>
 </resources>
