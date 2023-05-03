@@ -128,9 +128,9 @@
     <string name="app_lock_timeout_10mins">10 minút</string>
     <string name="app_lock_timeout_30mins">30 minút</string>
     <string name="app_lock_notifications_title">Skrátiť upozornenia</string>
-    <string name="app_lock_notifications_summary">          Notification content will be hidden and collapsed when app is locked out.
-          Existing notifications as well as new notifications will be redacted.
-          Heads up notifications will be automatically disabled.
+    <string name="app_lock_notifications_summary">          Obsah upozornení bude skrytý a zbalený pre vybrané aplikácie, keď sú uzamknuté.
+          Existujúce oznámenia, ako aj nové oznámenia budú redigované.
+          Upozornenia na  budú automaticky vypnuté.
     </string>
     <string name="app_lock_notifications_disabled_summary">Najprv chráňte aplikáciu</string>
     <string name="app_lock_biometrics_allowed_title">Povoliť biometriu na odomykanie</string>
@@ -326,11 +326,11 @@
     <!-- Advanced sound settings -->
     <string name="sound_settings_advanced_title">Ďalšie nastavenia</string>
     <!-- Ambient wake toggles -->
-    <string name="doze_gesture_ambient_title">Show Ambient</string>
-    <string name="doze_gesture_ambient_summary">Show Ambient Display instead of fully waking the screen up</string>
-    <string name="gesture_wake_ambient">Show Ambient</string>
-    <string name="gesture_wake">Fully wake</string>
+    <string name="doze_gesture_ambient_title">Zobraziť Ambientný displej</string>
+    <string name="doze_gesture_ambient_summary">Zobraziť ambientný diplej namiesto úplného prebudenia obrazovky</string>
+    <string name="gesture_wake_ambient">Zobraziť Ambientný displej</string>
+    <string name="gesture_wake">Úplne prebudený</string>
     <!-- Doze enablement -->
-    <string name="doze_enabled_title">Ambient display</string>
-    <string name="doze_enabled_summary">Whether to enable the doze package functionality</string>
+    <string name="doze_enabled_title">Ambientný displej</string>
+    <string name="doze_enabled_summary">Či sa má povoliť funkcia uspatie balíka</string>
 </resources>
