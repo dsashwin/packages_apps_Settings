@@ -85,12 +85,12 @@
     <string name="show_navbar_gesture_bar_title">Μπάρα χειρονομιών</string>
     <string name="show_navbar_gesture_bar_summary">Εμφάνιση της γραμμής χειρονομιών στο κάτω μέρος της οθόνης</string>
     <!-- Network traffic -->
-    <string name="network_traffic_title">Network Traffic Indicator</string>
-    <string name="network_traffic_summary">Enable or disable the network speed indicator in the status bar</string>
-    <string name="network_traffic_state_title">Enable Network Traffic Indicator</string>
+    <string name="network_traffic_title">Ένδειξη κυκλοφορίας δικτύου</string>
+    <string name="network_traffic_summary">Ενεργοποιήστε ή απενεργοποιήστε την ένδειξη ταχύτητας δικτύου στη γραμμή κατάστασης</string>
+    <string name="network_traffic_state_title">Χρήση ένδειξης κίνησης δικτύου</string>
     <string name="network_options_title">Επιλογές</string>
-    <string name="network_traffic_autohide_title">Hide the Network Traffic Indicator when inactive</string>
-    <string name="network_traffic_autohide_summary">Hides the network traffic indicator when below 1 KB/s</string>
+    <string name="network_traffic_autohide_title">Απόκρυψη κίνησης δικτύου όταν δεν υπάρχει δραστηριότητα</string>
+    <string name="network_traffic_autohide_summary">Απόκρυψη δείκτη κίνησης δικτύου όταν είναι κάτω από 1 KB/s</string>
     <!-- Display customization category -->
     <string name="customization_category_title">Προσαρμογή</string>
     <!-- QS footer data usage -->
