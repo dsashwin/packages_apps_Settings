@@ -85,12 +85,12 @@
     <string name="show_navbar_gesture_bar_title">Bilah gestur</string>
     <string name="show_navbar_gesture_bar_summary">Tampilkan bilah gestur di bagian bawah layar</string>
     <!-- Network traffic -->
-    <string name="network_traffic_title">Network Traffic Indicator</string>
-    <string name="network_traffic_summary">Enable or disable the network speed indicator in the status bar</string>
-    <string name="network_traffic_state_title">Enable Network Traffic Indicator</string>
+    <string name="network_traffic_title">Indikator Lalu Lintas Jaringan</string>
+    <string name="network_traffic_summary">Aktifkan atau nonaktifkan indikator kecepatan jaringan di bilah status</string>
+    <string name="network_traffic_state_title">Aktifkan Indikator Lalu Lintas Jaringan</string>
     <string name="network_options_title">Opsi</string>
-    <string name="network_traffic_autohide_title">Hide the Network Traffic Indicator when inactive</string>
-    <string name="network_traffic_autohide_summary">Hides the network traffic indicator when below 1 KB/s</string>
+    <string name="network_traffic_autohide_title">Sembunyikan Indikator Lalu Lintas Jaringan saat tidak aktif</string>
+    <string name="network_traffic_autohide_summary">Sembunyikan indikator lalu lintas jaringan saat di bawah 1 KB/d</string>
     <!-- Display customization category -->
     <string name="customization_category_title">Kustomisasi</string>
     <!-- QS footer data usage -->
