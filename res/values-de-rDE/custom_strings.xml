@@ -85,7 +85,7 @@
     <string name="show_navbar_gesture_bar_title">Navigationsleiste</string>
     <string name="show_navbar_gesture_bar_summary">Navigationsleiste am unteren Bildschirmrand anzeigen</string>
     <!-- Network traffic -->
-    <string name="network_traffic_title">Network Traffic Indicator</string>
+    <string name="network_traffic_title">Datenverkehr-Anzeige</string>
     <string name="network_traffic_summary">Enable or disable the network speed indicator in the status bar</string>
     <string name="network_traffic_state_title">Enable Network Traffic Indicator</string>
     <string name="network_options_title">Einstellungen</string>
