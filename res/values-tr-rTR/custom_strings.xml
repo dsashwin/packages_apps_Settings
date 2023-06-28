@@ -85,12 +85,12 @@
     <string name="show_navbar_gesture_bar_title">Hareket çubuğu</string>
     <string name="show_navbar_gesture_bar_summary">Ekranın altında hareket çubuğunu göster</string>
     <!-- Network traffic -->
-    <string name="network_traffic_title">Network Traffic Indicator</string>
-    <string name="network_traffic_summary">Enable or disable the network speed indicator in the status bar</string>
-    <string name="network_traffic_state_title">Enable Network Traffic Indicator</string>
+    <string name="network_traffic_title">Ağ Trafiği Göstergesi</string>
+    <string name="network_traffic_summary">Durum çubuğunda ağ hızı göstergesini etkinleştirin veya devre dışı bırakın</string>
+    <string name="network_traffic_state_title">Ağ Trafiği Göstergesini Etkinleştir</string>
     <string name="network_options_title">Ayarlar</string>
-    <string name="network_traffic_autohide_title">Hide the Network Traffic Indicator when inactive</string>
-    <string name="network_traffic_autohide_summary">Hides the network traffic indicator when below 1 KB/s</string>
+    <string name="network_traffic_autohide_title">Ağ Trafiği Göstergesi etkin olmadığında gizle</string>
+    <string name="network_traffic_autohide_summary">Ağ trafiği göstergesi 1 KB/s\'nin altında olduğunda gizle</string>
     <!-- Display customization category -->
     <string name="customization_category_title">Özelleştirme</string>
     <!-- QS footer data usage -->
