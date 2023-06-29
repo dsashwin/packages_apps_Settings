@@ -15,7 +15,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- String for removal of sensitive info on about, depending on tap -->
-    <string name="device_info_protected_single_press">Tap to show info</string>
+    <string name="device_info_protected_single_press">Toque para mostrar informações</string>
     <!-- Max refresh rate -->
     <string name="max_refresh_rate_title">Pico da taxa de atualização</string>
     <!-- Min refresh rate -->
@@ -31,9 +31,9 @@
     <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Localize o sensor de impressões digitais na parte traseira do seu tablet.</string>
     <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Localize o sensor de impressões digitais na traseira do seu dispositivo.</string>
     <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Localize o sensor de impressões digitais na parte de trás do seu telemóvel.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Locate the fingerprint sensor on the side of your tablet.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Locate the fingerprint sensor on the side of your device.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Locate the fingerprint sensor on the side of your phone.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Localize o sensor de impressões digitais na lateral do seu tablet.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Localize o sensor de impressões digitais na lateral do seu dispositivo.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Localize o sensor de impressões digitais na lateral esquerda do seu telemóvel.</string>
     <!-- Message shown when user touches the icon on the screen, instead of the real fingerprint sensor -->
     <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Toque no sensor na parte frontal do seu tablet.</string>
     <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Toque no sensor na parte frontal do seu dispositivo.</string>
@@ -50,14 +50,14 @@
     <!-- Radio Info -->
     <string name="radio_info_title">Informações do rádio</string>
     <!-- Left volume panel -->
-    <string name="volume_panel_on_left_title">Show volume panel on left</string>
-    <string name="volume_panel_on_left_summary">Move volume panel to the left side of the screen</string>
+    <string name="volume_panel_on_left_title">Mostrar painel de volume à esquerda</string>
+    <string name="volume_panel_on_left_summary">Move o painel de volume para o lado esquerdo do ecrã</string>
     <!-- DT2S on statusbar-->
     <string name="double_tap_sleep_gesture_title">Toque para desligar</string>
     <string name="double_tap_sleep_gesture_summary">Toque duplo na barra de estado para desligar o ecrã do dispositivo</string>
     <!-- Quick Settings quick pulldown -->
-    <string name="quick_settings_quick_pull_down_title">Quick QS pulldown</string>
-    <string name="quick_settings_quick_pull_down_summary">Pull down statusbar from right side to expand quick settings</string>
+    <string name="quick_settings_quick_pull_down_title">Abertura rápida do painel QS</string>
+    <string name="quick_settings_quick_pull_down_summary">Puxe a barra de status do lado direito para expandir as configurações rápidas</string>
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">Opções de vibração durante a chamada</string>
     <string name="incall_vibrate_connect_title">Vibrar ao atender</string>
@@ -79,38 +79,38 @@
     <string name="power_button_torch_title">Acesso rápido à lanterna</string>
     <string name="power_button_torch_summary">Quando o ecrã está desligado, manter premido o botão de energia ligará a lanterna</string>
     <!-- Low battery light -->
-    <string name="low_battery_light_title">Low battery light</string>
-    <string name="low_battery_light_summary">Blink LED when battery is low</string>
+    <string name="low_battery_light_title">Luz de bateria fraca</string>
+    <string name="low_battery_light_summary">Piscar o LED quando a bateria estiver fraca</string>
     <!-- Navigation bar hint -->
-    <string name="show_navbar_gesture_bar_title">Gesture bar</string>
-    <string name="show_navbar_gesture_bar_summary">Show gesture bar at the bottom of the screen</string>
+    <string name="show_navbar_gesture_bar_title">Barra de gestos</string>
+    <string name="show_navbar_gesture_bar_summary">Mostrar barra de gestos na parte inferior do ecrã</string>
     <!-- Network traffic -->
-    <string name="network_traffic_title">Network Traffic Indicator</string>
-    <string name="network_traffic_summary">Enable or disable the network speed indicator in the status bar</string>
-    <string name="network_traffic_state_title">Enable Network Traffic Indicator</string>
-    <string name="network_options_title">Options</string>
-    <string name="network_traffic_autohide_title">Hide the Network Traffic Indicator when inactive</string>
-    <string name="network_traffic_autohide_summary">Hides the network traffic indicator when below 1 KB/s</string>
+    <string name="network_traffic_title">Indicadores de tráfego de Rede</string>
+    <string name="network_traffic_summary">Ativar ou desativar o indicador de velocidade de rede na barra de estado</string>
+    <string name="network_traffic_state_title">Ativar o indicador de tráfego de rede</string>
+    <string name="network_options_title">Opções</string>
+    <string name="network_traffic_autohide_title">Ocultar indicador de tráfego de rede se inativo</string>
+    <string name="network_traffic_autohide_summary">Ocultar quando o indicador de tráfego de rede estiver abaixo de 1 KB/s</string>
     <!-- Display customization category -->
-    <string name="customization_category_title">Customization</string>
+    <string name="customization_category_title">Personalização</string>
     <!-- QS footer data usage -->
     <string name="qs_show_data_usage_title">Mostrar utilização de dados</string>
     <string name="qs_show_data_usage_summary">Mostrar uso de dados móveis/Wi-Fi no rodapé das configurações rápidas</string>
     <!-- Status bar Icon Manager -->
-    <string name="icon_manager_title">Status bar items</string>
+    <string name="icon_manager_title">Itens da barra de estado</string>
     <string name="icon_manager_summary">Controlar a visibilidade dos ícones da barra de estado</string>
     <!-- Proximity wake / Pocket mode -->
     <string name="proximity_wake_title">Previne que o ecrã se ligue acidentalmente</string>
-    <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen from the double tap to wake gesture</string>
+    <string name="proximity_wake_summary">Verifique o sensor de proximidade antes de acordar o ecrã com o gesto Toque duplo para despertar</string>
     <!-- Show clipboard overlay -->
-    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
-    <string name="show_clipboard_overlay_summary">Show an overlay in the left bottom corner of the screen when something is copied to the clipboard</string>
+    <string name="show_clipboard_overlay_title">Mostrar sobreposição da área de transferência</string>
+    <string name="show_clipboard_overlay_summary">Mostrar uma sobreposição no canto inferior esquerdo do ecrã quando algo for copiado para a área de transferência</string>
     <!-- Volume rocker music control -->
     <string name="volume_button_music_control_title">Controle de reprodução</string>
-    <string name="volume_button_music_control_summary">When the screen is off, long-pressing the volume keys will skip music tracks</string>
+    <string name="volume_button_music_control_summary">Quando o ecrã está desligado, pressione prolongadamente os botões de volume para alternar as faixas</string>
     <!-- Backup Transport selection settings menu and activity title -->
-    <string name="backup_transport_setting_label">Change backup provider</string>
-    <string name="backup_transport_title">Select backup provider</string>
+    <string name="backup_transport_setting_label">Alterar fornecedor de cópias</string>
+    <string name="backup_transport_title">Seleccionar o fornecedor de cópias de segurança</string>
     <!-- Ignore window secure -->
     <string name="ignore_window_secure_title">Ignorar sinalizadores de segurança da janela</string>
     <string name="ignore_window_secure_summary">Remova limites de gravação e captura de ecrã para todos os aplicativos. Isso pode ser conveniente em alguns casos, mas pode levar a problemas de privacidade.</string>
@@ -120,9 +120,9 @@
     <string name="search">Pesquisar</string>
     <string name="search_apps">Pesquisar aplicações</string>
     <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
-    <string name="ambient_display_screen_off_udfps_title">Always on Fingerprint</string>
+    <string name="ambient_display_screen_off_udfps_title">Impressão digital sempre activa</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">Allows unlocking with the screen off.\nEnabling may cause accidental wake-ups.</string>
+    <string name="ambient_display_screen_off_udfps_summary">Permite desbloquear com o ecrã desligado.\nActivar pode causar que o dispositivo acorde acidentalmente.</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
     <string name="duration_less_than_one_minute">Menos de 1 minuto</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
@@ -194,7 +194,7 @@
     <string name="unlock_quick_unlock_control_title">Desbloqueio rápido</string>
     <string name="unlock_quick_unlock_control_summary">Desbloquear automaticamente quando o PIN/Palavra-passe correta é inserida</string>
     <!-- Advanced sound settings -->
-    <string name="sound_settings_advanced_title">Additional settings</string>
+    <string name="sound_settings_advanced_title">Definições adicionais</string>
     <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Alta sensibilidade ao toque</string>
     <string name="high_touch_sensitivity_summary">Aumentar a sensibilidade do ecrã para ser utilizado quando estiver a usar luvas</string>
@@ -258,31 +258,31 @@
     <string name="adj_intensity_title">Intensidade</string>
     <string name="adj_contrast_title">Contraste</string>
     <!-- Battery saver refresh rate -->
-    <string name="battery_saver_refresh_rate_title">Reduce refresh rate</string>
-    <string name="battery_saver_refresh_rate_summary">Use 60 Hz screen refresh rate to save power when Battery Saver is on</string>
+    <string name="battery_saver_refresh_rate_title">Reduzir taxa de atualização</string>
+    <string name="battery_saver_refresh_rate_summary">Usar a taxa de atualização de 60 Hz para economizar energia quando a poupança de bateria estiver ativada</string>
     <!-- Black theme -->
-    <string name="system_black_theme_title">Use Black theme</string>
-    <string name="system_black_theme_summary">Force black background colors</string>
+    <string name="system_black_theme_title">Usar tema preto</string>
+    <string name="system_black_theme_summary">Forçar cores de fundo pretas</string>
     <!-- Doze on double tap -->
     <string name="double_tap_title">Toque duplo</string>
     <string name="doze_double_tap_title">Toque duplo para verificar o telefone</string>
     <string name="doze_double_tap_summary">Toque duplo no ecrã para ver as notificações</string>
     <!-- Display : Rotation -->
-    <string name="display_rotation_title">Rotation settings</string>
-    <string name="display_rotation_enabled">Auto-rotation is enabled</string>
-    <string name="display_rotation_disabled">Auto-rotation is disabled</string>
-    <string name="display_rotation_unit">degrees</string>
-    <string name="display_rotation_category_title">Rotation modes</string>
-    <string name="display_rotation_0_title">0 degrees</string>
-    <string name="display_rotation_90_title">90 degrees</string>
-    <string name="display_rotation_180_title">180 degrees</string>
-    <string name="display_rotation_270_title">270 degrees</string>
+    <string name="display_rotation_title">Definições de rotação</string>
+    <string name="display_rotation_enabled">A rotação automática está ativada</string>
+    <string name="display_rotation_disabled">A rotação automática está desativada</string>
+    <string name="display_rotation_unit">graus</string>
+    <string name="display_rotation_category_title">Modos de rotação</string>
+    <string name="display_rotation_0_title">0 graus</string>
+    <string name="display_rotation_90_title">90 graus</string>
+    <string name="display_rotation_180_title">180 graus</string>
+    <string name="display_rotation_270_title">270 graus</string>
     <!-- Ambient wake toggles -->
-    <string name="doze_gesture_ambient_title">Show Ambient</string>
-    <string name="doze_gesture_ambient_summary">Show Ambient Display instead of fully waking the screen up</string>
-    <string name="gesture_wake_ambient">Show Ambient</string>
-    <string name="gesture_wake">Fully wake</string>
+    <string name="doze_gesture_ambient_title">Mostrar Visualização Ambiente</string>
+    <string name="doze_gesture_ambient_summary">Mostrar Visualização Ambiente em vez de acordar completamente o ecrã</string>
+    <string name="gesture_wake_ambient">Mostrar Visualização Ambiente</string>
+    <string name="gesture_wake">Acordar totalmente</string>
     <!-- Doze enablement -->
-    <string name="doze_enabled_title">Ambient display</string>
-    <string name="doze_enabled_summary">Whether to enable the doze package functionality</string>
+    <string name="doze_enabled_title">Visualização ambiente</string>
+    <string name="doze_enabled_summary">Se são ou não ativadas as funcionalidades dos pacotes Doze</string>
 </resources>
