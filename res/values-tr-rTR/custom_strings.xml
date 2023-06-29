@@ -17,7 +17,7 @@
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Bilgileri göstermek için dokunun</string>
     <!-- Max refresh rate -->
-    <string name="max_refresh_rate_title">En yüksek yenileme hızı</string>
+    <string name="max_refresh_rate_title">Maksimum yenileme hızı</string>
     <!-- Min refresh rate -->
     <string name="min_refresh_rate_title">Minimum yenileme hızı</string>
     <!-- Display settings screen, peak refresh rate settings summary [CHAR LIMIT=NONE] -->
