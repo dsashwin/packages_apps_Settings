@@ -89,7 +89,7 @@
     <string name="network_traffic_summary">Ativar ou desativar o indicador de velocidade de rede na barra de status</string>
     <string name="network_traffic_state_title">Ativar indicador de tráfego de rede</string>
     <string name="network_options_title">Opções</string>
-    <string name="network_traffic_autohide_title">Ocultar o indicador de tráfego de rede quando inativo</string>
+    <string name="network_traffic_autohide_title">Ocultar indicadores automaticamente</string>
     <string name="network_traffic_autohide_summary">Ocultar quando o indicador de tráfego de rede estiver abaixo de 1 KB/s</string>
     <!-- Display customization category -->
     <string name="customization_category_title">Personalização</string>
