@@ -85,12 +85,12 @@
     <string name="show_navbar_gesture_bar_title">Bara de gesturi</string>
     <string name="show_navbar_gesture_bar_summary">Afișare bară de gesturi în partea de jos a ecranului</string>
     <!-- Network traffic -->
-    <string name="network_traffic_title">Network Traffic Indicator</string>
-    <string name="network_traffic_summary">Enable or disable the network speed indicator in the status bar</string>
-    <string name="network_traffic_state_title">Enable Network Traffic Indicator</string>
+    <string name="network_traffic_title">Indicator trafic rețea</string>
+    <string name="network_traffic_summary">Activează sau dezactivează indicatorul de viteză a rețelei în bara de stare</string>
+    <string name="network_traffic_state_title">Activare „indicator de trafic de rețea”</string>
     <string name="network_options_title">Opțiuni</string>
-    <string name="network_traffic_autohide_title">Hide the Network Traffic Indicator when inactive</string>
-    <string name="network_traffic_autohide_summary">Hides the network traffic indicator when below 1 KB/s</string>
+    <string name="network_traffic_autohide_title">Ascunde indicatorul de trafic de rețea inactiv</string>
+    <string name="network_traffic_autohide_summary">Ascunde când indicatorul de trafic în rețea este mai mic de 1 KB/s</string>
     <!-- Display customization category -->
     <string name="customization_category_title">Personalizare</string>
     <!-- QS footer data usage -->
