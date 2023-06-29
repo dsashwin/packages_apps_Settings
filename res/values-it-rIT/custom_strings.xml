@@ -85,9 +85,9 @@
     <string name="show_navbar_gesture_bar_title">Barra dei gesti</string>
     <string name="show_navbar_gesture_bar_summary">Mostra la barra dei gesti nella parte inferiore dello schermo</string>
     <!-- Network traffic -->
-    <string name="network_traffic_title">Network Traffic Indicator</string>
-    <string name="network_traffic_summary">Enable or disable the network speed indicator in the status bar</string>
-    <string name="network_traffic_state_title">Enable Network Traffic Indicator</string>
+    <string name="network_traffic_title">Indicatore del traffico di rete</string>
+    <string name="network_traffic_summary">Abilita o disabilita l\'indicatore della velocità di rete nella barra di stato</string>
+    <string name="network_traffic_state_title">Attiva Indicatore del traffico di rete</string>
     <string name="network_options_title">Opzioni</string>
     <string name="network_traffic_autohide_title">Hide the Network Traffic Indicator when inactive</string>
     <string name="network_traffic_autohide_summary">Hides the network traffic indicator when below 1 KB/s</string>
@@ -194,7 +194,7 @@
     <string name="unlock_quick_unlock_control_title">Sblocco rapido</string>
     <string name="unlock_quick_unlock_control_summary">Sblocca automaticamente quando sono inseriti PIN o password corretti</string>
     <!-- Advanced sound settings -->
-    <string name="sound_settings_advanced_title">Additional settings</string>
+    <string name="sound_settings_advanced_title">Impostazioni aggiuntive</string>
     <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Elevata sensibilità al tocco</string>
     <string name="high_touch_sensitivity_summary">Aumenta la sensibilità del touchscreen per poterlo usare anche con i guanti</string>
@@ -268,21 +268,21 @@
     <string name="doze_double_tap_title">Doppio tocco per controllare il telefono</string>
     <string name="doze_double_tap_summary">Mostra le notifiche con un doppio tocco</string>
     <!-- Display : Rotation -->
-    <string name="display_rotation_title">Rotation settings</string>
+    <string name="display_rotation_title">Impostazioni di rotazione</string>
     <string name="display_rotation_enabled">Auto-rotation is enabled</string>
-    <string name="display_rotation_disabled">Auto-rotation is disabled</string>
-    <string name="display_rotation_unit">degrees</string>
-    <string name="display_rotation_category_title">Rotation modes</string>
-    <string name="display_rotation_0_title">0 degrees</string>
-    <string name="display_rotation_90_title">90 degrees</string>
-    <string name="display_rotation_180_title">180 degrees</string>
-    <string name="display_rotation_270_title">270 degrees</string>
+    <string name="display_rotation_disabled">La rotazione automatica è disattivata</string>
+    <string name="display_rotation_unit">gradi</string>
+    <string name="display_rotation_category_title">Modalità rotazione schermo</string>
+    <string name="display_rotation_0_title">0 gradi</string>
+    <string name="display_rotation_90_title">90 gradi</string>
+    <string name="display_rotation_180_title">180 gradi</string>
+    <string name="display_rotation_270_title">270 gradi</string>
     <!-- Ambient wake toggles -->
     <string name="doze_gesture_ambient_title">Show Ambient</string>
     <string name="doze_gesture_ambient_summary">Show Ambient Display instead of fully waking the screen up</string>
     <string name="gesture_wake_ambient">Show Ambient</string>
     <string name="gesture_wake">Fully wake</string>
     <!-- Doze enablement -->
-    <string name="doze_enabled_title">Ambient display</string>
+    <string name="doze_enabled_title">Ambient Display</string>
     <string name="doze_enabled_summary">Whether to enable the doze package functionality</string>
 </resources>
