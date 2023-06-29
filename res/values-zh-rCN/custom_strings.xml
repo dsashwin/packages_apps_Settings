@@ -85,12 +85,12 @@
     <string name="show_navbar_gesture_bar_title">导航栏</string>
     <string name="show_navbar_gesture_bar_summary">在屏幕底部显示导航栏</string>
     <!-- Network traffic -->
-    <string name="network_traffic_title">Network Traffic Indicator</string>
-    <string name="network_traffic_summary">Enable or disable the network speed indicator in the status bar</string>
-    <string name="network_traffic_state_title">Enable Network Traffic Indicator</string>
+    <string name="network_traffic_title">网络流量监视器</string>
+    <string name="network_traffic_summary">在状态栏中启用或禁用网络流量监视器</string>
+    <string name="network_traffic_state_title">启动网络流量监视器</string>
     <string name="network_options_title">选项</string>
-    <string name="network_traffic_autohide_title">Hide the Network Traffic Indicator when inactive</string>
-    <string name="network_traffic_autohide_summary">Hides the network traffic indicator when below 1 KB/s</string>
+    <string name="network_traffic_autohide_title">当网络处于非活动状态时隐藏网络流量监视器</string>
+    <string name="network_traffic_autohide_summary">当网络流量小于 1 KB/s 时隐藏网络流量监视器</string>
     <!-- Display customization category -->
     <string name="customization_category_title">个性化</string>
     <!-- QS footer data usage -->
