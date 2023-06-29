@@ -103,8 +103,8 @@
     <string name="proximity_wake_title">Förhindra oavsiktlig väckning</string>
     <string name="proximity_wake_summary">Kontrollera närhetssensorn innan skärmen tänds av aktiveringsgesten dubbeltryck för att vakna</string>
     <!-- Show clipboard overlay -->
-    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
-    <string name="show_clipboard_overlay_summary">Show an overlay in the left bottom corner of the screen when something is copied to the clipboard</string>
+    <string name="show_clipboard_overlay_title">Visa flytande fönster för urklipp</string>
+    <string name="show_clipboard_overlay_summary">Visa ett flytande fönster i det nedre vänstra hörnet av skärmen när något kopieras till urklipp</string>
     <!-- Volume rocker music control -->
     <string name="volume_button_music_control_title">Uppspelningskontroll</string>
     <string name="volume_button_music_control_summary">När skärmen är avstängd kommer långtryck på volymknapparna att byta musikspår</string>
@@ -278,11 +278,11 @@
     <string name="display_rotation_180_title">180 grader</string>
     <string name="display_rotation_270_title">270 grader</string>
     <!-- Ambient wake toggles -->
-    <string name="doze_gesture_ambient_title">Show Ambient</string>
-    <string name="doze_gesture_ambient_summary">Show Ambient Display instead of fully waking the screen up</string>
-    <string name="gesture_wake_ambient">Show Ambient</string>
-    <string name="gesture_wake">Fully wake</string>
+    <string name="doze_gesture_ambient_title">Visa aktiv låsskärm</string>
+    <string name="doze_gesture_ambient_summary">Visa aktiv låsskärm istället för att väcka skärmen helt</string>
+    <string name="gesture_wake_ambient">Visa aktiv låsskärm</string>
+    <string name="gesture_wake">Fullt uppvaknande</string>
     <!-- Doze enablement -->
-    <string name="doze_enabled_title">Ambient display</string>
-    <string name="doze_enabled_summary">Whether to enable the doze package functionality</string>
+    <string name="doze_enabled_title">Aktiv låsskärm</string>
+    <string name="doze_enabled_summary">Om du vill aktivera doze-paketets funktionalitet</string>
 </resources>
