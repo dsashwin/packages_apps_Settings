@@ -90,21 +90,21 @@
     <string name="network_traffic_state_title">Hidupkan Penunjuk Lalu Lintas Rangkaian</string>
     <string name="network_options_title">Pilihan</string>
     <string name="network_traffic_autohide_title">Sembunyikan Penunjuk Lalu Lintas Rangkaian apabila tidak aktif</string>
-    <string name="network_traffic_autohide_summary">Hides the network traffic indicator when below 1 KB/s</string>
+    <string name="network_traffic_autohide_summary">Sembunyikan penunjuk lalu lintas rangkaian apabila bawah 1 KB/s</string>
     <!-- Display customization category -->
-    <string name="customization_category_title">Customization</string>
+    <string name="customization_category_title">Penyesuaian</string>
     <!-- QS footer data usage -->
-    <string name="qs_show_data_usage_title">Show data usage</string>
-    <string name="qs_show_data_usage_summary">Show daily cellular/Wi-Fi data usage in QS footer</string>
+    <string name="qs_show_data_usage_title">Paparkan penggunaan data</string>
+    <string name="qs_show_data_usage_summary">Paparkan penggunaan data selular/Wi-Fi di pengaki Tetapan Pantas</string>
     <!-- Status bar Icon Manager -->
-    <string name="icon_manager_title">Status bar items</string>
-    <string name="icon_manager_summary">Control visibility of status bar icons</string>
+    <string name="icon_manager_title">Item bar status</string>
+    <string name="icon_manager_summary">Kawal keterlihatan ikon bar status</string>
     <!-- Proximity wake / Pocket mode -->
-    <string name="proximity_wake_title">Prevent accidental wake-up</string>
-    <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen from the double tap to wake gesture</string>
+    <string name="proximity_wake_title">Mencegah layar menyala secara tidak sengaja</string>
+    <string name="proximity_wake_summary">Periksa penderia jarak sebelum menyalakan layar daripada isyarat ketuk dua kali untuk menyalakan layar</string>
     <!-- Show clipboard overlay -->
-    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
-    <string name="show_clipboard_overlay_summary">Show an overlay in the left bottom corner of the screen when something is copied to the clipboard</string>
+    <string name="show_clipboard_overlay_title">Paparkan tindanan papan klip</string>
+    <string name="show_clipboard_overlay_summary">Paparkan tindanan di bucu kiri bawah layar apabila sesuatu disalin pada papan klip</string>
     <!-- Volume rocker music control -->
     <string name="volume_button_music_control_title">Playback control</string>
     <string name="volume_button_music_control_summary">When the screen is off, long-pressing the volume keys will skip music tracks</string>
