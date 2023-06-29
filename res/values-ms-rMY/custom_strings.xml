@@ -15,42 +15,42 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- String for removal of sensitive info on about, depending on tap -->
-    <string name="device_info_protected_single_press">Tap to show info</string>
+    <string name="device_info_protected_single_press">Ketuk untuk memaparkan maklumat</string>
     <!-- Max refresh rate -->
-    <string name="max_refresh_rate_title">Peak refresh rate</string>
+    <string name="max_refresh_rate_title">Kadar segar semula puncak</string>
     <!-- Min refresh rate -->
-    <string name="min_refresh_rate_title">Minimum refresh rate</string>
+    <string name="min_refresh_rate_title">Kadar segar semula minimum</string>
     <!-- Display settings screen, peak refresh rate settings summary [CHAR LIMIT=NONE] -->
-    <string name="peak_refresh_rate_summary_custom">Automatically raises the refresh rate from 60 to %1$d Hz for some content. Increases battery usage.</string>
+    <string name="peak_refresh_rate_summary_custom">Meningkatkan kadar segar semula daripada 60 kepada %1$d Hz untuk sesetengah kandungan secara automatik. Meningkatkan penggunaan bateri.</string>
     <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
-    <string name="category_name_refresh_rate_controls">Refresh Rate</string>
+    <string name="category_name_refresh_rate_controls">Kadar Segar Semula</string>
     <!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
-    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Locate the fingerprint sensor on the front of your tablet.</string>
-    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Locate the fingerprint sensor on the front of your device.</string>
-    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Locate the fingerprint sensor on the front of your phone.</string>
-    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Locate the fingerprint sensor on the back of your tablet.</string>
-    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Locate the fingerprint sensor on the back of your device.</string>
-    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Locate the fingerprint sensor on the back of your phone.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Locate the fingerprint sensor on the side of your tablet.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Locate the fingerprint sensor on the side of your device.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Locate the fingerprint sensor on the side of your phone.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Cari pengimbas cap jari di hadapan tablet anda.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Cari pengimbas cap jari di hadapan peranti anda.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Cari pengimbas cap jari di hadapan telefon anda.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Cari pengimbas cap jari di belakang tablet anda.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Cari pengimbas cap jari di belakang peranti anda.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Cari pengimbas cap jari di belakang telefon anda.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Cari pengimbas cap jari di sisi tablet anda.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Cari pengimbas cap jari di sisi peranti anda.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Cari pengimbas cap jari di sisi telefon anda.</string>
     <!-- Message shown when user touches the icon on the screen, instead of the real fingerprint sensor -->
-    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Touch the sensor on the front of your tablet.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Touch the sensor on the front of your device.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Touch the sensor on the front of your phone.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Touch the sensor on the back of your tablet.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Touch the sensor on the back of your device.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Touch the sensor on the back of your phone.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Touch the sensor on the side of your tablet.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Touch the sensor on the side of your device.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Touch the sensor on the side of your phone.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Sentuh pengimbas di hadapan tablet anda.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Sentuh pengimbas di hadapan peranti anda.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Sentuh pengimbas di hadapan telefon anda.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Sentuh pengimbas di belakang tablet anda.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Sentuh pengimbas di belakang peranti anda.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Sentuh pengimbas di belakang telefon anda.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Sentuh pengimbas di sisi tablet anda.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Sentuh pengimbas di sisi peranti anda.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Sentuh pengimbas di sisi telefon anda.</string>
     <!-- Three-fingers-swipe to screenshot -->
-    <string name="three_finger_gesture">Swipe to screenshot</string>
-    <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
+    <string name="three_finger_gesture">Leret untuk tangkapan layar</string>
+    <string name="three_finger_gesture_summary">Leret ke bawah dengan tiga jari untuk tangkapan layar</string>
     <!-- Radio Info -->
-    <string name="radio_info_title">Radio info</string>
+    <string name="radio_info_title">Info radio</string>
     <!-- Left volume panel -->
-    <string name="volume_panel_on_left_title">Show volume panel on left</string>
+    <string name="volume_panel_on_left_title">Paparkan panel suara di kiri</string>
     <string name="volume_panel_on_left_summary">Move volume panel to the left side of the screen</string>
     <!-- DT2S on statusbar-->
     <string name="double_tap_sleep_gesture_title">Tap to sleep</string>
