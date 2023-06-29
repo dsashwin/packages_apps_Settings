@@ -50,8 +50,8 @@
     <!-- Radio Info -->
     <string name="radio_info_title">Info radio</string>
     <!-- Left volume panel -->
-    <string name="volume_panel_on_left_title">Paparkan panel suara di kiri</string>
-    <string name="volume_panel_on_left_summary">Gerakkan panel suara ke sisi kiri layar</string>
+    <string name="volume_panel_on_left_title">Paparkan panel kelantangan suara di kiri</string>
+    <string name="volume_panel_on_left_summary">Gerakkan panel kelantangan suara ke sisi kiri layar</string>
     <!-- DT2S on statusbar-->
     <string name="double_tap_sleep_gesture_title">Ketuk untuk tidur</string>
     <string name="double_tap_sleep_gesture_summary">Ketuk dua kali di mana-mana pada bar status untuk menidurkan peranti</string>
@@ -67,7 +67,7 @@
     <string name="notification_sound_vib_screen_on_title">Notifikasi Menjengkelkan</string>
     <string name="notification_sound_vib_screen_on_summary">Mainkan bunyi dan getaran untuk pemberitahuan apabila skrin dihidupkan</string>
     <!-- Global Actions -->
-    <string name="global_actions_advanced_reboot_title">Hidupkan mula semula lanjutan</string>
+    <string name="global_actions_advanced_reboot_title">Membolehkan mula semula lanjutan</string>
     <string name="global_actions_advanced_reboot_summary">Paparkan pilihan untuk mod pemulihan dan bootloader dalam menu kuasa</string>
     <!-- Hotspot VPN -->
     <string name="tethering_allow_vpn_upstreams_title">Benarkan pelanggan menggunakan VPN</string>
@@ -86,8 +86,8 @@
     <string name="show_navbar_gesture_bar_summary">Paparkan bar isyarat pada bahagian bawah layar</string>
     <!-- Network traffic -->
     <string name="network_traffic_title">Penunjuk lalu lintas rangkaian</string>
-    <string name="network_traffic_summary">Hidupkan atau matikan penunjuk kelajuan rangkaian pada bar status</string>
-    <string name="network_traffic_state_title">Hidupkan Penunjuk Lalu Lintas Rangkaian</string>
+    <string name="network_traffic_summary">Bolehkan atau nyahbolehkan penunjuk kelajuan rangkaian pada bar status</string>
+    <string name="network_traffic_state_title">Bolehkan Penunjuk Lalu Lintas Rangkaian</string>
     <string name="network_options_title">Pilihan</string>
     <string name="network_traffic_autohide_title">Sembunyikan Penunjuk Lalu Lintas Rangkaian apabila tidak aktif</string>
     <string name="network_traffic_autohide_summary">Sembunyikan penunjuk lalu lintas rangkaian apabila bawah 1 KB/s</string>
@@ -107,7 +107,7 @@
     <string name="show_clipboard_overlay_summary">Paparkan tindanan di bucu kiri bawah layar apabila sesuatu disalin pada papan keratan</string>
     <!-- Volume rocker music control -->
     <string name="volume_button_music_control_title">Kawalan main balik</string>
-    <string name="volume_button_music_control_summary">Apabila layar dimatikan, tekan lama kekunci suara akan melangkau runut musik</string>
+    <string name="volume_button_music_control_summary">Apabila layar dimatikan, tekan lama kekunci kelantangan suara akan melangkau runut musik</string>
     <!-- Backup Transport selection settings menu and activity title -->
     <string name="backup_transport_setting_label">Ubah penyedia sandaran</string>
     <string name="backup_transport_title">Pilih penyedia sandaran</string>
