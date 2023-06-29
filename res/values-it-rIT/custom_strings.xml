@@ -269,7 +269,7 @@
     <string name="doze_double_tap_summary">Mostra le notifiche con un doppio tocco</string>
     <!-- Display : Rotation -->
     <string name="display_rotation_title">Impostazioni di rotazione</string>
-    <string name="display_rotation_enabled">Auto-rotation is enabled</string>
+    <string name="display_rotation_enabled">La rotazione automatica è attivata</string>
     <string name="display_rotation_disabled">La rotazione automatica è disattivata</string>
     <string name="display_rotation_unit">gradi</string>
     <string name="display_rotation_category_title">Modalità rotazione schermo</string>
@@ -278,11 +278,11 @@
     <string name="display_rotation_180_title">180 gradi</string>
     <string name="display_rotation_270_title">270 gradi</string>
     <!-- Ambient wake toggles -->
-    <string name="doze_gesture_ambient_title">Show Ambient</string>
-    <string name="doze_gesture_ambient_summary">Show Ambient Display instead of fully waking the screen up</string>
-    <string name="gesture_wake_ambient">Show Ambient</string>
-    <string name="gesture_wake">Fully wake</string>
+    <string name="doze_gesture_ambient_title">Mostra l\'Ambient Display</string>
+    <string name="doze_gesture_ambient_summary">Mostra l\'Ambient Display invece di attivare completamente lo schermo</string>
+    <string name="gesture_wake_ambient">Mostra l\'Ambient Display</string>
+    <string name="gesture_wake">Risveglia completamente</string>
     <!-- Doze enablement -->
     <string name="doze_enabled_title">Ambient Display</string>
-    <string name="doze_enabled_summary">Whether to enable the doze package functionality</string>
+    <string name="doze_enabled_summary">Indica se abilitare le funzionalità del pacchetto doze</string>
 </resources>
