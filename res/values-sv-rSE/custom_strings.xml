@@ -64,7 +64,7 @@
     <string name="incall_vibrate_call_wait_title">Vibrera vid samtal väntar</string>
     <string name="incall_vibrate_disconnect_title">Vibrera vid frånkoppling</string>
     <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">Annoying Notifications</string>
+    <string name="notification_sound_vib_screen_on_title">Irriterande notifikationer</string>
     <string name="notification_sound_vib_screen_on_summary">Spela upp ljud och vibration för aviseringar när skärmen är på</string>
     <!-- Global Actions -->
     <string name="global_actions_advanced_reboot_title">Aktivera avancerad omstart</string>
@@ -80,17 +80,17 @@
     <string name="power_button_torch_summary">När skärmen är avstängd, långtryck på strömknappen kommer aktivera ficklampan</string>
     <!-- Low battery light -->
     <string name="low_battery_light_title">Låg batterilampa</string>
-    <string name="low_battery_light_summary">Blink LED when battery is low</string>
+    <string name="low_battery_light_summary">Blinka LED vid lågt batteri</string>
     <!-- Navigation bar hint -->
-    <string name="show_navbar_gesture_bar_title">Gesture bar</string>
-    <string name="show_navbar_gesture_bar_summary">Show gesture bar at the bottom of the screen</string>
+    <string name="show_navbar_gesture_bar_title">Fällt för gester</string>
+    <string name="show_navbar_gesture_bar_summary">Visa fält för gester längst ned på skärmen</string>
     <!-- Network traffic -->
-    <string name="network_traffic_title">Network Traffic Indicator</string>
-    <string name="network_traffic_summary">Enable or disable the network speed indicator in the status bar</string>
-    <string name="network_traffic_state_title">Enable Network Traffic Indicator</string>
+    <string name="network_traffic_title">Nätverkstrafikindikator</string>
+    <string name="network_traffic_summary">Aktivera eller inaktivera indikatorn för nätverkshastighet i statusfältet</string>
+    <string name="network_traffic_state_title">Aktivera nätverkstrafikindikator</string>
     <string name="network_options_title">Alternativ</string>
-    <string name="network_traffic_autohide_title">Hide the Network Traffic Indicator when inactive</string>
-    <string name="network_traffic_autohide_summary">Hides the network traffic indicator when below 1 KB/s</string>
+    <string name="network_traffic_autohide_title">Dölj indikatorn för nätverkstrafik när det inte finns någon aktivitet</string>
+    <string name="network_traffic_autohide_summary">Dölj indikatorn för nätverkstrafik vid under 1 KB/s</string>
     <!-- Display customization category -->
     <string name="customization_category_title">Anpassning</string>
     <!-- QS footer data usage -->
@@ -112,7 +112,7 @@
     <string name="backup_transport_setting_label">Ändra säkerhetskopieringsleverantör</string>
     <string name="backup_transport_title">Välj säkerhetskopieringsleverantör</string>
     <!-- Ignore window secure -->
-    <string name="ignore_window_secure_title">Ignore window secure flags</string>
+    <string name="ignore_window_secure_title">Ignorera säkra fönster flaggor</string>
     <string name="ignore_window_secure_summary">Ta bort skärmdump och skärminspelningsgränser för alla appar. Detta kan vara praktiskt i vissa fall men kan leda till sekretessläckor.</string>
     <!-- Notch: Full screen apps -->
     <string name="display_cutout_force_fullscreen_title">Helskärmsappar</string>
@@ -199,7 +199,7 @@
     <string name="high_touch_sensitivity_title">Hög tryckkänslighet</string>
     <string name="high_touch_sensitivity_summary">Öka skärmens tryckkänslighet så att den kan användas med handskar</string>
     <!-- Touchscreen hovering -->
-    <string name="touchscreen_hovering_title">Touchscreen hovering</string>
+    <string name="touchscreen_hovering_title">Tryckskärm-hovring</string>
     <string name="touchscreen_hovering_summary">Låter dig hovra över skärmen som en mus i webbläsare, fjärrskrivbord, etc</string>
     <!-- High touch polling rate -->
     <string name="high_touch_polling_rate_title">Hög skärm responstid</string>
@@ -230,7 +230,7 @@
     <string name="live_display_color_profile_cinema_title">Bio</string>
     <string name="live_display_color_profile_cinema_summary">Perfekt färgåtergivning för video</string>
     <string name="live_display_color_profile_astronomy_title">Astronomi</string>
-    <string name="live_display_color_profile_astronomy_summary">Deep red for preserving night vision</string>
+    <string name="live_display_color_profile_astronomy_summary">Djupröd för att bevara mörkerseendet</string>
     <string name="live_display_color_profile_photography_title">Fotografi</string>
     <string name="live_display_color_profile_photography_summary">Perfekt färgåtergivning för foton</string>
     <string name="live_display_color_profile_basic_title">Grundläggande</string>
