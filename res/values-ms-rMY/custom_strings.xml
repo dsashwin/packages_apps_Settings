@@ -101,10 +101,10 @@
     <string name="icon_manager_summary">Kawal keterlihatan ikon bar status</string>
     <!-- Proximity wake / Pocket mode -->
     <string name="proximity_wake_title">Mencegah layar menyala secara tidak sengaja</string>
-    <string name="proximity_wake_summary">Periksa penderia jarak sebelum menyalakan layar daripada isyarat ketuk dua kali untuk menyalakan layar</string>
+    <string name="proximity_wake_summary">Periksa penderia jarak sebelum menyalakan layar daripada isyarat ketuk dua kali untuk menyala</string>
     <!-- Show clipboard overlay -->
-    <string name="show_clipboard_overlay_title">Paparkan tindanan papan klip</string>
-    <string name="show_clipboard_overlay_summary">Paparkan tindanan di bucu kiri bawah layar apabila sesuatu disalin pada papan klip</string>
+    <string name="show_clipboard_overlay_title">Paparkan tindanan papan keratan</string>
+    <string name="show_clipboard_overlay_summary">Paparkan tindanan di bucu kiri bawah layar apabila sesuatu disalin pada papan keratan</string>
     <!-- Volume rocker music control -->
     <string name="volume_button_music_control_title">Kawalan main balik</string>
     <string name="volume_button_music_control_summary">Apabila layar dimatikan, tekan lama kekunci suara akan melangkau runut musik</string>
@@ -122,7 +122,7 @@
     <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
     <string name="ambient_display_screen_off_udfps_title">Cap jari sentiasa aktif</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">Benarkan membuka kunci dengan layar mati.\nMenghidupkan ini akan menyebabkan layar menyala secara tidak sengaja.</string>
+    <string name="ambient_display_screen_off_udfps_summary">Benarkan membuka kunci dengan layar mati.\nMenghidupkan ini boleh menyebabkan layar menyala secara tidak sengaja.</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
     <string name="duration_less_than_one_minute">Kurang daripada 1 minit</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
@@ -164,64 +164,64 @@
     <string name="adaptive_playback_timeout_10_min_summary">Hidup (10 minit)</string>
     <!-- Scramble pin -->
     <string name="unlock_scramble_pin_layout_title">Campur aduk susun atur</string>
-    <string name="unlock_scramble_pin_layout_summary">Scramble PIN layout when unlocking device</string>
+    <string name="unlock_scramble_pin_layout_summary">Campuraduk susunan PIN semasa menyahkunci peranti</string>
     <!-- One shot automatic brightness -->
-    <string name="auto_brightness_one_shot_title">One shot auto-brightness</string>
-    <string name="auto_brightness_one_shot_summary">Brightness adjustment will only occur at the moment the screen is turned on</string>
+    <string name="auto_brightness_one_shot_title">Kecerahan automatik satu tangkapan</string>
+    <string name="auto_brightness_one_shot_summary">Pelarasan kecerahan akan berlaku apabila skrin dihidupkan</string>
     <!-- Hotspot -->
-    <string name="wifi_hotspot_hidden_ssid_title">Hidden network</string>
-    <string name="wifi_hotspot_hidden_ssid_summary">Your mobile hotspot\'s name won\'t appear in the list of available WLAN networks.</string>
-    <string name="wifi_hotspot_auto_off_timeout_never">Never turn off hotspot</string>
-    <string name="wifi_hotspot_client_manager_title">Connected devices</string>
-    <string name="wifi_hotspot_client_manager_summary">List and manage devices connected to the hotspot</string>
-    <string name="wifi_hotspot_client_manager_list_only_summary">List devices connected to the hotspot</string>
-    <string name="wifi_hotspot_client_limit_title">Limit of connected devices</string>
-    <string name="wifi_hotspot_blocked_clients_list_title">Blocked Devices</string>
-    <string name="wifi_hotspot_connected_clients_list_title">Connected Devices</string>
-    <string name="wifi_hotspot_block_client_dialog_title">Block device</string>
-    <string name="wifi_hotspot_block_client_dialog_text">This action will disconnect \"<xliff:g id="device_name">%1$s</xliff:g>\" from this device and add it to blocklist</string>
-    <string name="wifi_hotspot_unblock_client_dialog_title">Unblock device</string>
-    <string name="wifi_hotspot_unblock_client_dialog_text">The device \"<xliff:g id="device_name">%1$s</xliff:g>\" will be able to connect to this hotspot</string>
-    <string name="wifi_hotspot_client_manager_footer_text">No clients are currently available. Connected and blocked devices will be listed here when available.</string>
-    <string name="wifi_hotspot_timeout_summary_never">Never</string>
-    <string name="wifi_hotspot_timeout_summary_30secs">30 seconds</string>
-    <string name="wifi_hotspot_timeout_summary_1min">1 minute</string>
-    <string name="wifi_hotspot_timeout_summary_5mins">5 minutes</string>
-    <string name="wifi_hotspot_timeout_summary_10mins">10 minutes</string>
-    <string name="wifi_hotspot_timeout_summary_30mins">30 minutes</string>
-    <string name="wifi_hotspot_timeout_summary_1hour">1 hour</string>
+    <string name="wifi_hotspot_hidden_ssid_title">Rangkaian tersembunyi</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">Nama hotspot anda tidak akan kelihatan dalam senarai rangkaian WLAN yang tersedia.</string>
+    <string name="wifi_hotspot_auto_off_timeout_never">Hotspot tidak akan dimatikan</string>
+    <string name="wifi_hotspot_client_manager_title">Peranti yang tersambung</string>
+    <string name="wifi_hotspot_client_manager_summary">Menyenarai dan mengatur peranti yang disambungkan dengan hotspot</string>
+    <string name="wifi_hotspot_client_manager_list_only_summary">Senarai dan atur peranti yang bersambung dengan hotspot</string>
+    <string name="wifi_hotspot_client_limit_title">Had peranti yang bersambung</string>
+    <string name="wifi_hotspot_blocked_clients_list_title">Peranti yang disekat</string>
+    <string name="wifi_hotspot_connected_clients_list_title">Peranti yang Bersambung</string>
+    <string name="wifi_hotspot_block_client_dialog_title">Peranti yang disekat</string>
+    <string name="wifi_hotspot_block_client_dialog_text">Tindakan ini akan memutuskan \"<xliff:g id="device_name">%1$s</xliff:g>\" dari peranti ini dan menambahkannya ke senarai sekatan</string>
+    <string name="wifi_hotspot_unblock_client_dialog_title">Menyahsekat peranti</string>
+    <string name="wifi_hotspot_unblock_client_dialog_text">Peranti \"<xliff:g id="device_name">%1$s</xliff:g>\" akan boleh bersambung dengan hotspot ini</string>
+    <string name="wifi_hotspot_client_manager_footer_text">Tiada pelanggan yang tersedia pada masa ini. Peranti yang disambung dan dihalang akan disenaraikan di sini apabila tersedia.</string>
+    <string name="wifi_hotspot_timeout_summary_never">Tidak akan</string>
+    <string name="wifi_hotspot_timeout_summary_30secs">30 saat</string>
+    <string name="wifi_hotspot_timeout_summary_1min">1 minit</string>
+    <string name="wifi_hotspot_timeout_summary_5mins">5 minit</string>
+    <string name="wifi_hotspot_timeout_summary_10mins">10 minit</string>
+    <string name="wifi_hotspot_timeout_summary_30mins">30 minit</string>
+    <string name="wifi_hotspot_timeout_summary_1hour">1 Jam</string>
     <!-- Quick unlock -->
-    <string name="unlock_quick_unlock_control_title">Quick unlock</string>
-    <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
+    <string name="unlock_quick_unlock_control_title">Nyahkunci pantas</string>
+    <string name="unlock_quick_unlock_control_summary">Nyahkunci secara automatik apabila PIN/kata laluan yang betul dimasukkan</string>
     <!-- Advanced sound settings -->
-    <string name="sound_settings_advanced_title">Additional settings</string>
+    <string name="sound_settings_advanced_title">Tetapan tambahan</string>
     <!-- High touch sensitivity -->
-    <string name="high_touch_sensitivity_title">High touch sensitivity</string>
-    <string name="high_touch_sensitivity_summary">Increase touchscreen sensitivity so it can be used while wearing gloves</string>
+    <string name="high_touch_sensitivity_title">Kepekaan sentuhan tinggi</string>
+    <string name="high_touch_sensitivity_summary">Meningkatkan kepekaan layar sentuh maka layar boleh digunakan ketika memakai sarung tangan</string>
     <!-- Touchscreen hovering -->
-    <string name="touchscreen_hovering_title">Touchscreen hovering</string>
-    <string name="touchscreen_hovering_summary">Allows you to hover the screen like a mouse in web browsers, remote desktops, etc</string>
+    <string name="touchscreen_hovering_title">Layar sentuh berlegar</string>
+    <string name="touchscreen_hovering_summary">Membenarkan anda untuk melegarkan layar seperti tetikus dalam pelayar web, kawalan desktop, dll</string>
     <!-- High touch polling rate -->
-    <string name="high_touch_polling_rate_title">High touch polling rate</string>
-    <string name="high_touch_polling_rate_summary">Increase touchscreen polling rate</string>
+    <string name="high_touch_polling_rate_title">Kadar pengundian sentuhan tinggi</string>
+    <string name="high_touch_polling_rate_summary">Tingkatkan kadar pengundian layar sentuh</string>
     <!-- LiveDisplay -->
-    <string name="live_display_summary">Optimize your screen based on time of day and ambient conditions to improve readability and reduce eyestrain</string>
-    <string name="live_display_mode">Display mode</string>
-    <string name="live_display_color_temperature_title">Color temperature</string>
-    <string name="live_display_color_temperature_summary">Day: <xliff:g id="day_temperature">%1$d</xliff:g>K  Night: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
-    <string name="live_display_color_temperature_label"><xliff:g id="degrees">%1$d</xliff:g>K</string>
-    <string name="live_display_day">Day</string>
-    <string name="live_display_night">Night</string>
-    <string name="live_display_outdoor_mode_title">Automatic outdoor mode</string>
-    <string name="live_display_outdoor_mode_summary">Increase brightness and saturation automatically under bright sunlight</string>
-    <string name="live_display_anti_flicker_title">Anti flicker</string>
-    <string name="live_display_anti_flicker_summary">Prevent extensive flickering and reduce eye strain in low light conditions. It might degrade color accuracy and affect the way some items are displayed.</string>
-    <string name="live_display_low_power_title">Reduce power consumption</string>
-    <string name="live_display_low_power_summary">Adjust display for lowest power consumption without degradation</string>
-    <string name="live_display_enhance_color_title">Enhance colors</string>
-    <string name="live_display_enhance_color_summary">Improve color vibrance of flesh tones, scenery, and other images</string>
-    <string name="live_display_color_profile_title">Color profile</string>
-    <string name="live_display_color_profile_standard_title">Standard</string>
+    <string name="live_display_summary">Optimumkan layar anda berdasarkan waktu dan keadaan sekitar bagi meningkatkan kebolehbacaan dan mengurangkan ketegangan mata</string>
+    <string name="live_display_mode">Mod paparan</string>
+    <string name="live_display_color_temperature_title">Suhu warna</string>
+    <string name="live_display_color_temperature_summary">Siang: <xliff:g id="day_temperature">%1$d</xliff:g>K Malam: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
+    <string name="live_display_color_temperature_label"><xliff:g id="darjah">%1$d</xliff:g>K</string>
+    <string name="live_display_day">Siang</string>
+    <string name="live_display_night">Malam</string>
+    <string name="live_display_outdoor_mode_title">Mod ruangan luar automatik</string>
+    <string name="live_display_outdoor_mode_summary">Tingkatkan kecerahan dan kepekatan secara automatik ketika di bawah cahaya matahari cerah</string>
+    <string name="live_display_anti_flicker_title">Anti kelipan</string>
+    <string name="live_display_anti_flicker_summary">Mencegah kerlipan yang meluas dan mengurangkan ketegangan mata dalam keadaan cahaya rendah. Ini mungkin menurunkan ketepatan warna dan mempengaruhi cara beberapa item dipaparkan.</string>
+    <string name="live_display_low_power_title">Kurangkan penggunaan kuasa</string>
+    <string name="live_display_low_power_summary">Laraskan paparan untuk pengunaan kuasa yang terendah tanpa kemerosotan</string>
+    <string name="live_display_enhance_color_title">Tingkatkan warna</string>
+    <string name="live_display_enhance_color_summary">Tingkatkan keterangan warna tona badan, pemandangan, dan lain-lain gambar</string>
+    <string name="live_display_color_profile_title">Profil warna</string>
+    <string name="live_display_color_profile_standard_title">Piawai</string>
     <string name="live_display_color_profile_standard_summary">Warna yang tepat dan putih yang cerah</string>
     <string name="live_display_color_profile_natural_title">Semula jadi</string>
     <string name="live_display_color_profile_natural_summary">Warna dan tona badan yang realistik</string>
@@ -262,27 +262,27 @@
     <string name="battery_saver_refresh_rate_summary">Gunakan 60Hz kadar segar semula layar untuk menjimatkan tenaga apabila Battery Saver dihidupkan</string>
     <!-- Black theme -->
     <string name="system_black_theme_title">Guna tema hitam</string>
-    <string name="system_black_theme_summary">Force black background colors</string>
+    <string name="system_black_theme_summary">Paksa warna latar belakang hitam</string>
     <!-- Doze on double tap -->
-    <string name="double_tap_title">Double tap</string>
-    <string name="doze_double_tap_title">Double tap to check phone</string>
-    <string name="doze_double_tap_summary">Pulse notifications by a double tap</string>
+    <string name="double_tap_title">Ketuk dua kali</string>
+    <string name="doze_double_tap_title">Ketuk dua kali untuk memeriksa telefon</string>
+    <string name="doze_double_tap_summary">Denyut pemberitahuan dengan ketuk dua kali</string>
     <!-- Display : Rotation -->
-    <string name="display_rotation_title">Rotation settings</string>
-    <string name="display_rotation_enabled">Auto-rotation is enabled</string>
-    <string name="display_rotation_disabled">Auto-rotation is disabled</string>
-    <string name="display_rotation_unit">degrees</string>
-    <string name="display_rotation_category_title">Rotation modes</string>
-    <string name="display_rotation_0_title">0 degrees</string>
-    <string name="display_rotation_90_title">90 degrees</string>
-    <string name="display_rotation_180_title">180 degrees</string>
-    <string name="display_rotation_270_title">270 degrees</string>
+    <string name="display_rotation_title">Tetapan putaran</string>
+    <string name="display_rotation_enabled">Putaran automatik dibolehkan</string>
+    <string name="display_rotation_disabled">Putaran automatik dinyahbolehkan</string>
+    <string name="display_rotation_unit">darjah</string>
+    <string name="display_rotation_category_title">Mod putaran</string>
+    <string name="display_rotation_0_title">0 darjah</string>
+    <string name="display_rotation_90_title">90 darjah</string>
+    <string name="display_rotation_180_title">180 darjah</string>
+    <string name="display_rotation_270_title">270 darjah</string>
     <!-- Ambient wake toggles -->
-    <string name="doze_gesture_ambient_title">Show Ambient</string>
-    <string name="doze_gesture_ambient_summary">Show Ambient Display instead of fully waking the screen up</string>
-    <string name="gesture_wake_ambient">Show Ambient</string>
-    <string name="gesture_wake">Fully wake</string>
+    <string name="doze_gesture_ambient_title">Paparkan ambien</string>
+    <string name="doze_gesture_ambient_summary">Paparkan Paparan Ambien berbanding menyalakan layar sepenuhnya</string>
+    <string name="gesture_wake_ambient">Paparkan ambien</string>
+    <string name="gesture_wake">Menyala sepenuhnya</string>
     <!-- Doze enablement -->
-    <string name="doze_enabled_title">Ambient display</string>
-    <string name="doze_enabled_summary">Whether to enable the doze package functionality</string>
+    <string name="doze_enabled_title">Paparan ambien</string>
+    <string name="doze_enabled_summary">Sama ada untuk membolehkan fungsi pakej mengantuk</string>
 </resources>
