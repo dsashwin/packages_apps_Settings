@@ -85,12 +85,12 @@
     <string name="show_navbar_gesture_bar_title">Панель жестів</string>
     <string name="show_navbar_gesture_bar_summary">Показувати панель жестів внизу екрану</string>
     <!-- Network traffic -->
-    <string name="network_traffic_title">Network Traffic Indicator</string>
-    <string name="network_traffic_summary">Enable or disable the network speed indicator in the status bar</string>
-    <string name="network_traffic_state_title">Enable Network Traffic Indicator</string>
+    <string name="network_traffic_title">Моніторинг мережевого трафіку</string>
+    <string name="network_traffic_summary">Увімкнути або вимкнути індикатор швидкості мережі в рядку стану</string>
+    <string name="network_traffic_state_title">Увімкнути \"Індикатор мережевого трафіку\"</string>
     <string name="network_options_title">Параметри</string>
-    <string name="network_traffic_autohide_title">Hide the Network Traffic Indicator when inactive</string>
-    <string name="network_traffic_autohide_summary">Hides the network traffic indicator when below 1 KB/s</string>
+    <string name="network_traffic_autohide_title">Приховати, якщо мережа неактивна</string>
+    <string name="network_traffic_autohide_summary">Приховати, якщо швидкість мережі менше 1 КБ/с</string>
     <!-- Display customization category -->
     <string name="customization_category_title">Персоналізація</string>
     <!-- QS footer data usage -->
