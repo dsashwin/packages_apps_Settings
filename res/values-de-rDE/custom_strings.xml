@@ -86,11 +86,11 @@
     <string name="show_navbar_gesture_bar_summary">Navigationsleiste am unteren Bildschirmrand anzeigen</string>
     <!-- Network traffic -->
     <string name="network_traffic_title">Datenverkehr-Anzeige</string>
-    <string name="network_traffic_summary">Enable or disable the network speed indicator in the status bar</string>
-    <string name="network_traffic_state_title">Enable Network Traffic Indicator</string>
+    <string name="network_traffic_summary">Aktiviere oder deaktiviere die Netzwerkverkehrsanzeige in der Statusleiste</string>
+    <string name="network_traffic_state_title">Netzwerkverkehrsanzeige einschalten</string>
     <string name="network_options_title">Einstellungen</string>
-    <string name="network_traffic_autohide_title">Hide the Network Traffic Indicator when inactive</string>
-    <string name="network_traffic_autohide_summary">Hides the network traffic indicator when below 1 KB/s</string>
+    <string name="network_traffic_autohide_title">Netzwerkverkehrsanzeige ausblenden, wenn inaktiv</string>
+    <string name="network_traffic_autohide_summary">Ausblenden, wenn die Netzwerkverkehrsanzeige unter 1 KB/s liegt</string>
     <!-- Display customization category -->
     <string name="customization_category_title">Personalisierung</string>
     <!-- QS footer data usage -->
