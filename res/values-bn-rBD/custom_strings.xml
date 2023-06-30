@@ -15,7 +15,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- String for removal of sensitive info on about, depending on tap -->
-    <string name="device_info_protected_single_press">Tap to show info</string>
+    <string name="device_info_protected_single_press">তথ্য দেখানোর জন্য আলতো চাপুন</string>
     <!-- Max refresh rate -->
     <string name="max_refresh_rate_title">সর্বোচ্চ রিফ্রেশ রেট</string>
     <!-- Min refresh rate -->
@@ -31,9 +31,9 @@
     <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">আপনার ট্যাবলেটের পিছনে ফিঙ্গারপ্রিন্ট সেন্সরটি সনাক্ত করুন৷</string>
     <string name="fingerprint_enroll_find_sensor_message_rear" product="device">আপনার ডিভাইসের পিছনে ফিঙ্গারপ্রিন্ট সেন্সর সনাক্ত করুন।</string>
     <string name="fingerprint_enroll_find_sensor_message_rear" product="default">আপনার ফোনের পিছনে ফিঙ্গারপ্রিন্ট সেন্সরটি সনাক্ত করুন৷</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Locate the fingerprint sensor on the side of your tablet.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Locate the fingerprint sensor on the side of your device.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Locate the fingerprint sensor on the side of your phone.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">আপনার ট্যাবলেটের পাশে ফিঙ্গারপ্রিন্ট সেন্সরটি সনাক্ত করুন৷</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">আপনার ডিভাইসের পাশে ফিঙ্গারপ্রিন্ট সেন্সরটি সনাক্ত করুন।</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">আপনার ফোনের পাশে ফিঙ্গারপ্রিন্ট সেন্সরটি সনাক্ত করুন।</string>
     <!-- Message shown when user touches the icon on the screen, instead of the real fingerprint sensor -->
     <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">আপনার ট্যাবলেটের সামনের সেন্সরে স্পর্শ করুন।</string>
     <string name="fingerprint_enroll_touch_dialog_message_front" product="device">আপনার ডিভাইসের সামনের সেন্সরে টিপ দিন</string>
@@ -50,14 +50,14 @@
     <!-- Radio Info -->
     <string name="radio_info_title">রেডিও তথ্য</string>
     <!-- Left volume panel -->
-    <string name="volume_panel_on_left_title">Show volume panel on left</string>
-    <string name="volume_panel_on_left_summary">Move volume panel to the left side of the screen</string>
+    <string name="volume_panel_on_left_title">বাম দিকে ভলিউম প্যানেল দেখান</string>
+    <string name="volume_panel_on_left_summary">ডিসপ্লের বাম দিকে ভলিউম প্যানেল সরান</string>
     <!-- DT2S on statusbar-->
     <string name="double_tap_sleep_gesture_title">স্লিপ মোডে পাঠাতে ট্যাপ করুন</string>
     <string name="double_tap_sleep_gesture_summary">স্ট্যাটাসবারের যেকোনো জায়গায় দুইবার ট্যাপ করে ডিভাইসকে স্লিপ করান</string>
     <!-- Quick Settings quick pulldown -->
-    <string name="quick_settings_quick_pull_down_title">Quick QS pulldown</string>
-    <string name="quick_settings_quick_pull_down_summary">Pull down statusbar from right side to expand quick settings</string>
+    <string name="quick_settings_quick_pull_down_title">দ্রুত QS নামান</string>
+    <string name="quick_settings_quick_pull_down_summary">দ্রুত সেটিংস প্রসারিত করতে ডান দিক থেকে স্ট্যাটাসবারটি নিচে টানুন</string>
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">কল চলাকালীন ভাইব্রেশন অপশন</string>
     <string name="incall_vibrate_connect_title">সংযোগে ভাইব্রেট করুন</string>
@@ -79,7 +79,7 @@
     <string name="power_button_torch_title">দ্রুত টর্চ জালুন</string>
     <string name="power_button_torch_summary">যখন স্ক্রিনটি বন্ধ থাকবে, পাওয়ার বোতামটি দীর্ঘ-টিপলে টর্চকে সক্ষম করবে</string>
     <!-- Low battery light -->
-    <string name="low_battery_light_title">Low battery light</string>
+    <string name="low_battery_light_title">কম ব্যাটারি আলো</string>
     <string name="low_battery_light_summary">Blink LED when battery is low</string>
     <!-- Navigation bar hint -->
     <string name="show_navbar_gesture_bar_title">Gesture bar</string>
