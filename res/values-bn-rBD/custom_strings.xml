@@ -65,10 +65,10 @@
     <string name="incall_vibrate_disconnect_title">সংযোগ বিচ্ছিন্ন হলে ভাইব্রেট করুন</string>
     <!-- Annoying Notifications -->
     <string name="notification_sound_vib_screen_on_title">বিরক্তিকর নোটিফিকেশন</string>
-    <string name="notification_sound_vib_screen_on_summary">স্ক্রীন চালু থাকলে নোটিফিকেশন এর জন্য শব্দ এবং ভাইব্রেট করুণ</string>
+    <string name="notification_sound_vib_screen_on_summary">স্ক্রীন চালু থাকলে বিজ্ঞপ্তির জন্য শব্দ এবং কম্পন চালান</string>
     <!-- Global Actions -->
     <string name="global_actions_advanced_reboot_title">Advanced restart চালু করুন</string>
-    <string name="global_actions_advanced_reboot_summary">পাওয়ার মেনুতে রিকভারি এবং বুটলোডারের অপশন দেখান</string>
+    <string name="global_actions_advanced_reboot_summary">পাওয়ার মেনুতে পুনরুদ্ধার এবং বুটলোডারের বিকল্পগুলি দেখান</string>
     <!-- Hotspot VPN -->
     <string name="tethering_allow_vpn_upstreams_title">ক্লায়েন্টদের ভিপিএন ব্যবহার করার অনুমতি দিন</string>
     <string name="tethering_allow_vpn_upstreams_summary">হটস্পট ক্লায়েন্টদের আপ স্ট্রিম সংযোগের জন্য এই ডিভাইস\u2019 এর ভিপিএন কানেকশন ব্যবহার করতে দিন</string>
@@ -80,37 +80,37 @@
     <string name="power_button_torch_summary">যখন স্ক্রিনটি বন্ধ থাকবে, পাওয়ার বোতামটি দীর্ঘ-টিপলে টর্চকে সক্ষম করবে</string>
     <!-- Low battery light -->
     <string name="low_battery_light_title">কম ব্যাটারি আলো</string>
-    <string name="low_battery_light_summary">Blink LED when battery is low</string>
+    <string name="low_battery_light_summary">ব্যাটারি কম হলে LED ব্লিঙ্ক করান</string>
     <!-- Navigation bar hint -->
-    <string name="show_navbar_gesture_bar_title">Gesture bar</string>
-    <string name="show_navbar_gesture_bar_summary">Show gesture bar at the bottom of the screen</string>
+    <string name="show_navbar_gesture_bar_title">জেসচার বার</string>
+    <string name="show_navbar_gesture_bar_summary">স্ক্রিনের নীচে জেসচার বার দেখান</string>
     <!-- Network traffic -->
     <string name="network_traffic_title">নেটওয়ার্ক ট্রাফিক মনিটর</string>
     <string name="network_traffic_summary">স্ট্যাটাস বারে নেটওয়ার্ক স্পীড মনিটর সক্রিয় অথবা নিষ্ক্রিয় করুন</string>
     <string name="network_traffic_state_title">নেটওয়ার্ক ট্রাফিক মনিটর সক্রিয় করুন</string>
-    <string name="network_options_title">Options</string>
+    <string name="network_options_title">অপশন</string>
     <string name="network_traffic_autohide_title">ইন্টারনেট বন্ধ থাকা অবস্থায় ট্রাফিক মনিটর অদৃশ্য হবে</string>
     <string name="network_traffic_autohide_summary">নেটওয়ার্ক ট্র্যাফিক 1KB/s এর কম হলে আড়াল করুন</string>
     <!-- Display customization category -->
-    <string name="customization_category_title">Customization</string>
+    <string name="customization_category_title">কাস্টমাইজেশন</string>
     <!-- QS footer data usage -->
     <string name="qs_show_data_usage_title">ডেটা ব্যবহার দেখান</string>
     <string name="qs_show_data_usage_summary">QS ফুটারে দৈনিক সেলুলার/ওয়াই-ফাই ডেটা ব্যবহার দেখান</string>
     <!-- Status bar Icon Manager -->
-    <string name="icon_manager_title">Status bar items</string>
+    <string name="icon_manager_title">স্ট্যাটাস বার আইটেম</string>
     <string name="icon_manager_summary">স্ট্যাটাস বার এর আইকন এর দৃশ্যমান অবস্থা নিয়ন্ত্রণ করুন</string>
     <!-- Proximity wake / Pocket mode -->
     <string name="proximity_wake_title">অনিচ্ছাকৃত স্ক্রিন জেগে যাওয়া প্রতিহত করুন</string>
-    <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen from the double tap to wake gesture</string>
+    <string name="proximity_wake_summary">ডাবল ট্যাপ করে স্ক্রীন চালু করার আগে প্রক্সিমিটি সেন্সর চেক করুন</string>
     <!-- Show clipboard overlay -->
-    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
-    <string name="show_clipboard_overlay_summary">Show an overlay in the left bottom corner of the screen when something is copied to the clipboard</string>
+    <string name="show_clipboard_overlay_title">ক্লিপবোর্ড ওভারলে দেখান</string>
+    <string name="show_clipboard_overlay_summary">ক্লিপবোর্ডে কিছু কপি করা হলে স্ক্রিনের বাম নীচের কোণায় একটি ওভারলে দেখান</string>
     <!-- Volume rocker music control -->
-    <string name="volume_button_music_control_title">Playback control</string>
-    <string name="volume_button_music_control_summary">When the screen is off, long-pressing the volume keys will skip music tracks</string>
+    <string name="volume_button_music_control_title">প্লেব্যাক নিয়ন্ত্রণ</string>
+    <string name="volume_button_music_control_summary">যখন স্ক্রীন বন্ধ থাকবে, ভলিউম কীগুলি দীর্ঘক্ষণ চাপলে তা মিউজিক ট্র্যাকগুলি এড়িয়ে যাবে৷</string>
     <!-- Backup Transport selection settings menu and activity title -->
-    <string name="backup_transport_setting_label">Change backup provider</string>
-    <string name="backup_transport_title">Select backup provider</string>
+    <string name="backup_transport_setting_label">ব্যাকআপ প্রদানকারী পরিবর্তন করুন</string>
+    <string name="backup_transport_title">ব্যাকআপ প্রদানকারী নির্বাচন করুন</string>
     <!-- Ignore window secure -->
     <string name="ignore_window_secure_title">সুরক্ষিত উইন্ডো ফ্লাগ উপেক্ষা করুন</string>
     <string name="ignore_window_secure_summary">সমস্ত অ্যাপের জন্য স্ক্রিনশট এবং স্ক্রিন রেকর্ডের সীমা সরান। এটি কিছু ক্ষেত্রে সুবিধাজনক হতে পারে কিন্তু গোপনীয়তা ফাঁস হতে পারে।</string>
@@ -120,9 +120,9 @@
     <string name="search">অনুসন্ধান করুন</string>
     <string name="search_apps">অ্যাপ খুঁজুন</string>
     <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
-    <string name="ambient_display_screen_off_udfps_title">Always on Fingerprint</string>
+    <string name="ambient_display_screen_off_udfps_title">সবসময় ফিঙ্গারপ্রিন্ট চালু</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">Allows unlocking with the screen off.\nEnabling may cause accidental wake-ups.</string>
+    <string name="ambient_display_screen_off_udfps_summary">স্ক্রীন বন্ধ করে আনলক করার অনুমতি দেয়।\nচালু করলে ভুল ক্রমে স্ক্রীন অন হতে পারে।</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
     <string name="duration_less_than_one_minute">১ মিনিটেরও কম</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
@@ -166,35 +166,35 @@
     <string name="unlock_scramble_pin_layout_title">স্ক্র্যাম্বল লেয়াউট</string>
     <string name="unlock_scramble_pin_layout_summary">ডিভাইস আনলক করার সময় স্ক্র্যাম্বল পিন লেআউট</string>
     <!-- One shot automatic brightness -->
-    <string name="auto_brightness_one_shot_title">One shot auto-brightness</string>
-    <string name="auto_brightness_one_shot_summary">Brightness adjustment will only occur at the moment the screen is turned on</string>
+    <string name="auto_brightness_one_shot_title">এক শট স্বয়ংক্রিয় উজ্জ্বলতা</string>
+    <string name="auto_brightness_one_shot_summary">উজ্জ্বলতা সামঞ্জস্য শুধুমাত্র স্ক্রীন চালু করার মুহুর্তে ঘটবে</string>
     <!-- Hotspot -->
-    <string name="wifi_hotspot_hidden_ssid_title">Hidden network</string>
-    <string name="wifi_hotspot_hidden_ssid_summary">Your mobile hotspot\'s name won\'t appear in the list of available WLAN networks.</string>
-    <string name="wifi_hotspot_auto_off_timeout_never">Never turn off hotspot</string>
-    <string name="wifi_hotspot_client_manager_title">Connected devices</string>
-    <string name="wifi_hotspot_client_manager_summary">List and manage devices connected to the hotspot</string>
-    <string name="wifi_hotspot_client_manager_list_only_summary">List devices connected to the hotspot</string>
-    <string name="wifi_hotspot_client_limit_title">Limit of connected devices</string>
-    <string name="wifi_hotspot_blocked_clients_list_title">Blocked Devices</string>
-    <string name="wifi_hotspot_connected_clients_list_title">Connected Devices</string>
-    <string name="wifi_hotspot_block_client_dialog_title">Block device</string>
-    <string name="wifi_hotspot_block_client_dialog_text">This action will disconnect \"<xliff:g id="device_name">%1$s</xliff:g>\" from this device and add it to blocklist</string>
-    <string name="wifi_hotspot_unblock_client_dialog_title">Unblock device</string>
-    <string name="wifi_hotspot_unblock_client_dialog_text">The device \"<xliff:g id="device_name">%1$s</xliff:g>\" will be able to connect to this hotspot</string>
-    <string name="wifi_hotspot_client_manager_footer_text">No clients are currently available. Connected and blocked devices will be listed here when available.</string>
-    <string name="wifi_hotspot_timeout_summary_never">Never</string>
-    <string name="wifi_hotspot_timeout_summary_30secs">30 seconds</string>
-    <string name="wifi_hotspot_timeout_summary_1min">1 minute</string>
-    <string name="wifi_hotspot_timeout_summary_5mins">5 minutes</string>
-    <string name="wifi_hotspot_timeout_summary_10mins">10 minutes</string>
-    <string name="wifi_hotspot_timeout_summary_30mins">30 minutes</string>
-    <string name="wifi_hotspot_timeout_summary_1hour">1 hour</string>
+    <string name="wifi_hotspot_hidden_ssid_title">লুকানো নেটওয়ার্ক</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">আপনার মোবাইল হটস্পটের নাম উপলব্ধ WLAN নেটওয়ার্কের তালিকায় উপস্থিত হবে না৷</string>
+    <string name="wifi_hotspot_auto_off_timeout_never">হটস্পট কখনই বন্ধ হবে না</string>
+    <string name="wifi_hotspot_client_manager_title">সংযুক্ত ডিভাইস</string>
+    <string name="wifi_hotspot_client_manager_summary">হটস্পটের সাথে সংযুক্ত ডিভাইসগুলির তালিকা এবং পরিচালনা করুন৷</string>
+    <string name="wifi_hotspot_client_manager_list_only_summary">হটস্পটের সাথে সংযুক্ত ডিভাইসগুলির তালিকা</string>
+    <string name="wifi_hotspot_client_limit_title">সংযুক্ত ডিভাইসের সীমা</string>
+    <string name="wifi_hotspot_blocked_clients_list_title">ব্লক করা ডিভাইস</string>
+    <string name="wifi_hotspot_connected_clients_list_title">সংযুক্ত ডিভাইস</string>
+    <string name="wifi_hotspot_block_client_dialog_title">ডিভাইস ব্লক করুন</string>
+    <string name="wifi_hotspot_block_client_dialog_text">এই সংযোগ বিচ্ছিন্ন হবে \"<xliff:g id="device_name">%1$s</xliff:g>\" ডিভাইস থেকে এবং ব্লকলিস্টে যোগ হবে</string>
+    <string name="wifi_hotspot_unblock_client_dialog_title">ডিভাইস আনব্লক করুন</string>
+    <string name="wifi_hotspot_unblock_client_dialog_text">এই ডিভাইস \"<xliff:g id="device_name">%1$s</xliff:g>\" এই হটস্পটের সাথে সংযোগ করতে সক্ষম হবে</string>
+    <string name="wifi_hotspot_client_manager_footer_text">কোন ক্লায়েন্ট বর্তমানে উপলব্ধ. সংযুক্ত এবং অবরুদ্ধ ডিভাইসগুলি উপলব্ধ হলে এখানে তালিকাভুক্ত করা হবে৷</string>
+    <string name="wifi_hotspot_timeout_summary_never">কখনই না</string>
+    <string name="wifi_hotspot_timeout_summary_30secs">৩০ সেকেন্ড</string>
+    <string name="wifi_hotspot_timeout_summary_1min">১ মিনিট</string>
+    <string name="wifi_hotspot_timeout_summary_5mins">৫ মিনিট</string>
+    <string name="wifi_hotspot_timeout_summary_10mins">১০ মিনিট</string>
+    <string name="wifi_hotspot_timeout_summary_30mins">৩০ মিনিট</string>
+    <string name="wifi_hotspot_timeout_summary_1hour">১ ঘণ্টা</string>
     <!-- Quick unlock -->
     <string name="unlock_quick_unlock_control_title">দ্রুত আনলক করুন</string>
     <string name="unlock_quick_unlock_control_summary">সঠিক পিন/পাসওয়ার্ড দেওয়া হলে স্বয়ংক্রিয়ভাবে আনলক করুন</string>
     <!-- Advanced sound settings -->
-    <string name="sound_settings_advanced_title">Additional settings</string>
+    <string name="sound_settings_advanced_title">অতিরিক্ত বিন্যাস</string>
     <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">উচ্চ স্পর্শ সংবেদনশীলতা</string>
     <string name="high_touch_sensitivity_summary">টাচস্ক্রীন সংবেদনশীলতা বৃদ্ধি করুন যাতে গ্লাভস পরে ব্যবহার করা যেতে পারে</string>
@@ -258,31 +258,31 @@
     <string name="adj_intensity_title">প্রাবল্য</string>
     <string name="adj_contrast_title">কনট্রাস্ট</string>
     <!-- Battery saver refresh rate -->
-    <string name="battery_saver_refresh_rate_title">Reduce refresh rate</string>
-    <string name="battery_saver_refresh_rate_summary">Use 60 Hz screen refresh rate to save power when Battery Saver is on</string>
+    <string name="battery_saver_refresh_rate_title">রিফ্রেশ রেট কমান</string>
+    <string name="battery_saver_refresh_rate_summary">ব্যাটারি সেভার চালু থাকলে পাওয়ার সাশ্রয় করতে 60 Hz স্ক্রীন রিফ্রেশ রেট ব্যবহার করুন</string>
     <!-- Black theme -->
-    <string name="system_black_theme_title">Use Black theme</string>
-    <string name="system_black_theme_summary">Force black background colors</string>
+    <string name="system_black_theme_title">কালো থিম ব্যবহার করুন</string>
+    <string name="system_black_theme_summary">জোরপূর্বক ব্যাকগ্রাউন্ড রং কালো করুন</string>
     <!-- Doze on double tap -->
     <string name="double_tap_title">ডাবল ট্যাপ</string>
     <string name="doze_double_tap_title">ফোন চেক করার জন্য দু\'বার ট্যাপ করুন</string>
     <string name="doze_double_tap_summary">দুইবার ট্যাপ এর মাধ্যমে পালস্ নোটিফিকেশন দেখুন</string>
     <!-- Display : Rotation -->
-    <string name="display_rotation_title">Rotation settings</string>
-    <string name="display_rotation_enabled">Auto-rotation is enabled</string>
-    <string name="display_rotation_disabled">Auto-rotation is disabled</string>
-    <string name="display_rotation_unit">degrees</string>
-    <string name="display_rotation_category_title">Rotation modes</string>
-    <string name="display_rotation_0_title">0 degrees</string>
-    <string name="display_rotation_90_title">90 degrees</string>
-    <string name="display_rotation_180_title">180 degrees</string>
-    <string name="display_rotation_270_title">270 degrees</string>
+    <string name="display_rotation_title">ঘূর্ণন সেটিংস</string>
+    <string name="display_rotation_enabled">স্বতঃ-ঘূর্ণন সক্রিয় আছে</string>
+    <string name="display_rotation_disabled">স্বতঃ-ঘূর্ণন নিষ্ক্রিয় আছে</string>
+    <string name="display_rotation_unit">ডিগ্রী</string>
+    <string name="display_rotation_category_title">ঘুর্ণন মোডস</string>
+    <string name="display_rotation_0_title">০ ডিগ্রী</string>
+    <string name="display_rotation_90_title">৯০ ডিগ্রী</string>
+    <string name="display_rotation_180_title">১৮০ ডিগ্রী</string>
+    <string name="display_rotation_270_title">২৭০ ডিগ্রী</string>
     <!-- Ambient wake toggles -->
-    <string name="doze_gesture_ambient_title">Show Ambient</string>
-    <string name="doze_gesture_ambient_summary">Show Ambient Display instead of fully waking the screen up</string>
-    <string name="gesture_wake_ambient">Show Ambient</string>
-    <string name="gesture_wake">Fully wake</string>
+    <string name="doze_gesture_ambient_title">অ্যাম্বিয়েন্ট দেখান</string>
+    <string name="doze_gesture_ambient_summary">পুরোপুরি স্ক্রীন চালু হওয়ার পরিবর্তে অ্যাম্বিয়েন্ট ডিসপ্লে দেখান</string>
+    <string name="gesture_wake_ambient">অ্যাম্বিয়েন্ট দেখান</string>
+    <string name="gesture_wake">পুরোপুরি জেগে উঠুন</string>
     <!-- Doze enablement -->
-    <string name="doze_enabled_title">Ambient display</string>
-    <string name="doze_enabled_summary">Whether to enable the doze package functionality</string>
+    <string name="doze_enabled_title">অ্যাম্বিয়েন্ট ডিসপ্লে</string>
+    <string name="doze_enabled_summary">ডোজ প্যাকেজ কার্যকারিতা সক্ষম করা হবে কিনা</string>
 </resources>
