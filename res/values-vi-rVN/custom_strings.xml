@@ -286,9 +286,9 @@
     <string name="doze_enabled_title">Màn hình luôn bật</string>
     <string name="doze_enabled_summary">Cho phép bật màn hình xem nhanh</string>
     <!-- Smart 5G -->
-    <string name="smart_5g_title">Smart 5G</string>
-    <string name="smart_5g_summary">Automatically switch between 5G and 4G to reduce battery consumption</string>
+    <string name="smart_5g_title">5G Thông minh</string>
+    <string name="smart_5g_summary">Tự động chuyển đổi giữa mạng 5G và 4G để giảm tiêu thụ pin</string>
     <!-- Separate ring & notification toggle -->
-    <string name="volume_separate_notification_title">Separated Ring and Notification</string>
-    <string name="volume_separate_notification_summary">Allow controlling each stream individually</string>
+    <string name="volume_separate_notification_title">Tách riêng Âm lượng Nhạc chuông và Thông báo</string>
+    <string name="volume_separate_notification_summary">Cho phép điều khiển mỗi luồng riêng biệt</string>
 </resources>
