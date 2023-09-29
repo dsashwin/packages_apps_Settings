@@ -289,7 +289,7 @@
     <string name="smart_5g_title">Умный 5G</string>
     <string name="smart_5g_summary">Автоматическое переключение между 5G и 4G для снижения расхода батареи</string>
     <!-- Charging control settings -->
-    <string name="charging_control_title">Charging control</string>
+    <string name="charging_control_title">Управление зарядкой</string>
     <string name="charging_control_enable_title">Enable charging control</string>
     <string name="charging_control_mode_title">Charging mode</string>
     <string name="charging_control_mode_auto_title">Automatic schedule</string>
