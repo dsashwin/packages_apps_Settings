@@ -299,9 +299,9 @@
     <string name="charging_control_mode_limit_title">Limitar la carga</string>
     <string name="charging_control_mode_limit_summary">Limitar la carga a un porcentaje específico</string>
     <string name="charging_control_start_time_title">Tiempo de inicio</string>
-    <string name="charging_control_start_time_summary">Charging control activates when you start charging after %s</string>
-    <string name="charging_control_target_time_title">Target time to full charge</string>
-    <string name="charging_control_target_time_summary">Battery will be fully charged by %s</string>
-    <string name="charging_control_limit_title">Limit</string>
-    <string name="reset">Reset</string>
+    <string name="charging_control_start_time_summary">El control de carga se activa cuando comienzas a cargar después del %s</string>
+    <string name="charging_control_target_time_title">Tiempo límite para la carga completa</string>
+    <string name="charging_control_target_time_summary">La batería estará completamente cargada para las %s</string>
+    <string name="charging_control_limit_title">Límite</string>
+    <string name="reset">Restablecer</string>
 </resources>
