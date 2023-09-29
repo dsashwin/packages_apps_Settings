@@ -290,7 +290,7 @@ Malam: <xliff:g id="night_temperature">%2$d</xliff:g>K</string>
     <string name="smart_5g_title">5G Cerdas</string>
     <string name="smart_5g_summary">Secara otomatis beralih antara 5G dan 4G untuk mengurangi konsumsi baterai</string>
     <!-- Charging control settings -->
-    <string name="charging_control_title">Charging control</string>
+    <string name="charging_control_title">Kontrol pengisian daya</string>
     <string name="charging_control_enable_title">Enable charging control</string>
     <string name="charging_control_mode_title">Charging mode</string>
     <string name="charging_control_mode_auto_title">Automatic schedule</string>
