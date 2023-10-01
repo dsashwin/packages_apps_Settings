@@ -301,7 +301,7 @@
     <string name="charging_control_start_time_title">Ώρα έναρξης</string>
     <string name="charging_control_start_time_summary">Ο έλεγχος φόρτισης ενεργοποιείται όταν ξεκινάτε τη φόρτιση μετά τις %s</string>
     <string name="charging_control_target_time_title">Ώρα πλήρης φόρτισης</string>
-    <string name="charging_control_target_time_summary">Battery will be fully charged by %s</string>
-    <string name="charging_control_limit_title">Limit</string>
-    <string name="reset">Reset</string>
+    <string name="charging_control_target_time_summary">Η μπαταρία θα είναι πλήρως φορτισμένη στις %1$s</string>
+    <string name="charging_control_limit_title">Όριο</string>
+    <string name="reset">Επαναφορά</string>
 </resources>
