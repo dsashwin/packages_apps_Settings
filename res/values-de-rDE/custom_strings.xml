@@ -287,17 +287,17 @@
     <string name="doze_enabled_summary">Ob die Funktionalität des Doze-Pakets aktiviert werden soll</string>
     <!-- Smart 5G -->
     <string name="smart_5g_title">Smart 5G</string>
-    <string name="smart_5g_summary">Automatically switch between 5G and 4G to reduce battery consumption</string>
+    <string name="smart_5g_summary">Automatisch zwischen 5G und 4G wechseln, um den Akkuverbrauch zu reduzieren</string>
     <!-- Charging control settings -->
-    <string name="charging_control_title">Charging control</string>
-    <string name="charging_control_enable_title">Enable charging control</string>
-    <string name="charging_control_mode_title">Charging mode</string>
-    <string name="charging_control_mode_auto_title">Automatic schedule</string>
-    <string name="charging_control_mode_auto_summary">Automatically determine when to start charging based on alarms set</string>
-    <string name="charging_control_mode_custom_title">Custom schedule</string>
-    <string name="charging_control_mode_custom_summary">Set a target time to full charge</string>
-    <string name="charging_control_mode_limit_title">Limit charging</string>
-    <string name="charging_control_mode_limit_summary">Limit charging to a certain percentage</string>
+    <string name="charging_control_title">Ladesteuerung</string>
+    <string name="charging_control_enable_title">Ladekontrolle aktivieren</string>
+    <string name="charging_control_mode_title">Lademodus</string>
+    <string name="charging_control_mode_auto_title">Automatischer Zeitplan</string>
+    <string name="charging_control_mode_auto_summary">Startzeitpunkt für den Ladevorgang anhand der eingestellten Alarme automatisch bestimmen</string>
+    <string name="charging_control_mode_custom_title">Benutzerdefinierter Zeitplan</string>
+    <string name="charging_control_mode_custom_summary">Zeit bis zur vollständigen Aufladung festlegen</string>
+    <string name="charging_control_mode_limit_title">Ladebegrenzung</string>
+    <string name="charging_control_mode_limit_summary">Ladung auf einen bestimmten Prozentsatz begrenzen</string>
     <string name="charging_control_start_time_title">Start time</string>
     <string name="charging_control_start_time_summary">Charging control activates when you start charging after %s</string>
     <string name="charging_control_target_time_title">Target time to full charge</string>
