@@ -17,18 +17,18 @@
     <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
     <string name="category_name_refresh_rate_controls">معدل التحديث</string>
     <!-- Radio Info -->
-    <string name="radio_info_title">Radio info</string>
+    <string name="radio_info_title">معلومات الراديو</string>
     <!-- General -->
     <string name="copied_to_clipboard">تم النسخ إلى الحافظة</string>
     <string name="longpress_to_clipboard">اضغط مطولاً للنسخ</string>
     <!-- Three-fingers-swipe to screenshot -->
-    <string name="three_finger_gesture">Swipe to screenshot</string>
-    <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
+    <string name="three_finger_gesture">اسحب لأخذ لقطة للشاشة</string>
+    <string name="three_finger_gesture_summary">السحب لأسفل بثلاث أصابع لأخذ لقطة شاشة</string>
     <!-- Cycle through ringer modes gesture -->
     <string name="prevent_ringing_option_cycle">Cycle through modes</string>
     <string name="prevent_ringing_option_cycle_summary">On (cycle through modes)</string>
     <!-- Volume button music control -->
-    <string name="volume_button_music_control_title">Playback control</string>
+    <string name="volume_button_music_control_title">التحكم في الموسيقى</string>
     <string name="volume_button_music_control_summary">When the screen is off, long-pressing volume keys will skip music tracks</string>
     <!-- Torch Power button gestures -->
     <string name="power_button_torch_title">الإضاءه السريعه</string>
@@ -56,9 +56,9 @@
     <string name="hide_navbar_gesture_bar_title">Hide gesture bar</string>
     <string name="hide_navbar_gesture_bar_summary">Hide the gesture bar at the bottom of the screen</string>
     <!-- Black theme -->
-    <string name="system_black_theme_title">Use Black theme</string>
-    <string name="system_black_theme_summary">Force black background colors</string>
+    <string name="system_black_theme_title">استخدام \"المظهر الداكن\"</string>
+    <string name="system_black_theme_summary">إجبار الوان سوداء للخلفية</string>
     <!-- Smart 5G -->
-    <string name="smart_5g_title">Smart 5G</string>
-    <string name="smart_5g_summary">Automatically switch between 5G and 4G to reduce battery consumption</string>
+    <string name="smart_5g_title">5G ذكي</string>
+    <string name="smart_5g_summary">التبديل تلقائياً بين 5G و4G لتقليل استهلاك البطارية</string>
 </resources>
