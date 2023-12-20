@@ -17,18 +17,18 @@
     <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
     <string name="category_name_refresh_rate_controls">معدل التحديث</string>
     <!-- Radio Info -->
-    <string name="radio_info_title">معلومات الراديو</string>
+    <string name="radio_info_title">Radio info</string>
     <!-- General -->
     <string name="copied_to_clipboard">تم النسخ إلى الحافظة</string>
     <string name="longpress_to_clipboard">اضغط مطولاً للنسخ</string>
     <!-- Three-fingers-swipe to screenshot -->
-    <string name="three_finger_gesture">اسحب لأخذ لقطة للشاشة</string>
-    <string name="three_finger_gesture_summary">السحب لأسفل بثلاث أصابع لأخذ لقطة شاشة</string>
+    <string name="three_finger_gesture">Swipe to screenshot</string>
+    <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
     <!-- Cycle through ringer modes gesture -->
     <string name="prevent_ringing_option_cycle">Cycle through modes</string>
     <string name="prevent_ringing_option_cycle_summary">On (cycle through modes)</string>
     <!-- Volume button music control -->
-    <string name="volume_button_music_control_title">التحكم في الموسيقى</string>
+    <string name="volume_button_music_control_title">Playback control</string>
     <string name="volume_button_music_control_summary">When the screen is off, long-pressing volume keys will skip music tracks</string>
     <!-- Torch Power button gestures -->
     <string name="power_button_torch_title">الإضاءه السريعه</string>
@@ -56,16 +56,16 @@
     <string name="hide_navbar_gesture_bar_title">Hide gesture bar</string>
     <string name="hide_navbar_gesture_bar_summary">Hide the gesture bar at the bottom of the screen</string>
     <!-- Black theme -->
-    <string name="system_black_theme_title">استخدام \"المظهر الداكن\"</string>
-    <string name="system_black_theme_summary">إجبار الوان سوداء للخلفية</string>
+    <string name="system_black_theme_title">Use Black theme</string>
+    <string name="system_black_theme_summary">Force black background colors</string>
     <!-- Smart 5G -->
-    <string name="smart_5g_title">5G ذكي</string>
-    <string name="smart_5g_summary">التبديل تلقائياً بين 5G و4G لتقليل استهلاك البطارية</string>
+    <string name="smart_5g_title">Smart 5G</string>
+    <string name="smart_5g_summary">Automatically switch between 5G and 4G to reduce battery consumption</string>
     <!-- Ambient wake toggles -->
-    <string name="doze_gesture_ambient_title">عرض المحيط</string>
-    <string name="doze_gesture_ambient_summary">إظهار العرض المحيط بدلاً من إيقاظ الشاشة بالكامل</string>
-    <string name="gesture_wake_ambient">عرض المحيط</string>
-    <string name="gesture_wake">إيقاظ كامل</string>
+    <string name="doze_gesture_ambient_title">Show Ambient</string>
+    <string name="doze_gesture_ambient_summary">Show Ambient Display instead of fully waking the screen up</string>
+    <string name="gesture_wake_ambient">Show Ambient</string>
+    <string name="gesture_wake">Fully wake</string>
     <!-- Max refresh rate -->
     <string name="max_refresh_rate_title">الحد الاقصى لمعدل تحديث الشاشه</string>
     <!-- Min refresh rate -->
@@ -73,25 +73,25 @@
     <!-- Warning message for the sd card setup -->
     <string name="storage_warning_internal">Warning: This option may not work properly or lead to data loss and is therefore not recommended!</string>
     <!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
-    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">حدد موقع مستشعر البصمة في مقدمة جهازك اللوحي.</string>
-    <string name="fingerprint_enroll_find_sensor_message_front" product="device">حدد موقع مستشعر بصمة الإصبع في مقدمة جهازك.</string>
-    <string name="fingerprint_enroll_find_sensor_message_front" product="default">حدد موقع مستشعر بصمة الإصبع في الجزء الأمامي من هاتفك.</string>
-    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">حدد موقع مستشعر بصمة الإصبع على ظهر جهازك اللوحي.</string>
-    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">حدد موقع مستشعر بصمة الإصبع على الجزء الخلفي من جهازك.</string>
-    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">حدد موقع مستشعر بصمة الإصبع على ظهر هاتفك.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">حدد موقع مستشعر بصمة الإصبع على جانب جهازك اللوحي.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="device">حدد موقع مستشعر بصمة الإصبع على جانب جهازك.</string>
-    <string name="fingerprint_enroll_find_sensor_message_side" product="default">حدد موقع مستشعر بصمة الإصبع على جانب هاتفك.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Locate the fingerprint sensor on the front of your tablet.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Locate the fingerprint sensor on the front of your device.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Locate the fingerprint sensor on the front of your phone.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Locate the fingerprint sensor on the back of your tablet.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Locate the fingerprint sensor on the back of your device.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Locate the fingerprint sensor on the back of your phone.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Locate the fingerprint sensor on the side of your tablet.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Locate the fingerprint sensor on the side of your device.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Locate the fingerprint sensor on the side of your phone.</string>
     <!-- Message shown when user touches the icon on the screen, instead of the real fingerprint sensor -->
-    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">المس مستشعر البصمة في الجزء الأمامي من جهازك اللوحي.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">المس مستشعر بصمة الإصبع في الجزء الأمامي من جهازك.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">المس مستشعر البصمة في الجزء الأمامي من هاتفك.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">المس مستشعر البصمة في الجزء الخلفي من جهازك اللوحي.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">المس مستشعر البصمة في الجزء الخلفي من جهازك.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">المس مستشعر البصمة على الجزء الخلفي من هاتفك.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">المس مستشعر البصمة في الجزء الجانبي من جهازك اللوحي.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">المس مستشعر البصمة في الجزء الجانبي من جهازك.</string>
-    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">المس مستشعر البصمة على الجزء الجانبي من هاتفك.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Touch the sensor on the front of your tablet.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Touch the sensor on the front of your device.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Touch the sensor on the front of your phone.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Touch the sensor on the back of your tablet.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Touch the sensor on the back of your device.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Touch the sensor on the back of your phone.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Touch the sensor on the side of your tablet.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Touch the sensor on the side of your device.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Touch the sensor on the side of your phone.</string>
     <!-- Notch: Full screen apps -->
     <string name="display_cutout_force_fullscreen_title">تطبيقات الشاشة الكاملة</string>
     <string name="display_cutout_force_fullscreen_summary">إجبار التطبيقات على تجاهل مساحة النوتش</string>
@@ -99,19 +99,19 @@
     <string name="search_apps">البحث عن التطبيقات</string>
     <string name="application_icon">Application icon</string>
     <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
-    <string name="ambient_display_screen_off_udfps_title">دائما على بصمة الإصبع</string>
+    <string name="ambient_display_screen_off_udfps_title">Always on Fingerprint</string>
     <!-- Summary text for screen off UDFPS [CHAR LIMIT=NONE]-->
-    <string name="ambient_display_screen_off_udfps_summary">السماح بفتح القفل مع إيقاف تشغيل الشاشة.\nالتفعيل قد يتسبب في إيقاظ عرضي.</string>
+    <string name="ambient_display_screen_off_udfps_summary">Allows unlocking with the screen off.\nEnabling may cause accidental wake-ups.</string>
     <!-- Display : Rotation -->
-    <string name="display_rotation_title">إعدادات تدوير الشاشة</string>
-    <string name="display_rotation_enabled">التدوير التلقائي مُفعل</string>
-    <string name="display_rotation_disabled">التدوير التلقائي مُعطل</string>
-    <string name="display_rotation_unit">درجات</string>
-    <string name="display_rotation_category_title">أوضاع تدوير الشاشة</string>
-    <string name="display_rotation_0_title">٠ درجة</string>
-    <string name="display_rotation_90_title">٩٠ درجة</string>
-    <string name="display_rotation_180_title">١٨٠ درجة</string>
-    <string name="display_rotation_270_title">٢٧٠ درجة</string>
+    <string name="display_rotation_title">Rotation settings</string>
+    <string name="display_rotation_enabled">Auto-rotation is enabled</string>
+    <string name="display_rotation_disabled">Auto-rotation is disabled</string>
+    <string name="display_rotation_unit">degrees</string>
+    <string name="display_rotation_category_title">Rotation modes</string>
+    <string name="display_rotation_0_title">0 degrees</string>
+    <string name="display_rotation_90_title">90 degrees</string>
+    <string name="display_rotation_180_title">180 degrees</string>
+    <string name="display_rotation_270_title">270 degrees</string>
     <!-- Double tap to sleep on status bar or lockscreen -->
     <string name="status_bar_double_tap_to_sleep_title">انقر للإطفاء</string>
     <string name="status_bar_double_tap_to_sleep_summary">Double-tap on the status bar or lockscreen to turn off the display</string>
@@ -128,8 +128,8 @@
     <string name="incall_vibrate_call_wait_title">إهتزاز أثناء انتظار المكالمة</string>
     <string name="incall_vibrate_disconnect_title">إهتزاز عند قطع الاتصال</string>
     <!-- Battery saver refresh rate -->
-    <string name="battery_saver_refresh_rate_title">تقليل معدل تحديث الشاشة</string>
-    <string name="battery_saver_refresh_rate_summary">استخدم معدل تحديث الشاشة 60 هرتز لتوفير الطاقة عند تشغيل توفير البطارية</string>
+    <string name="battery_saver_refresh_rate_title">Reduce refresh rate</string>
+    <string name="battery_saver_refresh_rate_summary">Use 60 Hz screen refresh rate to save power when Battery Saver is on</string>
     <!-- Charging control settings -->
     <string name="charging_control_title">Charging control</string>
     <string name="charging_control_summary">Customize charging schedule and limits for battery</string>
@@ -148,8 +148,8 @@
     <string name="charging_control_limit_title">Limit</string>
     <string name="reset">Reset</string>
     <!-- One shot automatic brightness -->
-    <string name="auto_brightness_one_shot_title">السطوع التلقائي ذو اللقطة واحدة</string>
-    <string name="auto_brightness_one_shot_summary">سيتم تعديل السطوع فقط في اللحظة التي يتم فيها تشغيل الشاشة</string>
+    <string name="auto_brightness_one_shot_title">One shot auto-brightness</string>
+    <string name="auto_brightness_one_shot_summary">Brightness adjustment will only occur at the moment the screen is turned on</string>
     <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">حساسية لمس عالي</string>
     <string name="high_touch_sensitivity_summary">زيادة حساسية شاشة اللمس حتى يمكن استخدامها أثناء ارتداء القفازات</string>
