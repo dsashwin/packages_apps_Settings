@@ -242,7 +242,7 @@
     <string name="heads_up_summary">Показывать выбранные уведомления как баннер в верхней части экрана</string>
     <string name="heads_up_off">Всплывающие уведомления отключены глобально</string>
     <!-- Less boring heads up -->
-    <string name="less_boring_heads_up_title">Saner heads up</string>
+    <string name="less_boring_heads_up_title">Умные уведомления</string>
     <string name="less_boring_heads_up_summary">Показывать всплывающие уведомления только для звонков, сообщений, будильников, напоминаний и приоритетных разговоров</string>
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">Звук скриншота</string>
