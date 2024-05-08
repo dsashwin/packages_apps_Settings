@@ -241,4 +241,18 @@
     <!-- Power menu on secure lockscreen -->
     <string name="lockscreen_enable_power_menu_title">Power menu</string>
     <string name="lockscreen_enable_power_menu_summary">Allow accessing power menu on secure lockscreen</string>
+    <!-- Incall vibrate options -->
+    <string name="incall_vibration_category">통화 중 진동 옵션</string>
+    <string name="incall_vibrate_connect_title">통화 연결 시 진동</string>
+    <string name="incall_vibrate_call_wait_title">통화 대기 시 진동</string>
+    <string name="incall_vibrate_disconnect_title">통화 종료 시 진동</string>
+    <!-- Annoying Notifications -->
+    <string name="notification_sound_vib_screen_on_title">거슬리는 알림</string>
+    <string name="notification_sound_vib_screen_on_summary">화면이 켜져있을 때 소리 및 진동으로 알림</string>
+    <!-- One shot automatic brightness -->
+    <string name="auto_brightness_one_shot_title">화면이 켜질 때 한 번만 밝기 조절</string>
+    <string name="auto_brightness_one_shot_summary">자동 밝기 조절을 화면이 켜질 때 단 한 번만 실행</string>
+    <!-- Volume button music control -->
+    <string name="volume_button_music_control_title">재생 컨트롤</string>
+    <string name="volume_button_music_control_summary">When the screen is off, long-pressing volume keys will skip music tracks</string>
 </resources>
