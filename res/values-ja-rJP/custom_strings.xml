@@ -240,4 +240,18 @@
     <!-- Power menu on secure lockscreen -->
     <string name="lockscreen_enable_power_menu_title">Power menu</string>
     <string name="lockscreen_enable_power_menu_summary">Allow accessing power menu on secure lockscreen</string>
+    <!-- Incall vibrate options -->
+    <string name="incall_vibration_category">通話中の振動オプション</string>
+    <string name="incall_vibrate_connect_title">接着信時に振動させる</string>
+    <string name="incall_vibrate_call_wait_title">割込通話時に振動</string>
+    <string name="incall_vibrate_disconnect_title">切断時の振動</string>
+    <!-- Annoying Notifications -->
+    <string name="notification_sound_vib_screen_on_title">不必要な通知</string>
+    <string name="notification_sound_vib_screen_on_summary">画面点灯時に通知の音とバイブレーションを鳴らす</string>
+    <!-- One shot automatic brightness -->
+    <string name="auto_brightness_one_shot_title">画面点灯時にのみ適用する</string>
+    <string name="auto_brightness_one_shot_summary">画面が点灯した時に一度だけ、自動で画面の明るさ調整を行います</string>
+    <!-- Volume button music control -->
+    <string name="volume_button_music_control_title">再生コントロール</string>
+    <string name="volume_button_music_control_summary">When the screen is off, long-pressing volume keys will skip music tracks</string>
 </resources>
