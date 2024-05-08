@@ -15,42 +15,42 @@
     <string name="copied_to_clipboard">Zkopírováno do schránky</string>
     <string name="longpress_to_clipboard">Přidržením zkopírovat</string>
     <!-- Radio Info -->
-    <string name="radio_info_title">Radio info</string>
+    <string name="radio_info_title">Informace o rádiu</string>
     <!-- Auto pin confirm -->
-    <string name="lock_screen_auto_pin_confirm_summary_custom">Unlock automatically if you input a correct PIN. This is slightly less secure than tapping Enter to confirm.</string>
+    <string name="lock_screen_auto_pin_confirm_summary_custom">Odemknout automaticky po zadání správného PINu. Toto je o trochu méně bezpečné než klepnutí na tlačítko Enter pro potvrzení PINu.</string>
     <!-- Cycle through ringer modes gesture -->
-    <string name="prevent_ringing_option_cycle">Cycle through modes</string>
-    <string name="prevent_ringing_option_cycle_summary">On (cycle through modes)</string>
+    <string name="prevent_ringing_option_cycle">Procházet režimy</string>
+    <string name="prevent_ringing_option_cycle_summary">Zap. (přepínání mezi režimy)</string>
     <!-- Three-fingers-swipe to screenshot -->
     <string name="three_finger_gesture">Snímek obrazovky třemi prsty</string>
     <string name="three_finger_gesture_summary">Snímek obrazovky přejetím dolů třemi prsty</string>
     <!-- Smart 5G -->
-    <string name="smart_5g_title">Smart 5G</string>
-    <string name="smart_5g_summary">Automatically switch between 5G and 4G to reduce battery consumption</string>
+    <string name="smart_5g_title">Chytré 5G</string>
+    <string name="smart_5g_summary">Automatické přepnutí mezi 5G a 4G ke snížení spotřeby baterie</string>
     <!-- Ignore window secure -->
     <string name="ignore_window_secure_title">Ignorovat příznaky zabezpečení oken</string>
     <string name="ignore_window_secure_summary">Odstranění omezení pro pořizování snímků obrazovky a záznamů obrazovky pro všechny aplikace. To může být v některých případech výhodné, ale může to vést k úniku soukromí.</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
-    <string name="duration_less_than_one_minute">Less than 1 Minute</string>
+    <string name="duration_less_than_one_minute">Méně než 1 minuta</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
     <string name="screen_time_summary_usage_today">Dnes %1$s</string>
     <!-- Charging control settings -->
-    <string name="charging_control_title">Charging control</string>
-    <string name="charging_control_summary">Customize charging schedule and limits for battery</string>
-    <string name="charging_control_enable_title">Enable charging control</string>
-    <string name="charging_control_mode_title">Charging mode</string>
-    <string name="charging_control_mode_auto_title">Automatic schedule</string>
-    <string name="charging_control_mode_auto_summary">Automatically determine when to start charging based on alarms set</string>
-    <string name="charging_control_mode_custom_title">Custom schedule</string>
-    <string name="charging_control_mode_custom_summary">Set a target time to full charge</string>
-    <string name="charging_control_mode_limit_title">Limit charging</string>
-    <string name="charging_control_mode_limit_summary">Limit charging to a certain percentage</string>
-    <string name="charging_control_start_time_title">Start time</string>
-    <string name="charging_control_start_time_summary">Charging control activates when you start charging after %s</string>
-    <string name="charging_control_target_time_title">Target time to full charge</string>
-    <string name="charging_control_target_time_summary">Battery will be fully charged by %s</string>
+    <string name="charging_control_title">Řízení nabíjení</string>
+    <string name="charging_control_summary">Přizpůsobte si plán nabíjení a limity pro vaše zařízení</string>
+    <string name="charging_control_enable_title">Povolit ovládání nabíjení</string>
+    <string name="charging_control_mode_title">Režim nabíjení</string>
+    <string name="charging_control_mode_auto_title">Automatický plán</string>
+    <string name="charging_control_mode_auto_summary">Automatické určení začátku nabíjení na základě nastavených budíků</string>
+    <string name="charging_control_mode_custom_title">Vlastní plán</string>
+    <string name="charging_control_mode_custom_summary">Nastavit cílový čas do úplného nabití</string>
+    <string name="charging_control_mode_limit_title">Omezit nabíjení</string>
+    <string name="charging_control_mode_limit_summary">Omezit nabíjení na určité procento</string>
+    <string name="charging_control_start_time_title">Čas zahájení</string>
+    <string name="charging_control_start_time_summary">Ovládání nabíjení se aktivuje při zahájení nabíjení po %s</string>
+    <string name="charging_control_target_time_title">Čas do plného nabití</string>
+    <string name="charging_control_target_time_summary">Baterie bude plně nabita do %s</string>
     <string name="charging_control_limit_title">Limit</string>
-    <string name="reset">Reset</string>
+    <string name="reset">Resetovat</string>
     <!-- High touch sensitivity -->
     <string name="high_touch_sensitivity_title">Vysoká citlivost dotyku</string>
     <string name="high_touch_sensitivity_summary">Zvýšení citlivosti dotykové vrstvy, což umožňuje používání v rukavicích</string>
@@ -117,11 +117,11 @@
     <string name="power_button_torch_title">Rychlá svítilna</string>
     <string name="power_button_torch_summary">Když je obrazovka vypnutá, dlouhým stiskem tlačítka napájení zapnete svítilnu</string>
     <!-- Refresh rate -->
-    <string name="refresh_rate_title">Refresh rate</string>
+    <string name="refresh_rate_title">Obnovovací frekvence</string>
     <string name="refresh_rate_summary_vrr_off">%d Hz</string>
-    <string name="refresh_rate_summary_vrr_on">%d Hz (Adaptive)</string>
-    <string name="refresh_rate_vrr_title">Adaptive refresh rate</string>
-    <string name="refresh_rate_vrr_summary">Automatically lower the refresh rate when the display is idle, to save power. May cause flickering or color shift on certain displays</string>
+    <string name="refresh_rate_summary_vrr_on">%d Hz (Adaptivní)</string>
+    <string name="refresh_rate_vrr_title">Adaptivní obnovovací frekvence</string>
+    <string name="refresh_rate_vrr_summary">Automaticky snížit obnovovací frekvenci, když je displej neaktivní, šetřit energii. Může způsobit blikání nebo posun barev na určitých displejích</string>
     <string name="refresh_rate_footer">A higher refresh rate makes the display smoother, but increases power consumption</string>
     <string name="keywords_refresh_rate">refresh, rate, smooth, peak, 60hz, 90hz, 120hz, 144hz, 165hz</string>
     <!-- Battery saver refresh rate -->
@@ -240,4 +240,18 @@
     <!-- Power menu on secure lockscreen -->
     <string name="lockscreen_enable_power_menu_title">Power menu</string>
     <string name="lockscreen_enable_power_menu_summary">Allow accessing power menu on secure lockscreen</string>
+    <!-- Incall vibrate options -->
+    <string name="incall_vibration_category">Možnosti vibrací během hovoru</string>
+    <string name="incall_vibrate_connect_title">Zavibrovat při spojení</string>
+    <string name="incall_vibrate_call_wait_title">Zavibrovat při dalším hovoru</string>
+    <string name="incall_vibrate_disconnect_title">Zavibrovat při zavěšení</string>
+    <!-- Annoying Notifications -->
+    <string name="notification_sound_vib_screen_on_title">Obtěžující oznámení</string>
+    <string name="notification_sound_vib_screen_on_summary">Přehrát zvuk a vibrovat při přijetí oznámení, když je obrazovka zapnutá</string>
+    <!-- One shot automatic brightness -->
+    <string name="auto_brightness_one_shot_title">One shot auto-brightness</string>
+    <string name="auto_brightness_one_shot_summary">Brightness adjustment will only occur at the moment the screen is turned on</string>
+    <!-- Volume button music control -->
+    <string name="volume_button_music_control_title">Playback control</string>
+    <string name="volume_button_music_control_summary">When the screen is off, long-pressing volume keys will skip music tracks</string>
 </resources>
