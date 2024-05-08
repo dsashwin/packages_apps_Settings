@@ -253,5 +253,5 @@
     <string name="auto_brightness_one_shot_summary">Регулювання яскравості відбудеться лише в той момент, коли екран увімкнений</string>
     <!-- Volume button music control -->
     <string name="volume_button_music_control_title">Керування відтворенням медіа</string>
-    <string name="volume_button_music_control_summary">When the screen is off, long-pressing volume keys will skip music tracks</string>
+    <string name="volume_button_music_control_summary">Коли пристрій у режимі сну, утримування кнопок гучності перемикатиме композиції</string>
 </resources>
