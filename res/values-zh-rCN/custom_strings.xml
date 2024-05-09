@@ -249,8 +249,8 @@
     <string name="notification_sound_vib_screen_on_title">恼人通知</string>
     <string name="notification_sound_vib_screen_on_summary">当屏幕开启时播放声音和振动通知</string>
     <!-- One shot automatic brightness -->
-    <string name="auto_brightness_one_shot_title">单次自动调节亮度</string>
-    <string name="auto_brightness_one_shot_summary">亮度调整只会在打开屏幕的那一刻进行</string>
+    <string name="auto_brightness_one_shot_title">单次调节自适应亮度</string>
+    <string name="auto_brightness_one_shot_summary">仅在点亮屏幕的那一刻调节一次亮度</string>
     <!-- Volume button music control -->
     <string name="volume_button_music_control_title">媒体播放控制</string>
     <string name="volume_button_music_control_summary">屏幕关闭时，长按音量键将跳过音乐曲目</string>
