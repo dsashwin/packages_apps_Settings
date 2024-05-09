@@ -253,5 +253,5 @@
     <string name="auto_brightness_one_shot_summary">O ajuste de brilho ocorrerá somente no momento em que a tela for ligada</string>
     <!-- Volume button music control -->
     <string name="volume_button_music_control_title">Controle de reprodução</string>
-    <string name="volume_button_music_control_summary">When the screen is off, long-pressing volume keys will skip music tracks</string>
+    <string name="volume_button_music_control_summary">Quando a tela está desligada, manter pressionadas as teclas de volume irá pular as faixas de música</string>
 </resources>
