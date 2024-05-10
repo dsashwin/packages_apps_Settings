@@ -1,0 +1,97 @@
+diff --git a/res/values/custom_strings.xml b/res/values/custom_strings.xml
+index 8fff7ef8c55..f4d92633f9b 100644
+--- a/res/values/custom_strings.xml
++++ b/res/values/custom_strings.xml
+@@ -217,7 +217,6 @@
+ 
+     <!-- Battery Info: Technology -->
+     <string name="battery_technology">Technology</string>
+-    <string name="battery_technology_not_available">@string/battery_cycle_count_not_available</string>
+ 
+     <!-- Battery Info: Health -->
+     <string name="battery_health">Health</string>
+@@ -231,11 +230,9 @@
+ 
+     <!-- Battery Info: Temperature -->
+     <string name="battery_temperature">Temperature</string>
+-    <string name="battery_temperature_not_available">@string/battery_cycle_count_not_available</string>
+ 
+     <!-- Battery Info: Voltage -->
+     <string name="battery_voltage">Voltage</string>
+-    <string name="battery_voltage_not_available">@string/battery_cycle_count_not_available</string>
+ 
+     <!-- Battery Info: Charge Counter -->
+     <string name="battery_charge_counter_summary" translatable="false">%1$d mAh</string>
+@@ -243,12 +240,10 @@
+     <!-- Battery Info: Design Capacity -->
+     <string name="battery_design_capacity">Design capacity</string>
+     <string name="battery_design_capacity_summary" translatable="false">%1$d mAh</string>
+-    <string name="battery_design_capacity_not_available">@string/battery_cycle_count_not_available</string>
+ 
+     <!-- Battery Info: Maximum Capacity -->
+     <string name="battery_maximum_capacity">Maximum capacity</string>
+     <string name="battery_maximum_capacity_summary" translatable="false">%1$d mAh (%2$d%%)</string>
+-    <string name="battery_maximum_capacity_not_available">@string/battery_cycle_count_not_available</string>
+ 
+     <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
+     <string name="ambient_display_screen_off_udfps_title">Always on Fingerprint</string>
+diff --git a/src/com/android/settings/deviceinfo/batteryinfo/BatteryDesignCapacityPreferenceController.java b/src/com/android/settings/deviceinfo/batteryinfo/BatteryDesignCapacityPreferenceController.java
+index ab40d30607c..ae6daa51577 100644
+--- a/src/com/android/settings/deviceinfo/batteryinfo/BatteryDesignCapacityPreferenceController.java
++++ b/src/com/android/settings/deviceinfo/batteryinfo/BatteryDesignCapacityPreferenceController.java
+@@ -49,6 +49,6 @@ public class BatteryDesignCapacityPreferenceController extends BasePreferenceCon
+             return mContext.getString(R.string.battery_design_capacity_summary, designCapacity);
+         }
+ 
+-        return mContext.getString(R.string.battery_design_capacity_not_available);
++        return mContext.getString(R.string.battery_cycle_count_not_available);
+     }
+ }
+diff --git a/src/com/android/settings/deviceinfo/batteryinfo/BatteryMaximumCapacityPreferenceController.java b/src/com/android/settings/deviceinfo/batteryinfo/BatteryMaximumCapacityPreferenceController.java
+index 186945efde8..e4246ac98b7 100644
+--- a/src/com/android/settings/deviceinfo/batteryinfo/BatteryMaximumCapacityPreferenceController.java
++++ b/src/com/android/settings/deviceinfo/batteryinfo/BatteryMaximumCapacityPreferenceController.java
+@@ -55,6 +55,6 @@ public class BatteryMaximumCapacityPreferenceController extends BasePreferenceCo
+                     R.string.battery_maximum_capacity_summary, maxCapacity, percentage);
+         }
+ 
+-        return mContext.getString(R.string.battery_maximum_capacity_not_available);
++        return mContext.getString(R.string.battery_cycle_count_not_available);
+     }
+ }
+diff --git a/src/com/android/settings/deviceinfo/batteryinfo/BatteryTechnologyPreferenceController.java b/src/com/android/settings/deviceinfo/batteryinfo/BatteryTechnologyPreferenceController.java
+index d9c42511cdf..26158ff6266 100644
+--- a/src/com/android/settings/deviceinfo/batteryinfo/BatteryTechnologyPreferenceController.java
++++ b/src/com/android/settings/deviceinfo/batteryinfo/BatteryTechnologyPreferenceController.java
+@@ -45,6 +45,6 @@ public class BatteryTechnologyPreferenceController extends BasePreferenceControl
+ 
+         return technology != null
+                 ? technology
+-                : mContext.getText(R.string.battery_technology_not_available);
++                : mContext.getText(R.string.battery_cycle_count_not_available);
+     }
+ }
+diff --git a/src/com/android/settings/deviceinfo/batteryinfo/BatteryTemperaturePreferenceController.java b/src/com/android/settings/deviceinfo/batteryinfo/BatteryTemperaturePreferenceController.java
+index 8049f325114..47910d9bd0d 100644
+--- a/src/com/android/settings/deviceinfo/batteryinfo/BatteryTemperaturePreferenceController.java
++++ b/src/com/android/settings/deviceinfo/batteryinfo/BatteryTemperaturePreferenceController.java
+@@ -56,6 +56,6 @@ public class BatteryTemperaturePreferenceController extends BasePreferenceContro
+                     .format(new Measure(temperature, MeasureUnit.CELSIUS));
+         }
+ 
+-        return mContext.getText(R.string.battery_temperature_not_available);
++        return mContext.getText(R.string.battery_cycle_count_not_available);
+     }
+ }
+diff --git a/src/com/android/settings/deviceinfo/batteryinfo/BatteryVoltagePreferenceController.java b/src/com/android/settings/deviceinfo/batteryinfo/BatteryVoltagePreferenceController.java
+index 0fc408f4ec2..5371b2bd899 100644
+--- a/src/com/android/settings/deviceinfo/batteryinfo/BatteryVoltagePreferenceController.java
++++ b/src/com/android/settings/deviceinfo/batteryinfo/BatteryVoltagePreferenceController.java
+@@ -55,6 +55,6 @@ public class BatteryVoltagePreferenceController extends BasePreferenceController
+                     .format(new Measure(voltage, MeasureUnit.VOLT));
+         }
+ 
+-        return mContext.getText(R.string.battery_voltage_not_available);
++        return mContext.getText(R.string.battery_cycle_count_not_available);
+     }
+ }
