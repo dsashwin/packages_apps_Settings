@@ -12,7 +12,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Status bar Icon Manager -->
-    <string name="icon_manager_title">Icon manager</string>
+    <string name="icon_manager_title">状态栏图标管理</string>
     <string name="icon_manager_summary">控制状态栏图标的可见性</string>
     <!-- General -->
     <string name="copied_to_clipboard">已复制到剪贴板</string>
