@@ -12,7 +12,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Status bar Icon Manager -->
-    <string name="icon_manager_title">Icon manager</string>
+    <string name="icon_manager_title">Quản lý biểu tượng</string>
     <string name="icon_manager_summary">Điều chỉnh các biểu tượng trên thanh trạng thái</string>
     <!-- General -->
     <string name="copied_to_clipboard">Đã sao chép vào khay nhớ tạm</string>
