@@ -261,8 +261,8 @@
     <string name="display_rotation_180_title">180 μοίρες</string>
     <string name="display_rotation_270_title">270 μοίρες</string>
     <!-- Force LTE_CA -->
-    <string name="force_lte_ca">Force LTE CA</string>
-    <string name="force_lte_ca_summary">Force LTE carrier aggregation to work</string>
+    <string name="force_lte_ca">Εξαναγκασμός LTE CA</string>
+    <string name="force_lte_ca_summary">Εξαναγκασμός της συγκέντρωσης μεταφορέων LTE να λειτουργήσει</string>
     <!-- Notification sound timeout -->
     <string name="app_notification_sound_timeout_title">Ελάχιστος χρόνος μεταξύ ήχων ειδοποίησης</string>
     <string name="app_notification_sound_timeout_summary_template">Να επιτρέπονται ήχοι ή δονήσεις όχι περισσότερο από μία φορά κάθε <xliff:g id="duration">%1$s</xliff:g></string>
@@ -271,6 +271,6 @@
     <string name="app_notification_sound_timeout_value_30_seconds">30 δευτερόλεπτα</string>
     <string name="app_notification_sound_timeout_value_1_minute">1 λεπτό</string>
     <string name="app_notification_sound_timeout_value_5_minutes">5 λεπτά</string>
-    <string name="app_notification_sound_timeout_value_15_minutes">15 minutes</string>
+    <string name="app_notification_sound_timeout_value_15_minutes">15 λεπτά</string>
     <string name="app_notification_sound_timeout_value_30_minutes">30 λεπτά</string>
 </resources>
