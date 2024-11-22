@@ -178,10 +178,10 @@
     <string name="hide_navbar_gesture_bar_title">Skrýt lištu gest</string>
     <string name="hide_navbar_gesture_bar_summary">Skrýt lištu gest v dolní části obrazovky</string>
     <!-- Network traffic -->
-    <string name="network_traffic_state_title">Indikátor síťového provozu</string>
-    <string name="network_traffic_state_summary">Zapnout nebo vypnout indikátory rychlosti sítě ve stavovém řádku</string>
-    <string name="network_traffic_title">Indikátor síťového provozu</string>
-    <string name="network_traffic_master_switch_title">Použít indikátor síťového provozu</string>
+    <string name="network_traffic_state_title">Monitor síťového provozu</string>
+    <string name="network_traffic_state_summary">Zapnout nebo vypnout monitor rychlosti sítě ve stavovém řádku</string>
+    <string name="network_traffic_title">Monitor síťového provozu</string>
+    <string name="network_traffic_master_switch_title">Použít monitor síťového provozu</string>
     <string name="network_options_title">Možnosti</string>
     <string name="network_traffic_autohide_title">Skrýt indikátor síťového provozu při neaktivitě</string>
     <string name="network_traffic_autohide_summary">Skrýt indikátor síťového provozu, když je stahování nižší než 1 KB/s</string>
