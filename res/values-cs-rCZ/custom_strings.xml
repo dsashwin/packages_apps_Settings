@@ -183,8 +183,8 @@
     <string name="network_traffic_title">Monitor síťového provozu</string>
     <string name="network_traffic_master_switch_title">Použít monitor síťového provozu</string>
     <string name="network_options_title">Možnosti</string>
-    <string name="network_traffic_autohide_title">Skrýt indikátor síťového provozu při neaktivitě</string>
-    <string name="network_traffic_autohide_summary">Skrýt indikátor síťového provozu, když je stahování nižší než 1 KB/s</string>
+    <string name="network_traffic_autohide_title">Skrýt monitor síťového provozu při neaktivitě</string>
+    <string name="network_traffic_autohide_summary">Skrýt monitor síťového provozu, když je rychlost nižší než 1 KB/s</string>
     <!-- Battery Info: Technology -->
     <string name="battery_technology">Technologie</string>
     <!-- Battery Info: Health -->
